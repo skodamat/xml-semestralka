@@ -1,8 +1,8 @@
 # xml-semestralka
 Semestrálni práce na BI-XML
 
-Martin Scheubrein - Equitorial Guinea, Kyrgyzstan - ePub  
-Matouš Škoda - Brazil, Chile - xslt pro html  
-Marek Bělohoubek - Israel, Ireland - DTD + RelaxNG   
-Matyáš Procházka - Montserrat, Oman - parser pro data ze stranek  
-Tomáš Pospíšil - Cuba, Egypt - transformace do pdf  
+<b>Martin Scheubrein</b> - Equitorial Guinea, Kyrgyzstan - ePub  
+<b>Matouš Škoda</b> - Brazil, Chile - xslt pro html  
+<b>Marek Bělohoubek</b> - Israel, Ireland - DTD + RelaxNG   
+<b>Matyáš Procházka</b> - Montserrat, Oman - parser pro data ze stranek  
+<b>Tomáš Pospíšil</b> - Cuba, Egypt - transformace do pdf  
