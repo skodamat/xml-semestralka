@@ -1,2 +1,2 @@
 # xml-semestralka
-Semestralni prace na BI-XML
+Semestrálni práce na BI-XML
