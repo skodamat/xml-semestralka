@@ -1,0 +1,748 @@
+<region id="kyrgyzstan" name="Kyrgyzstan">
+    <section name="Introduction">
+        <subsection name="Background">
+            <data>A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of the present-day Kyrgyz Republic was formally annexed to the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. The Kyrgyz Republic became a Soviet republic in 1936 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Rosa OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyz president to step down after serving one full six-year term as required in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member Sooronbai JEENBEKOV replaced him after winning an October 2017 presidential election that was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. The president holds substantial powers as head of state even though the prime minister oversees the Kyrgyz Government and selects most cabinet members. The president represents the country internationally and can sign or veto laws, call for new elections, and nominate Supreme Court judges, cabinet members for posts related to security or defense, and numerous other high-level positions. Continuing concerns for the Kyrgyz Republic include the trajectory of democratization, endemic corruption, a history of tense, at times violent, interethnic relations, border security vulnerabilities, and potential terrorist threats.</data>
+        </subsection>
+    </section>
+    <section name="Geography">
+        <subsection name="Location">
+            <data>Central Asia, west of China, south of Kazakhstan</data>
+        </subsection>
+        <subsection name="Geographic coordinates">
+            <data>41 00 N, 75 00 E</data>
+        </subsection>
+        <subsection name="Map references">
+            <data>Asia</data>
+        </subsection>
+        <subsection name="Area">
+            <data name="total">199,951 sq km</data>
+            <data name="land">191,801 sq km</data>
+            <data name="water">8,150 sq km</data>
+            <data name="country comparison to the world">88</data>
+        </subsection>
+        <subsection name="Area - comparative">
+            <data>slightly smaller than South Dakota</data>
+        </subsection>
+        <subsection name="Land boundaries">
+            <data name="total">4,573 km</data>
+            <data name="border countries (4)">China 1,063 km, Kazakhstan 1,212 km, Tajikistan 984 km, Uzbekistan 1,314 km</data>
+        </subsection>
+        <subsection name="Coastline">
+            <data>0 km (landlocked)</data>
+        </subsection>
+        <subsection name="Maritime claims">
+            <data>none (landlocked)</data>
+        </subsection>
+        <subsection name="Climate">
+            <data>dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone</data>
+        </subsection>
+        <subsection name="Terrain">
+            <data>peaks of the Tien Shan mountain range and associated valleys and basins encompass the entire country</data>
+        </subsection>
+        <subsection name="Elevation">
+            <data name="mean elevation">2,988 m</data>
+            <data name="elevation extremes">lowest point: Kara-Daryya (Karadar'ya) 132 m</data>
+            <data>highest point: Jengish Chokusu (Pik Pobedy) 7,439 m</data>
+        </subsection>
+        <subsection name="Natural resources">
+            <data>abundant hydropower; gold, rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc</data>
+        </subsection>
+        <subsection name="Land use">
+            <data name="agricultural land">55.4%</data>
+            <data>arable land 6.7%; permanent crops 0.4%; permanent pasture 48.3%</data>
+            <data name="forest">5.1%</data>
+            <data name="other">39.5% (2011 est.)</data>
+        </subsection>
+        <subsection name="Irrigated land">
+            <data>10,233 sq km (2012)</data>
+        </subsection>
+        <subsection name="Population - distribution">
+            <data>the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains</data>
+        </subsection>
+        <subsection name="Natural hazards">
+            <data>major flooding during snow melt; prone to earthquakes</data>
+        </subsection>
+        <subsection name="Environment - current issues">
+            <data>water pollution; many people get their water directly from contaminated streams and wells; as a result, water-borne diseases are prevalent; increasing soil salinity from faulty irrigation practices; air pollution due to rapid increase of traffic</data>
+        </subsection>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands</data>
+            <data name="signed, but not ratified">none of the selected agreements</data>
+        </subsection>
+        <subsection name="Geography - note">
+            <data>landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes</data>
+        </subsection>
+    </section>
+    <section name="People and Society">
+        <subsection name="Population">
+            <data>5,789,122 (July 2017 est.)</data>
+            <data name="country comparison to the world">114</data>
+        </subsection>
+        <subsection name="Nationality">
+            <data name="noun">Kyrgyzstani(s)</data>
+            <data name="adjective">Kyrgyzstani</data>
+        </subsection>
+        <subsection name="Ethnic groups">
+            <data>Kyrgyz 73.2%, Uzbek 14.6%, Russian 5.8%, Dungan 1.1%, other 5.3% (includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German) (2017 est.)</data>
+        </subsection>
+        <subsection name="Languages">
+            <data>Kyrgyz (official) 71.4%, Uzbek 14.4%, Russian (official) 9%, other 5.2% (2009 est.)</data>
+        </subsection>
+        <subsection name="Religions">
+            <data>Muslim 75%, Russian Orthodox 20%, other 5%</data>
+        </subsection>
+        <subsection name="Age structure">
+            <data name="0-14 years">30.3% (male 899,545/female 854,745)</data>
+            <data name="15-24 years">16.79% (male 493,924/female 478,217)</data>
+            <data name="25-54 years">39.84% (male 1,130,422/female 1,175,729)</data>
+            <data name="55-64 years">7.8% (male 196,856/female 254,694)</data>
+            <data name="65 years and over">5.27% (male 116,584/female 188,406) (2017 est.)</data>
+        </subsection>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">54.7</data>
+            <data name="youth dependency ratio">48.1</data>
+            <data name="elderly dependency ratio">6.6</data>
+            <data name="potential support ratio">15.1 (2015 est.)</data>
+        </subsection>
+        <subsection name="Median age">
+            <data name="total">26.5 years</data>
+            <data name="male">25.4 years</data>
+            <data name="female">27.6 years (2017 est.)</data>
+            <data name="country comparison to the world">147</data>
+        </subsection>
+        <subsection name="Population growth rate">
+            <data>1.05% (2017 est.)</data>
+            <data name="country comparison to the world">107</data>
+        </subsection>
+        <subsection name="Birth rate">
+            <data>22.1 births/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">72</data>
+        </subsection>
+        <subsection name="Death rate">
+            <data>6.5 deaths/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">143</data>
+        </subsection>
+        <subsection name="Net migration rate">
+            <data>-5.1 migrant(s)/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">192</data>
+        </subsection>
+        <subsection name="Population distribution">
+            <data>the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains</data>
+        </subsection>
+        <subsection name="Urbanization">
+            <data name="urban population">36.4% of total population (2018)</data>
+            <data name="rate of urbanization">2.03% annual rate of change (2015-20 est.)</data>
+        </subsection>
+        <subsection name="Major urban areas - population">
+            <data>BISHKEK (capital) 996,000 (2018)</data>
+        </subsection>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.06 male(s)/female</data>
+            <data name="0-14 years">1.05 male(s)/female</data>
+            <data name="15-24 years">1.03 male(s)/female</data>
+            <data name="25-54 years">0.96 male(s)/female</data>
+            <data name="55-64 years">0.77 male(s)/female</data>
+            <data name="65 years and over">0.62 male(s)/female</data>
+            <data name="total population">0.96 male(s)/female (2017 est.)</data>
+        </subsection>
+        <subsection name="Mother's mean age at first birth">
+            <data>23.2 years (2014 est.)</data>
+        </subsection>
+        <subsection name="Maternal mortality ratio">
+            <data>76 deaths/100,000 live births (2015 est.)</data>
+            <data name="country comparison to the world">82</data>
+        </subsection>
+        <subsection name="Infant mortality rate">
+            <data name="total">25.9 deaths/1,000 live births</data>
+            <data name="male">30 deaths/1,000 live births</data>
+            <data name="female">21.5 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">70.9 years</data>
+            <data name="male">66.8 years</data>
+            <data name="female">75.4 years (2017 est.)</data>
+            <data name="country comparison to the world">156</data>
+        </subsection>
+        <subsection name="Total fertility rate">
+            <data>2.61 children born/woman (2017 est.)</data>
+            <data name="country comparison to the world">76</data>
+        </subsection>
+        <subsection name="Contraceptive prevalence rate">
+            <data>42% (2014)</data>
+        </subsection>
+        <subsection name="Health expenditures">
+            <data>6.5% of GDP (2014)</data>
+            <data name="country comparison to the world">91</data>
+        </subsection>
+        <subsection name="Physicians density">
+            <data>1.85 physicians/1,000 population (2014)</data>
+        </subsection>
+        <subsection name="Hospital bed density">
+            <data>4.5 beds/1,000 population (2013)</data>
+        </subsection>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
+            <data>urban: 96.7% of population</data>
+            <data>rural: 86.2% of population</data>
+            <data>total: 90% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 3.3% of population</data>
+            <data>rural: 13.8% of population</data>
+            <data>total: 10% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
+            <data>urban: 89.1% of population</data>
+            <data>rural: 95.6% of population</data>
+            <data>total: 93.3% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 10.9% of population</data>
+            <data>rural: 4.4% of population</data>
+            <data>total: 6.7% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="HIV/AIDS - adult prevalence rate">
+            <data>0.2% (2017 est.)</data>
+            <data name="country comparison to the world">91</data>
+        </subsection>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
+            <data>7,600 (2017 est.)</data>
+            <data name="country comparison to the world">100</data>
+        </subsection>
+        <subsection name="HIV/AIDS - deaths">
+            <data>&lt;500 (2017 est.)</data>
+        </subsection>
+        <subsection name="Obesity - adult prevalence rate">
+            <data>16.6% (2016)</data>
+            <data name="country comparison to the world">121</data>
+        </subsection>
+        <subsection name="Children under the age of 5 years underweight">
+            <data>2.8% (2014)</data>
+            <data name="country comparison to the world">101</data>
+        </subsection>
+        <subsection name="Education expenditures">
+            <data>6% of GDP (2015)</data>
+            <data name="country comparison to the world">25</data>
+        </subsection>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">99.5%</data>
+            <data name="male">99.6%</data>
+            <data name="female">99.4% (2015 est.)</data>
+        </subsection>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">13 years</data>
+            <data name="male">13 years</data>
+            <data name="female">13 years (2014)</data>
+        </subsection>
+        <subsection name="Unemployment, youth ages 15-24">
+            <data name="total">15.5%</data>
+            <data name="male">12.7%</data>
+            <data name="female">20.6% (2016 est.)</data>
+            <data name="country comparison to the world">88</data>
+        </subsection>
+    </section>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">Kyrgyz Republic</data>
+            <data name="conventional short form">Kyrgyzstan</data>
+            <data name="local long form">Kyrgyz Respublikasy</data>
+            <data name="local short form">Kyrgyzstan</data>
+            <data name="former">Kirghiz Soviet Socialist Republic</data>
+            <data name="etymology">a combination of the Turkic words "kyrg" (forty) and "-yz" (tribes) with the Persian suffix "-stan" (country) creating the meaning "Land of the Forty Tribes"; the name refers to the forty clans united by the legendary Kyrgyz hero, MANAS</data>
+        </subsection>
+        <subsection name="Government type">
+            <data>parliamentary republic</data>
+        </subsection>
+        <subsection name="Capital">
+            <data name="name">Bishkek</data>
+            <data name="geographic coordinates">42 52 N, 74 36 E</data>
+            <data name="time difference">UTC+6 (11 hours ahead of Washington, DC, during Standard Time)</data>
+        </subsection>
+        <subsection name="Administrative divisions">
+            <data>7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)</data>
+            <data name="note">administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)</data>
+        </subsection>
+        <subsection name="Independence">
+            <data>31 August 1991 (from the Soviet Union)</data>
+        </subsection>
+        <subsection name="National holiday">
+            <data>Independence Day, 31 August (1991)</data>
+        </subsection>
+        <subsection name="Constitution">
+            <data name="history">previous 1993; latest adopted by referendum 27 June 2010, effective 2 July 2010; note - constitutional amendments that bolstered some presidential powers and transferred others from the president to the prime minister passed in a referendum in December 2016, effective December 2017</data>
+            <data name="amendments">proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two-thirds of the Council membership; adoption requires the signature of the president; amended 2017 (2018)</data>
+        </subsection>
+        <subsection name="Legal system">
+            <data>civil law system, which includes features of French civil law and Russian Federation laws</data>
+        </subsection>
+        <subsection name="International law organization participation">
+            <data>has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</data>
+        </subsection>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">no</data>
+            <data name="citizenship by descent only">at least one parent must be a citizen of Kyrgyzstan</data>
+            <data name="dual citizenship recognized">yes, but only if a mutual treaty on dual citizenship is in force</data>
+            <data name="residency requirement for naturalization">5 years</data>
+        </subsection>
+        <subsection name="Suffrage">
+            <data>18 years of age; universal</data>
+        </subsection>
+        <subsection name="Executive branch">
+            <data name="chief of state">President Sooronbay JEENBEKOV (since 24 November 2017)</data>
+            <data name="head of government">Prime Minister Mukhammedkalyy ABYLGAZIEV (since 20 April 2018); First Deputy Prime Minister Kubatbek BORONOV (since 20 April 2018); Deputy Prime Minister Jengish RAZAKOV (since 20 April 2018); Deputy Prime Minister Altynay OMURBEKOVA (since 20 April 2018); Deputy Prime Minister Zamirbek ASKAROV (since 20 April 2018)</data>
+            <data name="cabinet">Cabinet of Ministers proposed by the prime minister, appointed by the president upon approval by the Supreme Council; defense and security committee chairs appointed by the president</data>
+            <data name="elections/appointments">president directly elected by absolute majority popular vote in 2 rounds if needed for a single 6-year term; election last held on 15 October 2017 (next to be held in October 2023); prime minister nominated by the majority party or majority coalition in the Supreme Council, appointed by the president upon approval by the Supreme Council</data>
+            <data name="election results">Sooronbay JEENBEKOV elected president in first round; percent of vote - Sooronbay JEENBEKOV (SDPK) 54.2%, Omurbek BABANOV (Respublika) 33.5%, Adakhan MADUMAROV (Butun Kyrgyzstan) 6.6%, Temir SARIYEV (Akshumar) 2.5%, other 3.2%; note - Sapar ISAKOV elected prime minister; Supreme Council vote - 97 to 5</data>
+        </subsection>
+        <subsection name="Legislative branch">
+            <data name="description">unicameral Supreme Council or Jogorku Kenesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists to serve 5-year terms)</data>
+            <data name="elections">last held on 4 October 2015 (next to be held in 2020)</data>
+            <data name="election results">percent of vote by party - SDPK 27.4%, Respublika-Ata-Jurt 20.1%, Kyrgyzstan Party 12.9%, Onuguu-Progress 9.3%, Bir Bol 8.5%, Ata-Meken 7.7%, other 14.1%; seats by party - SDPK 38, Respublika-Ata-Jurt 28, Kyrgyzstan Party 18, Onuguu-Progress 13, Bir Bol 12, Ata-Meken 11; composition - men 97, women 23, percent of women 19.2%</data>
+        </subsection>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)</data>
+            <data name="judge selection and term of office">Supreme Court and Constitutional Court judges appointed by the Supreme Council on the recommendation of the president; Supreme Court judges serve for 10 years, Constitutional Court judges serve for 15 years; mandatory retirement at age 70 for judges of both courts</data>
+            <data name="subordinate courts">Higher Court of Arbitration; oblast (provincial) and city courts</data>
+        </subsection>
+        <subsection name="Political parties and leaders">
+            <data>Ata-Jurt (Homeland) [Kamchybek TASHIEV]</data>
+            <data>Ata-Meken (Fatherland) [Omurbek TEKEBAEV]</data>
+            <data>Bir Bol (Stay United) [Altynbek SULAIMANOV]</data>
+            <data>Butun Kyrgyzstan (United Kyrgyzstan) [Adakhan MADUMAROV]</data>
+            <data>Kyrgyzstan Party [Almazbek BAATYRBEKOV]</data>
+            <data>Onuguu-Progress [Bakyt TOROBAEV]</data>
+            <data>Respublika (Republic) [Ruslan KAZAKBAEV]</data>
+            <data>Respublika-Ata-Jurt (Republic-Homeland) [Ruslan KAZAKBAEV] (parliamentary faction)</data>
+            <data>Social-Democratic Party of Kyrgyzstan or SDPK [Almazbek ATAMBAEV]</data>
+        </subsection>
+        <subsection name="International organization participation">
+            <data>ADB, CICA, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
+        </subsection>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Kadyr TOKTOGULOV (since 23 February 2015)</data>
+            <data name="chancery">2360 Massachusetts Ave. NW, Washington, DC 20008</data>
+            <data name="telephone">[1] (202) 449-9822</data>
+            <data name="FAX">[1] (202) 449-8275</data>
+            <data name="honorary consulate(s)">Maple Valley, WA</data>
+        </subsection>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador (vacant); Charge d'Affaires Alan MELTZER (since 4 August 2017)</data>
+            <data name="embassy">171 Prospect Mira, Bishkek 720016</data>
+            <data name="mailing address">use embassy street address</data>
+            <data name="telephone">[996] (312) 597-000</data>
+            <data name="FAX">[996] (312) 597-744</data>
+        </subsection>
+        <subsection name="Flag description">
+            <data>red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a "tunduk" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth</data>
+        </subsection>
+        <subsection name="National symbol(s)">
+            <data>white falcon; national colors: red, yellow</data>
+        </subsection>
+        <subsection name="National anthem">
+            <data name="name">"Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)</data>
+            <data name="lyrics/music">Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV</data>
+            <data name="note">adopted 1992</data>
+        </subsection>
+    </section>
+    <section name="Economy">
+        <subsection name="Economy - overview">
+            <data>Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.</data>
+            <data>Following independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.</data>
+            <data>Kyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.</data>
+        </subsection>
+        <subsection name="GDP (purchasing power parity)">
+            <data>$22.97 billion (2017 est.)</data>
+            <data>$22.12 billion (2016 est.)</data>
+            <data>$21.3 billion (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">144</data>
+        </subsection>
+        <subsection name="GDP (official exchange rate)">
+            <data>$7.163 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - real growth rate">
+            <data>4.5% (2017 est.)</data>
+            <data>3.8% (2016 est.)</data>
+            <data>3.9% (2015 est.)</data>
+            <data name="country comparison to the world">60</data>
+        </subsection>
+        <subsection name="GDP - per capita (PPP)">
+            <data>$3,700 (2017 est.)</data>
+            <data>$3,600 (2016 est.)</data>
+            <data>$3,500 (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">185</data>
+        </subsection>
+        <subsection name="Gross national saving">
+            <data>25.4% of GDP (2017 est.)</data>
+            <data>20.8% of GDP (2016 est.)</data>
+            <data>18.3% of GDP (2015 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">85.8%</data>
+            <data name="government consumption">18%</data>
+            <data name="investment in fixed capital">32.7%</data>
+            <data name="investment in inventories">2.9%</data>
+            <data name="exports of goods and services">37.2%</data>
+            <data name="imports of goods and services">-76.5% (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">14.3%</data>
+            <data name="industry">32.5%</data>
+            <data name="services">53.2% (2017 est.)</data>
+        </subsection>
+        <subsection name="Agriculture - products">
+            <data>cotton, potatoes, vegetables, grapes, fruits and berries; sheep, goats, cattle, wool</data>
+        </subsection>
+        <subsection name="Industries">
+            <data>small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals</data>
+        </subsection>
+        <subsection name="Industrial production growth rate">
+            <data>17.3% (2017 est.)</data>
+            <data name="country comparison to the world">2</data>
+        </subsection>
+        <subsection name="Labor force">
+            <data>2.841 million (2017 est.)</data>
+            <data name="country comparison to the world">108</data>
+        </subsection>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">48%</data>
+            <data name="industry">12.5%</data>
+            <data name="services">39.5% (2005 est.)</data>
+        </subsection>
+        <subsection name="Unemployment rate">
+            <data>7.4% (2017 est.)</data>
+            <data>7.5% (2016 est.)</data>
+            <data name="country comparison to the world">113</data>
+        </subsection>
+        <subsection name="Population below poverty line">
+            <data>32.1% (2015 est.)</data>
+        </subsection>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">4.4%</data>
+            <data name="highest 10%">22.9% (2014 est.)</data>
+        </subsection>
+        <subsection name="Distribution of family income - Gini index">
+            <data>33.4 (2007)</data>
+            <data>29 (2001)</data>
+            <data name="country comparison to the world">112</data>
+        </subsection>
+        <subsection name="Budget">
+            <data name="revenues">$2.05 billion</data>
+            <data name="expenditures">$2.304 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="Taxes and other revenues">
+            <data>29% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">86</data>
+        </subsection>
+        <subsection name="Budget surplus (+) or deficit (-)">
+            <data>-3.6% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">137</data>
+        </subsection>
+        <subsection name="Public debt">
+            <data>59.1% of GDP (2017 est.)</data>
+            <data>58.1% of GDP (2016 est.)</data>
+            <data name="country comparison to the world">75</data>
+        </subsection>
+        <subsection name="Fiscal year">
+            <data>calendar year</data>
+        </subsection>
+        <subsection name="Inflation rate (consumer prices)">
+            <data>3.2% (2017 est.)</data>
+            <data>0.4% (2016 est.)</data>
+            <data name="country comparison to the world">138</data>
+        </subsection>
+        <subsection name="Central bank discount rate">
+            <data>5% (31 December 2016)</data>
+            <data>8% (31 December 2015)</data>
+            <data name="country comparison to the world">79</data>
+        </subsection>
+        <subsection name="Commercial bank prime lending rate">
+            <data>20.1% (31 December 2017 est.)</data>
+            <data>22.23% (31 December 2016 est.)</data>
+            <data name="country comparison to the world">16</data>
+        </subsection>
+        <subsection name="Stock of narrow money">
+            <data>$1.82 billion (31 December 2017 est.)</data>
+            <data>$1.411 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">135</data>
+        </subsection>
+        <subsection name="Stock of broad money">
+            <data>$2.176 billion (31 December 2017 est.)</data>
+            <data>$1.667 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">155</data>
+        </subsection>
+        <subsection name="Stock of domestic credit">
+            <data>$1.944 billion (31 December 2017 est.)</data>
+            <data>$1.444 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">152</data>
+        </subsection>
+        <subsection name="Market value of publicly traded shares">
+            <data>$165 million (31 December 2012 est.)</data>
+            <data>$165 million (31 December 2011 est.)</data>
+            <data>$79 million (31 December 2010 est.)</data>
+            <data name="country comparison to the world">119</data>
+        </subsection>
+        <subsection name="Current account balance">
+            <data>-$558 million (2017 est.)</data>
+            <data>-$792 million (2016 est.)</data>
+            <data name="country comparison to the world">121</data>
+        </subsection>
+        <subsection name="Exports">
+            <data>$1.768 billion (2017 est.)</data>
+            <data>$1.544 billion (2016 est.)</data>
+            <data name="country comparison to the world">145</data>
+        </subsection>
+        <subsection name="Exports - commodities">
+            <data>gold, cotton, wool, garments, meat; mercury, uranium, electricity; machinery; shoes</data>
+        </subsection>
+        <subsection name="Exports - partners">
+            <data>Switzerland 59.1%, Uzbekistan 9.4%, Kazakhstan 5.1%, Russia 4.9%, UK 4% (2017)</data>
+        </subsection>
+        <subsection name="Imports">
+            <data>$4.326 billion (2017 est.)</data>
+            <data>$3.644 billion (2016 est.)</data>
+            <data name="country comparison to the world">132</data>
+        </subsection>
+        <subsection name="Imports - commodities">
+            <data>oil and gas, machinery and equipment, chemicals, foodstuffs</data>
+        </subsection>
+        <subsection name="Imports - partners">
+            <data>China 32.6%, Russia 24.8%, Kazakhstan 16.4%, Turkey 4.8%, US 4.2% (2017)</data>
+        </subsection>
+        <subsection name="Reserves of foreign exchange and gold">
+            <data>$2.411 billion (31 December 2017 est.)</data>
+            <data>$1.97 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">113</data>
+        </subsection>
+        <subsection name="Debt - external">
+            <data>$8.679 billion (31 December 2017 est.)</data>
+            <data>$8.182 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">120</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - at home">
+            <data>$5.86 billion (31 December 2017 est.)</data>
+            <data>$5.21 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">105</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - abroad">
+            <data>$675.5 million (31 December 2017 est.)</data>
+            <data>$655.5 million (31 December 2016 est.)</data>
+            <data name="country comparison to the world">89</data>
+        </subsection>
+        <subsection name="Exchange rates">
+            <data>soms (KGS) per US dollar -</data>
+            <data>68.35 (2017 est.)</data>
+            <data>69.91 (2016 est.)</data>
+            <data>69.91 (2015 est.)</data>
+            <data>64.46 (2014 est.)</data>
+            <data>53.65 (2013 est.)</data>
+        </subsection>
+    </section>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="electrification - total population">100% (2016)</data>
+        </subsection>
+        <subsection name="Electricity - production">
+            <data>12.8 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">93</data>
+        </subsection>
+        <subsection name="Electricity - consumption">
+            <data>10.68 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">92</data>
+        </subsection>
+        <subsection name="Electricity - exports">
+            <data>184 million kWh (2015 est.)</data>
+            <data name="country comparison to the world">77</data>
+        </subsection>
+        <subsection name="Electricity - imports">
+            <data>729 million kWh (2015 est.)</data>
+            <data name="country comparison to the world">75</data>
+        </subsection>
+        <subsection name="Electricity - installed generating capacity">
+            <data>3.89 million kW (2015 est.)</data>
+            <data name="country comparison to the world">91</data>
+        </subsection>
+        <subsection name="Electricity - from fossil fuels">
+            <data>20.6% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">192</data>
+        </subsection>
+        <subsection name="Electricity - from nuclear fuels">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">119</data>
+        </subsection>
+        <subsection name="Electricity - from hydroelectric plants">
+            <data>79.4% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">16</data>
+        </subsection>
+        <subsection name="Electricity - from other renewable sources">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">189</data>
+        </subsection>
+        <subsection name="Crude oil - production">
+            <data>1,000 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">90</data>
+        </subsection>
+        <subsection name="Crude oil - exports">
+            <data>19.65 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">80</data>
+        </subsection>
+        <subsection name="Crude oil - imports">
+            <data>100 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">82</data>
+        </subsection>
+        <subsection name="Crude oil - proved reserves">
+            <data>40 million bbl (1 January 2017 est.)</data>
+            <data name="country comparison to the world">83</data>
+        </subsection>
+        <subsection name="Refined petroleum products - production">
+            <data>1,776 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">104</data>
+        </subsection>
+        <subsection name="Refined petroleum products - consumption">
+            <data>33,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">118</data>
+        </subsection>
+        <subsection name="Refined petroleum products - exports">
+            <data>2,698 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">105</data>
+        </subsection>
+        <subsection name="Refined petroleum products - imports">
+            <data>31,960 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">101</data>
+        </subsection>
+        <subsection name="Natural gas - production">
+            <data>30 million cu m (2015 est.)</data>
+            <data name="country comparison to the world">88</data>
+        </subsection>
+        <subsection name="Natural gas - consumption">
+            <data>180 million cu m (2015 est.)</data>
+            <data name="country comparison to the world">104</data>
+        </subsection>
+        <subsection name="Natural gas - exports">
+            <data>0 cu m (2013 est.)</data>
+            <data name="country comparison to the world">127</data>
+        </subsection>
+        <subsection name="Natural gas - imports">
+            <data>160 million cu m (2015 est.)</data>
+            <data name="country comparison to the world">72</data>
+        </subsection>
+        <subsection name="Natural gas - proved reserves">
+            <data>5.663 billion cu m (1 January 2017 est.)</data>
+            <data name="country comparison to the world">95</data>
+        </subsection>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
+            <data>9.4 million Mt (2013 est.)</data>
+            <data name="country comparison to the world">106</data>
+        </subsection>
+    </section>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">362,288</data>
+            <data name="subscriptions per 100 inhabitants">6 (2017 est.)</data>
+            <data name="country comparison to the world">106</data>
+        </subsection>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">7,369,927</data>
+            <data name="subscriptions per 100 inhabitants">127 (2017 est.)</data>
+            <data name="country comparison to the world">103</data>
+        </subsection>
+        <subsection name="Telephone system">
+            <data name="general assessment">telecommunications infrastructure is being upgraded; loans from the European Bank for Reconstruction and Development are being used to install a digital network, digital radio-relay stations, and fiber-optic links; a combination of grants and loans from the World Bank are being used to develop regional digital connectivity infrastructure under the Digital Central Asia and South Asia Project (2018)</data>
+            <data name="domestic">fixed-line penetration remains low and concentrated in urban areas; 3 mobile-cellular service providers with growing coverage; mobile-cellular subscribership up to over 130 per 100 persons (2016)</data>
+            <data name="international">country code - 996; connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat); connected internationally by the Trans-Asia-Europe (TAE) fiber-optic line (2016)</data>
+        </subsection>
+        <subsection name="Broadcast media">
+            <data>state-funded public TV broadcaster KTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7; ELTR is a state-owned station with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations primarily rebroadcast programs from Russian channels; 3 Russian TV stations also broadcast; 1 state-funded radio station and about 10 significant private radio stations (2018)</data>
+        </subsection>
+        <subsection name="Internet country code">
+            <data>.kg</data>
+        </subsection>
+        <subsection name="Internet users">
+            <data name="total">1,976,006</data>
+            <data name="percent of population">34.5% (July 2016 est.)</data>
+            <data name="country comparison to the world">115</data>
+        </subsection>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">258,013</data>
+            <data name="subscriptions per 100 inhabitants">4 (2017 est.)</data>
+            <data name="country comparison to the world">100</data>
+        </subsection>
+    </section>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">3</data>
+            <data name="inventory of registered aircraft operated by air carriers">10</data>
+            <data name="annual passenger traffic on registered air carriers">625,294</data>
+            <data name="annual freight traffic on registered air carriers">69,290 mt-km (2015)</data>
+        </subsection>
+        <subsection name="Civil aircraft registration country code prefix">
+            <data>EX (2016)</data>
+        </subsection>
+        <subsection name="Airports">
+            <data>28 (2013)</data>
+            <data name="country comparison to the world">122</data>
+        </subsection>
+        <subsection name="Airports - with paved runways">
+            <data name="total">18</data>
+            <data name="over 3,047 m">1</data>
+            <data name="2,438 to 3,047 m">3</data>
+            <data name="1,524 to 2,437 m">11</data>
+            <data name="under 914 m">3 (2017)</data>
+        </subsection>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">10</data>
+            <data name="1,524 to 2,437 m">1</data>
+            <data name="914 to 1,523 m">1</data>
+            <data name="under 914 m">8 (2013)</data>
+        </subsection>
+        <subsection name="Pipelines">
+            <data>gas 3,566 km (2018); oil 16 km (2013)</data>
+        </subsection>
+        <subsection name="Railways">
+            <data name="total">424 km</data>
+            <data name="broad gauge">424 km 1.520-m gauge (2018)</data>
+            <data name="country comparison to the world">116</data>
+        </subsection>
+        <subsection name="Roadways">
+            <data name="total">34,000 km (2018)</data>
+            <data name="country comparison to the world">94</data>
+        </subsection>
+        <subsection name="Waterways">
+            <data>600 km (2010)</data>
+            <data name="country comparison to the world">78</data>
+        </subsection>
+        <subsection name="Ports and terminals">
+            <data name="lake port(s)">Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)</data>
+        </subsection>
+    </section>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
+            <data>3.15% of GDP (2016)</data>
+            <data>3.45% of GDP (2015)</data>
+            <data>3.38% of GDP (2014)</data>
+            <data>3.2% of GDP (2013)</data>
+            <data>3.21% of GDP (2012)</data>
+            <data name="country comparison to the world">27</data>
+        </subsection>
+        <subsection name="Military branches">
+            <data>Land Forces, Air Defense Forces, National Guard, State Border Service, and State Committee on Defense Affairs (GKDO) (2017)</data>
+        </subsection>
+        <subsection name="Military service age and obligation">
+            <data>18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation, with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2013)</data>
+        </subsection>
+    </section>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
+            <data>Kyrgyzstan has yet to ratify the 2001 boundary delimitation with Kazakhstan; disputes in Isfara Valley delay completion of delimitation with Tajikistan; delimitation of 130 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas</data>
+        </subsection>
+        <subsection name="Refugees and internally displaced persons">
+            <data name="stateless persons">855 (2017); note - most stateless people were born in Kyrgyzstan, have lived there many years, or married Kyrgyz citizens; in 2009, Kyrgyzstan adopted a national action plan to speed up the exchange of old Soviet passports for Kyrgyz ones; between 2014 and 2016, Kyrgyzstan has resolved nearly 9,000 stateless cases; stateless people are unable to register marriages and births, to travel within the country or abroad, to own property, or to receive social benefits</data>
+        </subsection>
+        <subsection name="Illicit drugs">
+            <data>limited illicit cultivation of cannabis and opium poppy for CIS markets; limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; major consumer of opiates</data>
+        </subsection>
+    </section>
+</region>
