@@ -1,8 +1,6 @@
 # xml-semestralka
 Semestrálni práce na BI-XML
 
-<b>TODO:</b> do xml/source.xml vsechny regiony
-
 <b>Martin Scheubrein</b> - Equitorial Guinea, Kyrgyzstan - DTD + RelaxNG <br/>
 <b>Matouš Škoda</b> - Brazil, Chile - xslt pro html + css pro html<br/>
 <b>Marek Bělohoubek</b> - Israel, Ireland - ePub<br/>
