@@ -1,0 +1,788 @@
+<region id="chile" name="Chile">
+    <section name="Introduction">
+        <subsection name="Background">
+            <data>Prior to the arrival of the Spanish in the 16th century, the Inca ruled northern Chile while an indigenous people, the Mapuche, inhabited central and southern Chile. Although Chile declared its independence in 1810, it did not achieve decisive victory over the Spanish until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its present northern regions. In the 1880s, the Chilean central government gained control over the central and southern regions inhabited by the Mapuche. After a series of elected governments, the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Sound economic policies, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.</data>
+            <data>CHILE SUMMARY</data>
+        </subsection>
+    </section>
+    <section name="Geography">
+        <subsection name="Location">
+            <data>Southern South America, bordering the South Pacific Ocean, between Argentina and Peru</data>
+        </subsection>
+        <subsection name="Geographic coordinates">
+            <data>30 00 S, 71 00 W</data>
+        </subsection>
+        <subsection name="Map references">
+            <data>South America</data>
+        </subsection>
+        <subsection name="Area">
+            <data name="total">756,102 sq km</data>
+            <data name="land">743,812 sq km</data>
+            <data name="water">12,290 sq km</data>
+            <data name="note">includes Easter Island (Isla de Pascua) and Isla Sala y Gomez</data>
+            <data name="country comparison to the world">39</data>
+        </subsection>
+        <subsection name="Area - comparative">
+            <data>slightly smaller than twice the size of Montana</data>
+        </subsection>
+        <subsection name="Land boundaries">
+            <data name="total">7,801 km</data>
+            <data name="border countries (3)">Argentina 6,691 km, Bolivia 942 km, Peru 168 km</data>
+        </subsection>
+        <subsection name="Coastline">
+            <data>6,435 km</data>
+        </subsection>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="contiguous zone">24 nm</data>
+            <data name="exclusive economic zone">200 nm</data>
+            <data name="continental shelf">200/350 nm</data>
+        </subsection>
+        <subsection name="Climate">
+            <data>temperate; desert in north; Mediterranean in central region; cool and damp in south</data>
+        </subsection>
+        <subsection name="Terrain">
+            <data>low coastal mountains, fertile central valley, rugged Andes in east</data>
+        </subsection>
+        <subsection name="Elevation">
+            <data name="mean elevation">1,871 m</data>
+            <data name="elevation extremes">lowest point: Pacific Ocean 0 m</data>
+            <data>highest point: Nevado Ojos del Salado 6,880 m</data>
+        </subsection>
+        <subsection name="Natural resources">
+            <data>copper, timber, iron ore, nitrates, precious metals, molybdenum, hydropower</data>
+        </subsection>
+        <subsection name="Land use">
+            <data name="agricultural land">21.1%</data>
+            <data>arable land 1.7%; permanent crops 0.6%; permanent pasture 18.8%</data>
+            <data name="forest">21.9%</data>
+            <data name="other">57% (2011 est.)</data>
+        </subsection>
+        <subsection name="Irrigated land">
+            <data>11,100 sq km (2012)</data>
+        </subsection>
+        <subsection name="Population - distribution">
+            <data>90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated</data>
+        </subsection>
+        <subsection name="Natural hazards">
+            <data>severe earthquakes; active volcanism; tsunamis</data>
+            <data name="volcanism">significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"</data>
+        </subsection>
+        <subsection name="Environment - current issues">
+            <data>air pollution from industrial and vehicle emissions; water pollution from raw sewage; noise pollution; improper garbage disposal; soil degradation; widespread deforestation and mining threaten the environment</data>
+        </subsection>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</data>
+            <data name="signed, but not ratified">none of the selected agreements</data>
+        </subsection>
+        <subsection name="Geography - note">
+            <data name="note 1">the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</data>
+            <data name="note 2">Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</data>
+            <data name="note 3">the Atacama Desert - the driest desert in the world - spreads across the northern part of the country; the small crater lake of Ojos del Salado is the world's highest lake (at 6,390 m)</data>
+        </subsection>
+    </section>
+    <section name="People and Society">
+        <subsection name="Population">
+            <data>17,789,267 (July 2017 est.)</data>
+            <data name="country comparison to the world">65</data>
+        </subsection>
+        <subsection name="Nationality">
+            <data name="noun">Chilean(s)</data>
+            <data name="adjective">Chilean</data>
+        </subsection>
+        <subsection name="Ethnic groups">
+            <data>white and non-indigenous 88.9%, Mapuche 9.1%, Aymara 0.7%, other indigenous groups 1% (includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana), unspecified 0.3% (2012 est.)</data>
+        </subsection>
+        <subsection name="Languages">
+            <data>Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%</data>
+            <data name="note">shares sum to more than 100% because some respondents gave more than one answer on the census (2012 est.)</data>
+        </subsection>
+        <subsection name="Religions">
+            <data>Roman Catholic 66.7%, Evangelical or Protestant 16.4%, Jehovah's Witness 1%, other 3.4%, none 11.5%, unspecified 1.1% (2012 est.)</data>
+        </subsection>
+        <subsection name="Demographic profile">
+            <data>Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.</data>
+            <data>Chile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru.</data>
+        </subsection>
+        <subsection name="Age structure">
+            <data name="0-14 years">20.11% (male 1,825,254/female 1,751,735)</data>
+            <data name="15-24 years">15.04% (male 1,364,831/female 1,311,216)</data>
+            <data name="25-54 years">43.08% (male 3,830,538/female 3,832,989)</data>
+            <data name="55-64 years">10.96% (male 918,559/female 1,031,153)</data>
+            <data name="65 years and over">10.81% (male 805,880/female 1,117,112) (2017 est.)</data>
+        </subsection>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">45.5</data>
+            <data name="youth dependency ratio">30.3</data>
+            <data name="elderly dependency ratio">15.2</data>
+            <data name="potential support ratio">6.6 (2015 est.)</data>
+        </subsection>
+        <subsection name="Median age">
+            <data name="total">34.4 years</data>
+            <data name="male">33.2 years</data>
+            <data name="female">35.6 years (2017 est.)</data>
+            <data name="country comparison to the world">85</data>
+        </subsection>
+        <subsection name="Population growth rate">
+            <data>0.77% (2017 est.)</data>
+            <data name="country comparison to the world">135</data>
+        </subsection>
+        <subsection name="Birth rate">
+            <data>13.6 births/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">143</data>
+        </subsection>
+        <subsection name="Death rate">
+            <data>6.2 deaths/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">155</data>
+        </subsection>
+        <subsection name="Net migration rate">
+            <data>0.3 migrant(s)/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">66</data>
+        </subsection>
+        <subsection name="Population distribution">
+            <data>90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated</data>
+        </subsection>
+        <subsection name="Urbanization">
+            <data name="urban population">87.6% of total population (2018)</data>
+            <data name="rate of urbanization">0.87% annual rate of change (2015-20 est.)</data>
+        </subsection>
+        <subsection name="Major urban areas - population">
+            <data>SANTIAGO (capital) 6.68 million; Valparaiso 967,000; Concepcion 857,000 (2018)</data>
+        </subsection>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.04 male(s)/female</data>
+            <data name="0-14 years">1.04 male(s)/female</data>
+            <data name="15-24 years">1.04 male(s)/female</data>
+            <data name="25-54 years">1 male(s)/female</data>
+            <data name="55-64 years">0.89 male(s)/female</data>
+            <data name="65 years and over">0.72 male(s)/female</data>
+            <data name="total population">0.97 male(s)/female (2017 est.)</data>
+        </subsection>
+        <subsection name="Maternal mortality ratio">
+            <data>22 deaths/100,000 live births (2015 est.)</data>
+            <data name="country comparison to the world">128</data>
+        </subsection>
+        <subsection name="Infant mortality rate">
+            <data name="total">6.6 deaths/1,000 live births</data>
+            <data name="male">7.1 deaths/1,000 live births</data>
+            <data name="female">6.1 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">164</data>
+        </subsection>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">78.9 years</data>
+            <data name="male">75.9 years</data>
+            <data name="female">82.1 years (2017 est.)</data>
+            <data name="country comparison to the world">51</data>
+        </subsection>
+        <subsection name="Total fertility rate">
+            <data>1.8 children born/woman (2017 est.)</data>
+            <data name="country comparison to the world">152</data>
+        </subsection>
+        <subsection name="Contraceptive prevalence rate">
+            <data>76.3% (2015/16)</data>
+        </subsection>
+        <subsection name="Health expenditures">
+            <data>7.8% of GDP (2014)</data>
+            <data name="country comparison to the world">60</data>
+        </subsection>
+        <subsection name="Physicians density">
+            <data>1.03 physicians/1,000 population (2009)</data>
+        </subsection>
+        <subsection name="Hospital bed density">
+            <data>2.2 beds/1,000 population (2013)</data>
+        </subsection>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
+            <data>urban: 99.7% of population</data>
+            <data>rural: 93.3% of population</data>
+            <data>total: 99% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 0.3% of population</data>
+            <data>rural: 6.7% of population</data>
+            <data>total: 1% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
+            <data>urban: 100% of population</data>
+            <data>rural: 90.9% of population</data>
+            <data>total: 99.1% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 0% of population</data>
+            <data>rural: 9.1% of population</data>
+            <data>total: 0.9% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="HIV/AIDS - adult prevalence rate">
+            <data>0.6% (2017 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
+            <data>67,000 (2017 est.)</data>
+            <data name="country comparison to the world">53</data>
+        </subsection>
+        <subsection name="HIV/AIDS - deaths">
+            <data>NA</data>
+        </subsection>
+        <subsection name="Obesity - adult prevalence rate">
+            <data>28% (2016)</data>
+            <data name="country comparison to the world">32</data>
+        </subsection>
+        <subsection name="Children under the age of 5 years underweight">
+            <data>0.5% (2014)</data>
+            <data name="country comparison to the world">137</data>
+        </subsection>
+        <subsection name="Education expenditures">
+            <data>4.9% of GDP (2015)</data>
+            <data name="country comparison to the world">90</data>
+        </subsection>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">97.5%</data>
+            <data name="male">97.6%</data>
+            <data name="female">97.4% (2015 est.)</data>
+        </subsection>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">16 years</data>
+            <data name="male">16 years</data>
+            <data name="female">17 years (2015)</data>
+        </subsection>
+        <subsection name="Unemployment, youth ages 15-24">
+            <data name="total">17.2%</data>
+            <data name="male">16.1%</data>
+            <data name="female">18.8% (2017 est.)</data>
+            <data name="country comparison to the world">86</data>
+        </subsection>
+    </section>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">Republic of Chile</data>
+            <data name="conventional short form">Chile</data>
+            <data name="local long form">Republica de Chile</data>
+            <data name="local short form">Chile</data>
+            <data name="etymology">derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit of the earth" or from the Quechua "chiri" meaning "cold"</data>
+        </subsection>
+        <subsection name="Government type">
+            <data>presidential republic</data>
+        </subsection>
+        <subsection name="Capital">
+            <data name="name">Santiago; note - Valparaiso is the seat of the national legislature</data>
+            <data name="geographic coordinates">33 27 S, 70 40 W</data>
+            <data name="time difference">UTC-3 (2 hours ahead of Washington, DC, during Standard Time)</data>
+            <data name="daylight saving time">+1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year</data>
+            <data name="note">Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5</data>
+        </subsection>
+        <subsection name="Administrative divisions">
+            <data>16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso</data>
+            <data name="note">the US does not recognize any claims to Antarctica</data>
+        </subsection>
+        <subsection name="Independence">
+            <data>18 September 1810 (from Spain)</data>
+        </subsection>
+        <subsection name="National holiday">
+            <data>Independence Day, 18 September (1810)</data>
+        </subsection>
+        <subsection name="Constitution">
+            <data name="history">many previous; latest adopted 11 September 1980, effective 11 March 1981; note - in March 2018, days before her term ended, President BACHELET sent a proposal for a new constitution to the National Congress</data>
+            <data name="amendments">proposed by members of either house of the National Congress or by the president of the republic; passage requires at least three-fifths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process requires at least two-third majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2017 (2018)</data>
+        </subsection>
+        <subsection name="Legal system">
+            <data>civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal</data>
+        </subsection>
+        <subsection name="International law organization participation">
+            <data>has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction</data>
+        </subsection>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">yes</data>
+            <data name="citizenship by descent">yes</data>
+            <data name="dual citizenship recognized">yes</data>
+            <data name="residency requirement for naturalization">5 years</data>
+        </subsection>
+        <subsection name="Suffrage">
+            <data>18 years of age; universal</data>
+        </subsection>
+        <subsection name="Executive branch">
+            <data name="chief of state">President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government</data>
+            <data name="head of government">President Sebastian PINERA Echenique (since 11 March 2018)</data>
+            <data name="cabinet">Cabinet appointed by the president</data>
+            <data name="elections/appointments">president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held in November 2021)</data>
+            <data name="election results">Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%</data>
+        </subsection>
+        <subsection name="Legislative branch">
+            <data name="description">bicameral National Congress or Congreso Nacional consists of:</data>
+            <data>Senate or Senado (43 seats following the 2017 election; to increase to 50 in 2022); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)</data>
+            <data>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by oen party-list proportional representation vote to serve 4-year terms)</data>
+            <data name="elections"></data>
+            <data>Senate - last held on 19 November 2017 (next to be held in 2021)</data>
+            <data>Chamber of Deputies - last held on 19 November 2017 (next to be held in 2021)</data>
+            <data name="election results"></data>
+            <data>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4</data>
+            <data>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4</data>
+        </subsection>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)</data>
+            <data name="judge selection and term of office">Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice-president of the Senate and 1 by the former president or vice-president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparaiso; members appointed for 4-year terms</data>
+            <data name="subordinate courts">Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs</data>
+        </subsection>
+        <subsection name="Political parties and leaders">
+            <data>Amplitude (Amplitud) [Lily PEREZ]</data>
+            <data>Broad Social Movement or MAS [Cristian TAPIA Ramos]</data>
+            <data>Christian Democratic Party or PDC [Carolina GOIC Boroevic]</data>
+            <data>Communist Party of Chile or PC [Guillermo TEILLIER del Valle]</data>
+            <data>Democratic Revolution or RD [Rodrigo ECHECOPAR]</data>
+            <data>Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera])</data>
+            <data>Independent Regionalist Party or PRI [Alejandra BRAVO Hidalgo]</data>
+            <data>Let’s Go Chile Coalition (Chile Vamos) [Sebastian PINERA] (includes EVOPOLI, PRI, RN, UDI)</data>
+            <data>Liberal Party (Partido Liberal de Chile) [Vlado MIROSEVIC]</data>
+            <data>National Renewal or RN [Cristian MONCKEBERG Bruner]</data>
+            <data>New Majority Coalition (Nueva Mayoria) [Michelle BACHELET] (includes PDC, PC, PPD, PRSD, PS); note - dissolved in March 2018</data>
+            <data>Party for Democracy or PPD [Gonzalo NAVARRETE]</data>
+            <data>Political Evolution or EVOPOLI [Jorge SAINT JEAN]</data>
+            <data>Progressive Party or PRO [Patricia MORALES]</data>
+            <data>Radical Social Democratic Party or PRSD [Ernesto VELASCO Rodriguez],</data>
+            <data>Socialist Party or PS [Alvaro ELIZALDE Soto] (formerly known as Concertacion)</data>
+        </subsection>
+        <subsection name="International organization participation">
+            <data>APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
+        </subsection>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Oscar Alfonso Sebastian SILVA Navarro (since 17 September 2018)</data>
+            <data name="chancery">1732 Massachusetts Avenue NW, Washington, DC 20036</data>
+            <data name="telephone">[1] (202) 785-1746</data>
+            <data name="FAX">[1] (202) 887-5579</data>
+            <data name="consulate(s) general">Chicago, Houston, Los Angeles, Miami, New York, San Francisco</data>
+        </subsection>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador Carol PEREZ (since 14 November 2016)</data>
+            <data name="embassy">Avenida Andres Bello 2800, Las Condes, Santiago</data>
+            <data name="mailing address">APO AA 34033</data>
+            <data name="telephone">[56] (2) 2330-3000</data>
+            <data name="FAX">[56] (2) 2330-3710, 2330-3160</data>
+        </subsection>
+        <subsection name="Flag description">
+            <data>two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence</data>
+            <data name="note">design influenced by the US flag</data>
+        </subsection>
+        <subsection name="National symbol(s)">
+            <data>huemul (mountain deer), Andean condor; national colors: red, white, blue</data>
+        </subsection>
+        <subsection name="National anthem">
+            <data name="name">"Himno Nacional de Chile" (National Anthem of Chile)</data>
+            <data name="lyrics/music">Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle</data>
+            <data name="note">music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990</data>
+        </subsection>
+    </section>
+    <section name="Economy">
+        <subsection name="Economy - overview">
+            <data>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</data>
+            <data>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</data>
+            <data>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</data>
+            <data>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</data>
+            <data>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</data>
+        </subsection>
+        <subsection name="GDP (purchasing power parity)">
+            <data>$451.1 billion (2017 est.)</data>
+            <data>$445.4 billion (2016 est.)</data>
+            <data>$435.4 billion (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">45</data>
+        </subsection>
+        <subsection name="GDP (official exchange rate)">
+            <data>$277 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - real growth rate">
+            <data>1.5% (2017 est.)</data>
+            <data>1.3% (2016 est.)</data>
+            <data>2.3% (2015 est.)</data>
+            <data name="country comparison to the world">171</data>
+        </subsection>
+        <subsection name="GDP - per capita (PPP)">
+            <data>$24,500 (2017 est.)</data>
+            <data>$24,500 (2016 est.)</data>
+            <data>$24,200 (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">83</data>
+        </subsection>
+        <subsection name="Gross national saving">
+            <data>20.5% of GDP (2017 est.)</data>
+            <data>20.9% of GDP (2016 est.)</data>
+            <data>21.4% of GDP (2015 est.)</data>
+            <data name="country comparison to the world">91</data>
+        </subsection>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">63.9%</data>
+            <data name="government consumption">13.6%</data>
+            <data name="investment in fixed capital">22.2%</data>
+            <data name="investment in inventories">-0.2%</data>
+            <data name="exports of goods and services">28.2%</data>
+            <data name="imports of goods and services">-27.6% (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">4.4%</data>
+            <data name="industry">31.4%</data>
+            <data name="services">64.3% (2017 est.)</data>
+        </subsection>
+        <subsection name="Agriculture - products">
+            <data>grapes, apples, pears, onions, wheat, corn, oats, peaches, garlic, asparagus, beans; beef, poultry, wool; fish; timber</data>
+        </subsection>
+        <subsection name="Industries">
+            <data>copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles</data>
+        </subsection>
+        <subsection name="Industrial production growth rate">
+            <data>1.4% (2017 est.)</data>
+            <data name="country comparison to the world">156</data>
+        </subsection>
+        <subsection name="Labor force">
+            <data>8.881 million (2017 est.)</data>
+            <data name="country comparison to the world">59</data>
+        </subsection>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">9.2%</data>
+            <data name="industry">23.7%</data>
+            <data name="services">67.1% (2013)</data>
+        </subsection>
+        <subsection name="Unemployment rate">
+            <data>7% (2017 est.)</data>
+            <data>6.5% (2016 est.)</data>
+            <data name="country comparison to the world">107</data>
+        </subsection>
+        <subsection name="Population below poverty line">
+            <data>14.4% (2013)</data>
+        </subsection>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">1.7%</data>
+            <data name="highest 10%">41.5% (2013 est.)</data>
+        </subsection>
+        <subsection name="Distribution of family income - Gini index">
+            <data>50.5 (2013)</data>
+            <data>57.1 (2000)</data>
+            <data name="country comparison to the world">15</data>
+        </subsection>
+        <subsection name="Budget">
+            <data name="revenues">$56.73 billion</data>
+            <data name="expenditures">$64.89 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="Taxes and other revenues">
+            <data>21.6% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">141</data>
+        </subsection>
+        <subsection name="Budget surplus (+) or deficit (-)">
+            <data>-3.1% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">120</data>
+        </subsection>
+        <subsection name="Public debt">
+            <data>23.6% of GDP (2017 est.)</data>
+            <data>21% of GDP (2016 est.)</data>
+            <data name="country comparison to the world">183</data>
+        </subsection>
+        <subsection name="Fiscal year">
+            <data>calendar year</data>
+        </subsection>
+        <subsection name="Inflation rate (consumer prices)">
+            <data>2.2% (2017 est.)</data>
+            <data>3.8% (2016 est.)</data>
+            <data name="country comparison to the world">112</data>
+        </subsection>
+        <subsection name="Central bank discount rate">
+            <data>3.35% (31 December 2015)</data>
+            <data>3% (31 December 2014)</data>
+            <data name="country comparison to the world">103</data>
+        </subsection>
+        <subsection name="Commercial bank prime lending rate">
+            <data>4.6% (31 December 2017 est.)</data>
+            <data>5.59% (31 December 2016 est.)</data>
+            <data name="country comparison to the world">151</data>
+        </subsection>
+        <subsection name="Stock of narrow money">
+            <data>$51.77 billion (31 December 2017 est.)</data>
+            <data>$44.01 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">54</data>
+        </subsection>
+        <subsection name="Stock of broad money">
+            <data>$174.7 billion (31 December 2017 est.)</data>
+            <data>$158.3 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">46</data>
+        </subsection>
+        <subsection name="Stock of domestic credit">
+            <data>$233.3 billion (31 December 2017 est.)</data>
+            <data>$211.6 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Market value of publicly traded shares">
+            <data>$190.4 billion (31 December 2015 est.)</data>
+            <data>$233.2 billion (31 December 2014 est.)</data>
+            <data>$265.2 billion (31 December 2013 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Current account balance">
+            <data>-$4.092 billion (2017 est.)</data>
+            <data>-$3.462 billion (2016 est.)</data>
+            <data name="country comparison to the world">176</data>
+        </subsection>
+        <subsection name="Exports">
+            <data>$64.51 billion (2017 est.)</data>
+            <data>$60.6 billion (2016 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Exports - commodities">
+            <data>copper, fruit, fish products, paper and pulp, chemicals, wine</data>
+        </subsection>
+        <subsection name="Exports - partners">
+            <data>China 27.5%, US 14.5%, Japan 9.3%, South Korea 6.2%, Brazil 5% (2017)</data>
+        </subsection>
+        <subsection name="Imports">
+            <data>$59.92 billion (2017 est.)</data>
+            <data>$55.34 billion (2016 est.)</data>
+            <data name="country comparison to the world">47</data>
+        </subsection>
+        <subsection name="Imports - commodities">
+            <data>petroleum and petroleum products, chemicals, electrical and telecommunications equipment, industrial machinery, vehicles, natural gas</data>
+        </subsection>
+        <subsection name="Imports - partners">
+            <data>China 23.9%, US 18.1%, Brazil 8.6%, Argentina 4.5%, Germany 4% (2017)</data>
+        </subsection>
+        <subsection name="Reserves of foreign exchange and gold">
+            <data>$39.11 billion (31 December 2017 est.)</data>
+            <data>$40.49 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">45</data>
+        </subsection>
+        <subsection name="Debt - external">
+            <data>$167.9 billion (31 December 2017 est.)</data>
+            <data>$158.1 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">39</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - at home">
+            <data>$208.8 billion (31 December 2017 est.)</data>
+            <data>$199.8 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">29</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - abroad">
+            <data>$97.59 billion (31 December 2017 est.)</data>
+            <data>$90.54 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Exchange rates">
+            <data>Chilean pesos (CLP) per US dollar -</data>
+            <data>653.9 (2017 est.)</data>
+            <data>676.94 (2016 est.)</data>
+            <data>676.94 (2015 est.)</data>
+            <data>658.93 (2014 est.)</data>
+            <data>570.37 (2013 est.)</data>
+        </subsection>
+    </section>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="population without electricity">70,600</data>
+            <data name="electrification - total population">99.6%</data>
+            <data name="electrification - urban areas">100%</data>
+            <data name="electrification - rural areas">98% (2012)</data>
+        </subsection>
+        <subsection name="Electricity - production">
+            <data>71.66 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">41</data>
+        </subsection>
+        <subsection name="Electricity - consumption">
+            <data>67.95 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">41</data>
+        </subsection>
+        <subsection name="Electricity - exports">
+            <data>0 kWh (2016 est.)</data>
+            <data name="country comparison to the world">118</data>
+        </subsection>
+        <subsection name="Electricity - imports">
+            <data>0 kWh (2016 est.)</data>
+            <data name="country comparison to the world">132</data>
+        </subsection>
+        <subsection name="Electricity - installed generating capacity">
+            <data>21.64 million kW (2015 est.)</data>
+            <data name="country comparison to the world">41</data>
+        </subsection>
+        <subsection name="Electricity - from fossil fuels">
+            <data>60.8% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">127</data>
+        </subsection>
+        <subsection name="Electricity - from nuclear fuels">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="Electricity - from hydroelectric plants">
+            <data>30% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">75</data>
+        </subsection>
+        <subsection name="Electricity - from other renewable sources">
+            <data>16.1% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">40</data>
+        </subsection>
+        <subsection name="Crude oil - production">
+            <data>4,423 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">81</data>
+        </subsection>
+        <subsection name="Crude oil - exports">
+            <data>0 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">102</data>
+        </subsection>
+        <subsection name="Crude oil - imports">
+            <data>163,000 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">33</data>
+        </subsection>
+        <subsection name="Crude oil - proved reserves">
+            <data>150 million bbl (1 January 2017 est.)</data>
+            <data name="country comparison to the world">64</data>
+        </subsection>
+        <subsection name="Refined petroleum products - production">
+            <data>215,300 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">50</data>
+        </subsection>
+        <subsection name="Refined petroleum products - consumption">
+            <data>337,400 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">41</data>
+        </subsection>
+        <subsection name="Refined petroleum products - exports">
+            <data>4,500 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">96</data>
+        </subsection>
+        <subsection name="Refined petroleum products - imports">
+            <data>160,900 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Natural gas - production">
+            <data>1.008 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="Natural gas - consumption">
+            <data>4.392 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+        <subsection name="Natural gas - exports">
+            <data>0 cu m (2014 est.)</data>
+            <data name="country comparison to the world">81</data>
+        </subsection>
+        <subsection name="Natural gas - imports">
+            <data>3.727 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">39</data>
+        </subsection>
+        <subsection name="Natural gas - proved reserves">
+            <data>97.97 billion cu m (1 January 2017 est.)</data>
+            <data name="country comparison to the world">54</data>
+        </subsection>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
+            <data>76 million Mt (2013 est.)</data>
+            <data name="country comparison to the world">46</data>
+        </subsection>
+    </section>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">3,193,131</data>
+            <data name="subscriptions per 100 inhabitants">18 (2017 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">23,013,147</data>
+            <data name="subscriptions per 100 inhabitants">129 (2017 est.)</data>
+            <data name="country comparison to the world">53</data>
+        </subsection>
+        <subsection name="Telephone system">
+            <data name="general assessment">privatization began in 1988; most advanced telecommunications infrastructure in South America; modern system based on extensive microwave radio relay facilities; domestic satellite system with 3 earth stations</data>
+            <data name="domestic">number of fixed-line connections have stagnated in recent years as mobile-cellular usage continues to increase, reaching 130 telephones per 100 persons</data>
+            <data name="international">country code - 56; landing points for the Pan American, South America-1, and South American Crossing/Latin America Nautilus submarine cables providing links to the US and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2016)</data>
+        </subsection>
+        <subsection name="Broadcast media">
+            <data>national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and is not under direct government control; large number of privately owned TV stations; about 250 radio stations (2007)</data>
+        </subsection>
+        <subsection name="Internet country code">
+            <data>.cl</data>
+        </subsection>
+        <subsection name="Internet users">
+            <data name="total">11,650,840</data>
+            <data name="percent of population">66.0% (July 2016 est.)</data>
+            <data name="country comparison to the world">46</data>
+        </subsection>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">3,058,979</data>
+            <data name="subscriptions per 100 inhabitants">17 (2017 est.)</data>
+            <data name="country comparison to the world">40</data>
+        </subsection>
+    </section>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">9</data>
+            <data name="inventory of registered aircraft operated by air carriers">173</data>
+            <data name="annual passenger traffic on registered air carriers">15,006,762</data>
+            <data name="annual freight traffic on registered air carriers">1,392.236 million mt-km (2015)</data>
+        </subsection>
+        <subsection name="Civil aircraft registration country code prefix">
+            <data>CC (2016)</data>
+        </subsection>
+        <subsection name="Airports">
+            <data>481 (2013)</data>
+            <data name="country comparison to the world">15</data>
+        </subsection>
+        <subsection name="Airports - with paved runways">
+            <data name="total">90</data>
+            <data name="over 3,047 m">5</data>
+            <data name="2,438 to 3,047 m">7</data>
+            <data name="1,524 to 2,437 m">23</data>
+            <data name="914 to 1,523 m">31</data>
+            <data name="under 914 m">24 (2017)</data>
+        </subsection>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">391</data>
+            <data name="2,438 to 3,047 m">5</data>
+            <data name="1,524 to 2,437 m">11</data>
+            <data name="914 to 1,523 m">56</data>
+            <data name="under 914 m">319 (2013)</data>
+        </subsection>
+        <subsection name="Heliports">
+            <data>1 (2013)</data>
+        </subsection>
+        <subsection name="Pipelines">
+            <data>gas 3,160 km; liquid petroleum gas 781 km; oil 985 km; refined products 722 km (2013)</data>
+        </subsection>
+        <subsection name="Railways">
+            <data name="total">7,281.5 km</data>
+            <data name="broad gauge">3,428 km 1.676-m gauge (1,691 km electrified)</data>
+            <data name="narrow gauge">3,853.5 km 1.000-m gauge (2014)</data>
+            <data name="country comparison to the world">30</data>
+        </subsection>
+        <subsection name="Roadways">
+            <data name="total">77,764 km</data>
+            <data name="paved">18,119 km (includes 2,387 km of expressways)</data>
+            <data name="unpaved">59,645 km (2010)</data>
+            <data name="country comparison to the world">62</data>
+        </subsection>
+        <subsection name="Merchant marine">
+            <data name="total">211</data>
+            <data name="by type">bulk carrier 10, container ship 5, general cargo 54, oil tanker 12, other 130 (2017)</data>
+            <data name="country comparison to the world">64</data>
+        </subsection>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso</data>
+            <data name="LNG terminal(s) (import)">Mejillones, Quintero</data>
+        </subsection>
+    </section>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
+            <data>1.87% of GDP (2016)</data>
+            <data>1.91% of GDP (2015)</data>
+            <data>1.96% of GDP (2014)</data>
+            <data>1.99% of GDP (2013)</data>
+            <data>2.05% of GDP (2012)</data>
+            <data name="country comparison to the world">52</data>
+        </subsection>
+        <subsection name="Military branches">
+            <data>Chilean Army, Chilean Navy (Armada de Chile, includes Naval Aviation, Marine Corps, and Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2015)</data>
+        </subsection>
+        <subsection name="Military service age and obligation">
+            <data>18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force (2015)</data>
+        </subsection>
+    </section>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
+            <data>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas; Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru; in October 2007, Peru took its maritime complaint with Chile to the ICJ; territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims; the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)</data>
+        </subsection>
+        <subsection name="Refugees and internally displaced persons">
+            <data name="refugees (country of origin)">118,576 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2018)</data>
+        </subsection>
+        <subsection name="Illicit drugs">
+            <data>transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine</data>
+        </subsection>
+    </section>
+</region>
