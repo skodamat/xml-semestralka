@@ -1,508 +1,508 @@
-<region name='Equitorial Guinea'>
-    <section name='Introduction'>
-        <subsection name='Background'>
+<region>
+    <section name="Introduction">
+        <subsection name="Background">
             <data>Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule; it is one of the smallest countries in Africa consisting of a mainland territory and five inhabited islands. The capital of Malabo is located on the island of Bioko, approximately 25 km from the Cameroonian coastline in the Gulf of Guinea. Between 1968 and 1979, autocratic President Francisco MACIAS NGUEMA virtually destroyed all of the country's political, economic, and social institutions before being deposed by his nephew Teodoro OBIANG NGUEMA MBASOGO in a coup. President OBIANG has ruled since October 1979 and was reelected in 2016. Although nominally a constitutional democracy since 1991, presidential and legislative elections since 1996 have generally been labeled as flawed. The president exerts almost total control over the political system and has placed legal and bureaucratic barriers that prevent political opposition. Equatorial Guinea has experienced rapid economic growth due to the discovery of large offshore oil reserves, and in the last decade has become Sub-Saharan Africa's third largest oil exporter. Despite the country's economic windfall from oil production, resulting in a massive increase in government revenue in recent years, the drop in global oil prices has placed significant strain on the state budget. Equatorial Guinea continues to seek to diversify its economy and to increase foreign investment despite limited improvements in the population's living standards. Equatorial Guinea is the host of major regional and international conferences and continues to seek a greater role in regional affairs.</data>
         </subsection>
     </section>
-    <section name='Geography'>
-        <subsection name='Location'>
+    <section name="Geography">
+        <subsection name="Location">
             <data>Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon</data>
         </subsection>
-        <subsection name='Geographic coordinates'>
+        <subsection name="Geographic coordinates">
             <data>2 00 N, 10 00 E</data>
         </subsection>
-        <subsection name='Map references'>
+        <subsection name="Map references">
             <data>Africa</data>
         </subsection>
-        <subsection name='Area'>
-            <data name='total'>28,051 sq km</data>
-            <data name='land'>28,051 sq km</data>
-            <data name='water'>0 sq km</data>
-            <data name='country comparison to the world'>146</data>
+        <subsection name="Area">
+            <data name="total">28,051 sq km</data>
+            <data name="land">28,051 sq km</data>
+            <data name="water">0 sq km</data>
+            <data name="country comparison to the world">146</data>
         </subsection>
-        <subsection name='Area - comparative'>
+        <subsection name="Area - comparative">
             <data>slightly smaller than Maryland</data>
         </subsection>
-        <subsection name='Land boundaries'>
-            <data name='total'>528 km</data>
-            <data name='border countries (2)'>Cameroon 183 km, Gabon 345 km</data>
+        <subsection name="Land boundaries">
+            <data name="total">528 km</data>
+            <data name="border countries (2)">Cameroon 183 km, Gabon 345 km</data>
         </subsection>
-        <subsection name='Coastline'>
+        <subsection name="Coastline">
             <data>296 km</data>
         </subsection>
-        <subsection name='Maritime claims'>
-            <data name='territorial sea'>12 nm</data>
-            <data name='exclusive economic zone'>200 nm</data>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="exclusive economic zone">200 nm</data>
         </subsection>
-        <subsection name='Climate'>
+        <subsection name="Climate">
             <data>tropical; always hot, humid</data>
         </subsection>
-        <subsection name='Terrain'>
+        <subsection name="Terrain">
             <data>coastal plains rise to interior hills; islands are volcanic</data>
         </subsection>
-        <subsection name='Elevation'>
-            <data name='mean elevation'>577 m</data>
-            <data name='elevation extremes'>lowest point: Atlantic Ocean 0 m</data>
+        <subsection name="Elevation">
+            <data name="mean elevation">577 m</data>
+            <data name="elevation extremes">lowest point: Atlantic Ocean 0 m</data>
             <data>highest point: Pico Basile 3,008 m</data>
         </subsection>
-        <subsection name='Natural resources'>
+        <subsection name="Natural resources">
             <data>petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay</data>
         </subsection>
-        <subsection name='Land use'>
-            <data name='agricultural land'>10.1%</data>
+        <subsection name="Land use">
+            <data name="agricultural land">10.1%</data>
             <data>arable land 4.3%; permanent crops 2.1%; permanent pasture 3.7%</data>
-            <data name='forest'>57.5%</data>
-            <data name='other'>32.4% (2011 est.)</data>
+            <data name="forest">57.5%</data>
+            <data name="other">32.4% (2011 est.)</data>
         </subsection>
-        <subsection name='Irrigated land'>
+        <subsection name="Irrigated land">
             <data>NA</data>
         </subsection>
-        <subsection name='Population - distribution'>
+        <subsection name="Population - distribution">
             <data>only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands</data>
         </subsection>
-        <subsection name='Natural hazards'>
+        <subsection name="Natural hazards">
             <data>violent windstorms; flash floods</data>
-            <data name='volcanism'>Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea</data>
+            <data name="volcanism">Santa Isabel (3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea</data>
         </subsection>
-        <subsection name='Environment - current issues'>
+        <subsection name="Environment - current issues">
             <data>deforestation (forests are threatened by agricultural expansion, fires, and grazing); water pollution (tap water is non-potable); wildlife preservation</data>
         </subsection>
-        <subsection name='Environment - international agreements'>
-            <data name='party to'>Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands</data>
-            <data name='signed, but not ratified'>none of the selected agreements</data>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands</data>
+            <data name="signed, but not ratified">none of the selected agreements</data>
         </subsection>
-        <subsection name='Geography - note'>
+        <subsection name="Geography - note">
             <data>insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator</data>
         </subsection>
     </section>
-    <section name='People and Society'>
-        <subsection name='Population'>
+    <section name="People and Society">
+        <subsection name="Population">
             <data>778,358 (July 2017 est.)</data>
-            <data name='country comparison to the world'>164</data>
+            <data name="country comparison to the world">164</data>
         </subsection>
-        <subsection name='Nationality'>
-            <data name='noun'>Equatorial Guinean(s) or Equatoguinean(s)</data>
-            <data name='adjective'>Equatorial Guinean or Equatoguinean</data>
+        <subsection name="Nationality">
+            <data name="noun">Equatorial Guinean(s) or Equatoguinean(s)</data>
+            <data name="adjective">Equatorial Guinean or Equatoguinean</data>
         </subsection>
-        <subsection name='Ethnic groups'>
+        <subsection name="Ethnic groups">
             <data>Fang 85.7%, Bubi 6.5%, Mdowe 3.6%, Annobon 1.6%, Bujeba 1.1%, other 1.4% (1994 census)</data>
         </subsection>
-        <subsection name='Languages'>
+        <subsection name="Languages">
             <data>Spanish (official) 67.6%, other (includes French (official), Fang, Bubi) 32.4% (1994 census)</data>
         </subsection>
-        <subsection name='Religions'>
+        <subsection name="Religions">
             <data>nominally Christian and predominantly Roman Catholic, pagan practices</data>
         </subsection>
-        <subsection name='Demographic profile'>
+        <subsection name="Demographic profile">
             <data>Equatorial Guinea is one of the smallest and least populated countries in continental Africa and is the only independent African country where Spanish is an official language. Despite a boom in oil production in the 1990s, authoritarianism, corruption, and resource mismanagement have concentrated the benefits among a small elite. These practices have perpetuated income inequality and unbalanced development, such as low public spending on education and health care. Unemployment remains problematic because the oil-dominated economy employs a small labor force dependent on skilled foreign workers. The agricultural sector, Equatorial Guinea’s main employer, continues to deteriorate because of a lack of investment and the migration of rural workers to urban areas. About three-quarters of the population lives below the poverty line.</data>
             <data>Equatorial Guinea’s large and growing youth population – about 60% are under the age of 25 – is particularly affected because job creation in the non-oil sectors is limited, and young people often do not have the skills needed in the labor market. Equatorial Guinean children frequently enter school late, have poor attendance, and have high dropout rates. Thousands of Equatorial Guineans fled across the border to Gabon in the 1970s to escape the dictatorship of MACIAS NGUEMA; smaller numbers have followed in the decades since. Continued inequitable economic growth and high youth unemployment increases the likelihood of ethnic and regional violence.</data>
         </subsection>
-        <subsection name='Age structure'>
-            <data name='0-14 years'>39.81% (male 157,388/female 152,469)</data>
-            <data name='15-24 years'>19.72% (male 78,145/female 75,348)</data>
-            <data name='25-54 years'>32.15% (male 125,108/female 125,096)</data>
-            <data name='55-64 years'>4.37% (male 14,676/female 19,349)</data>
-            <data name='65 years and over'>3.95% (male 12,808/female 17,971) (2017 est.)</data>
+        <subsection name="Age structure">
+            <data name="0-14 years">39.81% (male 157,388/female 152,469)</data>
+            <data name="15-24 years">19.72% (male 78,145/female 75,348)</data>
+            <data name="25-54 years">32.15% (male 125,108/female 125,096)</data>
+            <data name="55-64 years">4.37% (male 14,676/female 19,349)</data>
+            <data name="65 years and over">3.95% (male 12,808/female 17,971) (2017 est.)</data>
         </subsection>
-        <subsection name='Dependency ratios'>
-            <data name='total dependency ratio'>67.5</data>
-            <data name='youth dependency ratio'>62.7</data>
-            <data name='elderly dependency ratio'>4.8</data>
-            <data name='potential support ratio'>20.6 (2015 est.)</data>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">67.5</data>
+            <data name="youth dependency ratio">62.7</data>
+            <data name="elderly dependency ratio">4.8</data>
+            <data name="potential support ratio">20.6 (2015 est.)</data>
         </subsection>
-        <subsection name='Median age'>
-            <data name='total'>19.8 years</data>
-            <data name='male'>19.3 years</data>
-            <data name='female'>20.3 years (2017 est.)</data>
-            <data name='country comparison to the world'>194</data>
+        <subsection name="Median age">
+            <data name="total">19.8 years</data>
+            <data name="male">19.3 years</data>
+            <data name="female">20.3 years (2017 est.)</data>
+            <data name="country comparison to the world">194</data>
         </subsection>
-        <subsection name='Population growth rate'>
+        <subsection name="Population growth rate">
             <data>2.44% (2017 est.)</data>
-            <data name='country comparison to the world'>23</data>
+            <data name="country comparison to the world">23</data>
         </subsection>
-        <subsection name='Birth rate'>
+        <subsection name="Birth rate">
             <data>32.2 births/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>32</data>
+            <data name="country comparison to the world">32</data>
         </subsection>
-        <subsection name='Death rate'>
+        <subsection name="Death rate">
             <data>7.8 deaths/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>97</data>
+            <data name="country comparison to the world">97</data>
         </subsection>
-        <subsection name='Net migration rate'>
+        <subsection name="Net migration rate">
             <data>0 migrant(s)/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>81</data>
+            <data name="country comparison to the world">81</data>
         </subsection>
-        <subsection name='Population distribution'>
+        <subsection name="Population distribution">
             <data>only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands</data>
         </subsection>
-        <subsection name='Urbanization'>
-            <data name='urban population'>72.1% of total population (2018)</data>
-            <data name='rate of urbanization'>4.28% annual rate of change (2015-20 est.)</data>
+        <subsection name="Urbanization">
+            <data name="urban population">72.1% of total population (2018)</data>
+            <data name="rate of urbanization">4.28% annual rate of change (2015-20 est.)</data>
         </subsection>
-        <subsection name='Major urban areas - population'>
+        <subsection name="Major urban areas - population">
             <data>MALABO (capital) 297,000 (2018)</data>
         </subsection>
-        <subsection name='Sex ratio'>
-            <data name='at birth'>1.03 male(s)/female</data>
-            <data name='0-14 years'>1.03 male(s)/female</data>
-            <data name='15-24 years'>1.04 male(s)/female</data>
-            <data name='25-54 years'>1 male(s)/female</data>
-            <data name='55-64 years'>0.76 male(s)/female</data>
-            <data name='65 years and over'>0.72 male(s)/female</data>
-            <data name='total population'>0.99 male(s)/female (2017 est.)</data>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.03 male(s)/female</data>
+            <data name="0-14 years">1.03 male(s)/female</data>
+            <data name="15-24 years">1.04 male(s)/female</data>
+            <data name="25-54 years">1 male(s)/female</data>
+            <data name="55-64 years">0.76 male(s)/female</data>
+            <data name="65 years and over">0.72 male(s)/female</data>
+            <data name="total population">0.99 male(s)/female (2017 est.)</data>
         </subsection>
-        <subsection name='Maternal mortality ratio'>
+        <subsection name="Maternal mortality ratio">
             <data>342 deaths/100,000 live births (2015 est.)</data>
-            <data name='country comparison to the world'>37</data>
+            <data name="country comparison to the world">37</data>
         </subsection>
-        <subsection name='Infant mortality rate'>
-            <data name='total'>65.2 deaths/1,000 live births</data>
-            <data name='male'>66.3 deaths/1,000 live births</data>
-            <data name='female'>64.1 deaths/1,000 live births (2017 est.)</data>
-            <data name='country comparison to the world'>14</data>
+        <subsection name="Infant mortality rate">
+            <data name="total">65.2 deaths/1,000 live births</data>
+            <data name="male">66.3 deaths/1,000 live births</data>
+            <data name="female">64.1 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">14</data>
         </subsection>
-        <subsection name='Life expectancy at birth'>
-            <data name='total population'>64.6 years</data>
-            <data name='male'>63.4 years</data>
-            <data name='female'>65.8 years (2017 est.)</data>
-            <data name='country comparison to the world'>183</data>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">64.6 years</data>
+            <data name="male">63.4 years</data>
+            <data name="female">65.8 years (2017 est.)</data>
+            <data name="country comparison to the world">183</data>
         </subsection>
-        <subsection name='Total fertility rate'>
+        <subsection name="Total fertility rate">
             <data>4.39 children born/woman (2017 est.)</data>
-            <data name='country comparison to the world'>25</data>
+            <data name="country comparison to the world">25</data>
         </subsection>
-        <subsection name='Contraceptive prevalence rate'>
+        <subsection name="Contraceptive prevalence rate">
             <data>12.6% (2011)</data>
         </subsection>
-        <subsection name='Health expenditures'>
+        <subsection name="Health expenditures">
             <data>3.8% of GDP (2014)</data>
-            <data name='country comparison to the world'>166</data>
+            <data name="country comparison to the world">166</data>
         </subsection>
-        <subsection name='Hospital bed density'>
+        <subsection name="Hospital bed density">
             <data>2.1 beds/1,000 population (2010)</data>
         </subsection>
-        <subsection name='Drinking water source'>
-            <data name='improved'></data>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
             <data>urban: 72.5% of population</data>
             <data>rural: 31.5% of population</data>
             <data>total: 47.9% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 27.5% of population</data>
             <data>rural: 68.5% of population</data>
             <data>total: 52.1% of population (2015 est.)</data>
         </subsection>
-        <subsection name='Sanitation facility access'>
-            <data name='improved'></data>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
             <data>urban: 79.9% of population</data>
             <data>rural: 71% of population</data>
             <data>total: 74.5% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 20.1% of population</data>
             <data>rural: 29% of population</data>
             <data>total: 25.5% of population (2015 est.)</data>
         </subsection>
-        <subsection name='HIV/AIDS - adult prevalence rate'>
+        <subsection name="HIV/AIDS - adult prevalence rate">
             <data>6.5% (2017 est.)</data>
-            <data name='country comparison to the world'>11</data>
+            <data name="country comparison to the world">11</data>
         </subsection>
-        <subsection name='HIV/AIDS - people living with HIV/AIDS'>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
             <data>53,000 (2017 est.)</data>
-            <data name='country comparison to the world'>63</data>
+            <data name="country comparison to the world">63</data>
         </subsection>
-        <subsection name='HIV/AIDS - deaths'>
+        <subsection name="HIV/AIDS - deaths">
             <data>1,900 (2017 est.)</data>
         </subsection>
-        <subsection name='Major infectious diseases'>
-            <data name='degree of risk'>very high</data>
-            <data name='food or waterborne diseases'>bacterial and protozoal diarrhea, hepatitis A, and typhoid fever</data>
-            <data name='vectorborne disease'>malaria and dengue fever</data>
-            <data name='animal contact disease'>rabies (2016)</data>
+        <subsection name="Major infectious diseases">
+            <data name="degree of risk">very high</data>
+            <data name="food or waterborne diseases">bacterial and protozoal diarrhea, hepatitis A, and typhoid fever</data>
+            <data name="vectorborne disease">malaria and dengue fever</data>
+            <data name="animal contact disease">rabies (2016)</data>
         </subsection>
-        <subsection name='Obesity - adult prevalence rate'>
+        <subsection name="Obesity - adult prevalence rate">
             <data>8% (2016)</data>
-            <data name='country comparison to the world'>156</data>
+            <data name="country comparison to the world">156</data>
         </subsection>
-        <subsection name='Children under the age of 5 years underweight'>
+        <subsection name="Children under the age of 5 years underweight">
             <data>5.6% (2010)</data>
-            <data name='country comparison to the world'>87</data>
+            <data name="country comparison to the world">87</data>
         </subsection>
-        <subsection name='Literacy'>
-            <data name='definition'>age 15 and over can read and write</data>
-            <data name='total population'>95.3%</data>
-            <data name='male'>97.4%</data>
-            <data name='female'>93% (2015 est.)</data>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">95.3%</data>
+            <data name="male">97.4%</data>
+            <data name="female">93% (2015 est.)</data>
         </subsection>
     </section>
-    <section name='Government'>
-        <subsection name='Country name'>
-            <data name='conventional long form'>Republic of Equatorial Guinea</data>
-            <data name='conventional short form'>Equatorial Guinea</data>
-            <data name='local long form'>Republica de Guinea Ecuatorial/Republique de Guinee Equatoriale</data>
-            <data name='local short form'>Guinea Ecuatorial/Guinee Equatoriale</data>
-            <data name='former'>Spanish Guinea</data>
-            <data name='etymology'>the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the \"equatorial\" refers to the fact that the country lies just north of the Equator</data>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">Republic of Equatorial Guinea</data>
+            <data name="conventional short form">Equatorial Guinea</data>
+            <data name="local long form">Republica de Guinea Ecuatorial/Republique de Guinee Equatoriale</data>
+            <data name="local short form">Guinea Ecuatorial/Guinee Equatoriale</data>
+            <data name="former">Spanish Guinea</data>
+            <data name="etymology">the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the "equatorial" refers to the fact that the country lies just north of the Equator</data>
         </subsection>
-        <subsection name='Government type'>
+        <subsection name="Government type">
             <data>presidential republic</data>
         </subsection>
-        <subsection name='Capital'>
-            <data name='name'>Malabo; note - a new capital of Oyala is being built on the mainland near Djibloho; Malabo is on the island of Bioko</data>
-            <data name='geographic coordinates'>3 45 N, 8 47 E</data>
-            <data name='time difference'>UTC+1 (6 hours ahead of Washington, DC, during Standard Time)</data>
+        <subsection name="Capital">
+            <data name="name">Malabo; note - a new capital of Oyala is being built on the mainland near Djibloho; Malabo is on the island of Bioko</data>
+            <data name="geographic coordinates">3 45 N, 8 47 E</data>
+            <data name="time difference">UTC+1 (6 hours ahead of Washington, DC, during Standard Time)</data>
         </subsection>
-        <subsection name='Administrative divisions'>
+        <subsection name="Administrative divisions">
             <data>7 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Kie-Ntem, Litoral, Wele-Nzas</data>
         </subsection>
-        <subsection name='Independence'>
+        <subsection name="Independence">
             <data>12 October 1968 (from Spain)</data>
         </subsection>
-        <subsection name='National holiday'>
+        <subsection name="National holiday">
             <data>Independence Day, 12 October (1968)</data>
         </subsection>
-        <subsection name='Constitution'>
-            <data name='history'>previous 1968, 1973, 1982; approved by referendum 17 November 1991</data>
-            <data name='amendments'>proposed by the president of the republic or supported by three-fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012 (2017)</data>
+        <subsection name="Constitution">
+            <data name="history">previous 1968, 1973, 1982; approved by referendum 17 November 1991</data>
+            <data name="amendments">proposed by the president of the republic or supported by three-fourths of the membership in either house of the National Assembly; passage requires three-fourths majority vote by both houses of the Assembly and approval in a referendum if requested by the president; amended several times, last in 2012 (2017)</data>
         </subsection>
-        <subsection name='Legal system'>
+        <subsection name="Legal system">
             <data>mixed system of civil and customary law</data>
         </subsection>
-        <subsection name='International law organization participation'>
+        <subsection name="International law organization participation">
             <data>accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction</data>
         </subsection>
-        <subsection name='Citizenship'>
-            <data name='citizenship by birth'>no</data>
-            <data name='citizenship by descent only'>at least one parent must be a citizen of Equatorial Guinea</data>
-            <data name='dual citizenship recognized'>no</data>
-            <data name='residency requirement for naturalization'>10 years</data>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">no</data>
+            <data name="citizenship by descent only">at least one parent must be a citizen of Equatorial Guinea</data>
+            <data name="dual citizenship recognized">no</data>
+            <data name="residency requirement for naturalization">10 years</data>
         </subsection>
-        <subsection name='Suffrage'>
+        <subsection name="Suffrage">
             <data>18 years of age; universal</data>
         </subsection>
-        <subsection name='Executive branch'>
-            <data name='chief of state'>President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro OBIANG Nguema Mangue(since 2012)</data>
-            <data name='head of government'>Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Andres Jorge Mbomio Nsem ABUA (since 23 June 2016); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)</data>
-            <data name='cabinet'>Council of Ministers appointed by the president</data>
-            <data name='elections/appointments'>president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president</data>
-            <data name='election results'>Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%</data>
+        <subsection name="Executive branch">
+            <data name="chief of state">President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro OBIANG Nguema Mangue(since 2012)</data>
+            <data name="head of government">Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Andres Jorge Mbomio Nsem ABUA (since 23 June 2016); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)</data>
+            <data name="cabinet">Council of Ministers appointed by the president</data>
+            <data name="elections/appointments">president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president</data>
+            <data name="election results">Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%</data>
         </subsection>
-        <subsection name='Legislative branch'>
-            <data name='description'>bicameral National Assembly or Asemblea Nacional consists of:</data>
+        <subsection name="Legislative branch">
+            <data name="description">bicameral National Assembly or Asemblea Nacional consists of:</data>
             <data>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)</data>
             <data>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)</data>
-            <data name='elections'></data>
+            <data name="elections"></data>
             <data>Senate - last held on 12 November 2017 (next to be held in 2022)</data>
             <data>Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022)</data>
-            <data name='election results'></data>
+            <data name="election results"></data>
             <data>Senate - percent of vote by party - NA; seats by party - PDGE 55</data>
             <data>Chamber of Deputies - percent of vote by party - PDGE 98%, CI 0.8%, other 1.2%; seats by party - PDGE 99, CI 1</data>
         </subsection>
-        <subsection name='Judicial branch'>
-            <data name='highest court(s)'>Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges and organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)</data>
-            <data name='judge selection and term of office'>Supreme Court judges appointed by the president for 5-year terms; Constitutional Court members appointed by the president, 2 of which are nominated by the Chamber of Deputies</data>
-            <data name='subordinate courts'>Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals</data>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges and organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)</data>
+            <data name="judge selection and term of office">Supreme Court judges appointed by the president for 5-year terms; Constitutional Court members appointed by the president, 2 of which are nominated by the Chamber of Deputies</data>
+            <data name="subordinate courts">Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals</data>
         </subsection>
-        <subsection name='Political parties and leaders'>
+        <subsection name="Political parties and leaders">
             <data>Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]</data>
             <data>Democratic Party for Equatorial Guinea or PDGE [Teodoro OBIANG Nguema Mbasogo]</data>
             <data>Electoral Coalition or EC</data>
             <data>Front of Democratic Opposiiton or FOD (coalition includes CPDS, FDR, UP)</data>
             <data>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]</data>
             <data>Popular Union or UP [Daniel MARTINEZ AYECABA]</data>
-            <data name='not officially registered parties'>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]</data>
+            <data name="not officially registered parties">Democratic Republican Force or FDR [Guillermo NGUEMA ELA]</data>
             <data>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]</data>
             <data>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO]</data>
             <data>Union for the Center Right or UDC [Avelino MOCACHE MEAENGA]</data>
         </subsection>
-        <subsection name='International organization participation'>
+        <subsection name="International organization participation">
             <data>ACP, AfDB, AU, BDEAC, CEMAC, CPLP (associate), FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)</data>
         </subsection>
-        <subsection name='Diplomatic representation in the US'>
-            <data name='chief of mission'>Ambassador Miguel Ntutumu EVUNA ANDEME (since 23 February 2015)</data>
-            <data name='chancery'>2020 16th Street NW, Washington, DC 20009</data>
-            <data name='telephone'>[1] (202) 518-5700</data>
-            <data name='FAX'>[1] (202) 518-5252</data>
-            <data name='consulate(s) general'>Houston</data>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Miguel Ntutumu EVUNA ANDEME (since 23 February 2015)</data>
+            <data name="chancery">2020 16th Street NW, Washington, DC 20009</data>
+            <data name="telephone">[1] (202) 518-5700</data>
+            <data name="FAX">[1] (202) 518-5252</data>
+            <data name="consulate(s) general">Houston</data>
         </subsection>
-        <subsection name='Diplomatic representation from the US'>
-            <data name='chief of mission'>Ambassador Julie FURUTA-TOY (since January 2016)</data>
-            <data name='embassy'>Carretera Malabo II, Malabo, Guinea Ecuatorial</data>
-            <data name='mailing address'>US Embassy Malabo, US Department of State, Washington, DC 20521-2520</data>
-            <data name='telephone'>[240] 333 09 57 41</data>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador Julie FURUTA-TOY (since January 2016)</data>
+            <data name="embassy">Carretera Malabo II, Malabo, Guinea Ecuatorial</data>
+            <data name="mailing address">US Embassy Malabo, US Department of State, Washington, DC 20521-2520</data>
+            <data name="telephone">[240] 333 09 57 41</data>
         </subsection>
-        <subsection name='Flag description'>
+        <subsection name="Flag description">
             <data>three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence</data>
         </subsection>
-        <subsection name='National symbol(s)'>
+        <subsection name="National symbol(s)">
             <data>silk cotton tree; national colors: green, white, red, blue</data>
         </subsection>
-        <subsection name='National anthem'>
-            <data name='name'>\"Caminemos pisando la senda\" (Let Us Tread the Path)</data>
-            <data name='lyrics/music'>Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)</data>
-            <data name='note'>adopted 1968</data>
+        <subsection name="National anthem">
+            <data name="name">"Caminemos pisando la senda" (Let Us Tread the Path)</data>
+            <data name="lyrics/music">Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez LOPEZ (disputed)</data>
+            <data name="note">adopted 1968</data>
         </subsection>
     </section>
-    <section name='Economy'>
-        <subsection name='Economy - overview'>
+    <section name="Economy">
+        <subsection name="Economy - overview">
             <data>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</data>
             <data>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</data>
             <data>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</data>
         </subsection>
-        <subsection name='GDP (purchasing power parity)'>
+        <subsection name="GDP (purchasing power parity)">
             <data>$30.35 billion (2017 est.)</data>
             <data>$33.61 billion (2016 est.)</data>
             <data>$36.98 billion (2015 est.)</data>
-            <data name='note'>data are in 2017 dollars</data>
-            <data name='country comparison to the world'>132</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">132</data>
         </subsection>
-        <subsection name='GDP (official exchange rate)'>
+        <subsection name="GDP (official exchange rate)">
             <data>$10.73 billion (2017 est.)</data>
         </subsection>
-        <subsection name='GDP - real growth rate'>
+        <subsection name="GDP - real growth rate">
             <data>-4.4% (2017 est.)</data>
             <data>-9.7% (2016 est.)</data>
             <data>-9.1% (2015 est.)</data>
-            <data name='country comparison to the world'>216</data>
+            <data name="country comparison to the world">216</data>
         </subsection>
-        <subsection name='GDP - per capita (PPP)'>
+        <subsection name="GDP - per capita (PPP)">
             <data>$36,000 (2017 est.)</data>
             <data>$40,900 (2016 est.)</data>
             <data>$46,300 (2015 est.)</data>
-            <data name='note'>data are in 2017 dollars</data>
-            <data name='country comparison to the world'>55</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">55</data>
         </subsection>
-        <subsection name='Gross national saving'>
+        <subsection name="Gross national saving">
             <data>6.5% of GDP (2017 est.)</data>
             <data>-1.5% of GDP (2016 est.)</data>
             <data>4% of GDP (2015 est.)</data>
-            <data name='country comparison to the world'>167</data>
+            <data name="country comparison to the world">167</data>
         </subsection>
-        <subsection name='GDP - composition, by end use'>
-            <data name='household consumption'>47.9%</data>
-            <data name='government consumption'>22.8%</data>
-            <data name='investment in fixed capital'>24.6%</data>
-            <data name='investment in inventories'>0.2%</data>
-            <data name='exports of goods and services'>58.5%</data>
-            <data name='imports of goods and services'>-54.1% (2017 est.)</data>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">47.9%</data>
+            <data name="government consumption">22.8%</data>
+            <data name="investment in fixed capital">24.6%</data>
+            <data name="investment in inventories">0.2%</data>
+            <data name="exports of goods and services">58.5%</data>
+            <data name="imports of goods and services">-54.1% (2017 est.)</data>
         </subsection>
-        <subsection name='GDP - composition, by sector of origin'>
-            <data name='agriculture'>2.5%</data>
-            <data name='industry'>56.5%</data>
-            <data name='services'>41% (2017 est.)</data>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">2.5%</data>
+            <data name="industry">56.5%</data>
+            <data name="services">41% (2017 est.)</data>
         </subsection>
-        <subsection name='Agriculture - products'>
+        <subsection name="Agriculture - products">
             <data>coffee, cocoa, rice, yams, cassava (manioc, tapioca), bananas, palm oil nuts; livestock; timber</data>
         </subsection>
-        <subsection name='Industries'>
+        <subsection name="Industries">
             <data>petroleum, natural gas, sawmilling</data>
         </subsection>
-        <subsection name='Industrial production growth rate'>
+        <subsection name="Industrial production growth rate">
             <data>-5.6% (2017 est.)</data>
-            <data name='country comparison to the world'>200</data>
+            <data name="country comparison to the world">200</data>
         </subsection>
-        <subsection name='Labor force'>
+        <subsection name="Labor force">
             <data>195,200 (2007 est.)</data>
-            <data name='country comparison to the world'>176</data>
+            <data name="country comparison to the world">176</data>
         </subsection>
-        <subsection name='Unemployment rate'>
+        <subsection name="Unemployment rate">
             <data>8.6% (2014 est.)</data>
             <data>22.3% (2009 est.)</data>
-            <data name='country comparison to the world'>120</data>
+            <data name="country comparison to the world">120</data>
         </subsection>
-        <subsection name='Population below poverty line'>
+        <subsection name="Population below poverty line">
             <data>44% (2011 est.)</data>
         </subsection>
-        <subsection name='Household income or consumption by percentage share'>
-            <data name='lowest 10%'>NA%</data>
-            <data name='highest 10%'>NA%</data>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">NA%</data>
+            <data name="highest 10%">NA%</data>
         </subsection>
-        <subsection name='Budget'>
-            <data name='revenues'>$3.186 billion</data>
-            <data name='expenditures'>$3.431 billion (2017 est.)</data>
+        <subsection name="Budget">
+            <data name="revenues">$3.186 billion</data>
+            <data name="expenditures">$3.431 billion (2017 est.)</data>
         </subsection>
-        <subsection name='Taxes and other revenues'>
+        <subsection name="Taxes and other revenues">
             <data>31.6% of GDP (2017 est.)</data>
-            <data name='country comparison to the world'>72</data>
+            <data name="country comparison to the world">72</data>
         </subsection>
-        <subsection name='Budget surplus (+) or deficit (-)'>
+        <subsection name="Budget surplus (+) or deficit (-)">
             <data>-2.4% of GDP (2017 est.)</data>
-            <data name='country comparison to the world'>105</data>
+            <data name="country comparison to the world">105</data>
         </subsection>
-        <subsection name='Public debt'>
+        <subsection name="Public debt">
             <data>42.7% of GDP (2017 est.)</data>
             <data>47.9% of GDP (2016 est.)</data>
-            <data name='country comparison to the world'>123</data>
+            <data name="country comparison to the world">123</data>
         </subsection>
-        <subsection name='Fiscal year'>
+        <subsection name="Fiscal year">
             <data>calendar year</data>
         </subsection>
-        <subsection name='Inflation rate (consumer prices)'>
+        <subsection name="Inflation rate (consumer prices)">
             <data>0.7% (2017 est.)</data>
             <data>1.4% (2016 est.)</data>
-            <data name='country comparison to the world'>36</data>
+            <data name="country comparison to the world">36</data>
         </subsection>
-        <subsection name='Central bank discount rate'>
+        <subsection name="Central bank discount rate">
             <data>8.5% (31 December 2010)</data>
             <data>4.25% (31 December 2009)</data>
-            <data name='country comparison to the world'>37</data>
+            <data name="country comparison to the world">37</data>
         </subsection>
-        <subsection name='Commercial bank prime lending rate'>
+        <subsection name="Commercial bank prime lending rate">
             <data>14% (31 December 2017 est.)</data>
             <data>14% (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>56</data>
+            <data name="country comparison to the world">56</data>
         </subsection>
-        <subsection name='Stock of narrow money'>
+        <subsection name="Stock of narrow money">
             <data>$1.516 billion (31 December 2017 est.)</data>
             <data>$1.467 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>141</data>
+            <data name="country comparison to the world">141</data>
         </subsection>
-        <subsection name='Stock of broad money'>
+        <subsection name="Stock of broad money">
             <data>$1.959 billion (31 December 2017 est.)</data>
             <data>$1.864 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>158</data>
+            <data name="country comparison to the world">158</data>
         </subsection>
-        <subsection name='Stock of domestic credit'>
+        <subsection name="Stock of domestic credit">
             <data>$2.416 billion (31 December 2017 est.)</data>
             <data>$2.254 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>145</data>
+            <data name="country comparison to the world">145</data>
         </subsection>
-        <subsection name='Current account balance'>
+        <subsection name="Current account balance">
             <data>-$55 million (2017 est.)</data>
             <data>-$1.201 billion (2016 est.)</data>
-            <data name='country comparison to the world'>75</data>
+            <data name="country comparison to the world">75</data>
         </subsection>
-        <subsection name='Exports'>
+        <subsection name="Exports">
             <data>$5.412 billion (2017 est.)</data>
             <data>$5.042 billion (2016 est.)</data>
-            <data name='country comparison to the world'>106</data>
+            <data name="country comparison to the world">106</data>
         </subsection>
-        <subsection name='Exports - commodities'>
+        <subsection name="Exports - commodities">
             <data>petroleum products, timber</data>
         </subsection>
-        <subsection name='Exports - partners'>
+        <subsection name="Exports - partners">
             <data>China 28%, India 11.8%, South Korea 10.3%, Portugal 8.7%, US 6.9%, Spain 4.9% (2017)</data>
         </subsection>
-        <subsection name='Imports'>
+        <subsection name="Imports">
             <data>$2.555 billion (2017 est.)</data>
             <data>$2.862 billion (2016 est.)</data>
-            <data name='country comparison to the world'>151</data>
+            <data name="country comparison to the world">151</data>
         </subsection>
-        <subsection name='Imports - commodities'>
+        <subsection name="Imports - commodities">
             <data>petroleum sector equipment, other equipment, construction materials, vehicles</data>
         </subsection>
-        <subsection name='Imports - partners'>
+        <subsection name="Imports - partners">
             <data>Spain 20.5%, China 19.4%, US 13%, Cote dIvoire 6.2%, Netherlands 4.7% (2017)</data>
         </subsection>
-        <subsection name='Reserves of foreign exchange and gold'>
+        <subsection name="Reserves of foreign exchange and gold">
             <data>$140.9 million (31 December 2017 est.)</data>
             <data>$62.31 million (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>165</data>
+            <data name="country comparison to the world">165</data>
         </subsection>
-        <subsection name='Debt - external'>
+        <subsection name="Debt - external">
             <data>$1.181 billion (31 December 2017 est.)</data>
             <data>$1.074 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>164</data>
+            <data name="country comparison to the world">164</data>
         </subsection>
-        <subsection name='Exchange rates'>
+        <subsection name="Exchange rates">
             <data>Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -</data>
             <data>605.3 (2017 est.)</data>
             <data>593.01 (2016 est.)</data>
@@ -511,201 +511,201 @@
             <data>494.42 (2013 est.)</data>
         </subsection>
     </section>
-    <section name='Energy'>
-        <subsection name='Electricity access'>
-            <data name='population without electricity'>300,000</data>
-            <data name='electrification - total population'>66%</data>
-            <data name='electrification - urban areas'>93%</data>
-            <data name='electrification - rural areas'>48% (2013)</data>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="population without electricity">300,000</data>
+            <data name="electrification - total population">66%</data>
+            <data name="electrification - urban areas">93%</data>
+            <data name="electrification - rural areas">48% (2013)</data>
         </subsection>
-        <subsection name='Electricity - production'>
+        <subsection name="Electricity - production">
             <data>425 million kWh (2015 est.)</data>
-            <data name='country comparison to the world'>171</data>
+            <data name="country comparison to the world">171</data>
         </subsection>
-        <subsection name='Electricity - consumption'>
+        <subsection name="Electricity - consumption">
             <data>395.3 million kWh (2015 est.)</data>
-            <data name='country comparison to the world'>173</data>
+            <data name="country comparison to the world">173</data>
         </subsection>
-        <subsection name='Electricity - exports'>
+        <subsection name="Electricity - exports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>131</data>
+            <data name="country comparison to the world">131</data>
         </subsection>
-        <subsection name='Electricity - imports'>
+        <subsection name="Electricity - imports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>144</data>
+            <data name="country comparison to the world">144</data>
         </subsection>
-        <subsection name='Electricity - installed generating capacity'>
+        <subsection name="Electricity - installed generating capacity">
             <data>334,000 kW (2015 est.)</data>
-            <data name='country comparison to the world'>152</data>
+            <data name="country comparison to the world">152</data>
         </subsection>
-        <subsection name='Electricity - from fossil fuels'>
+        <subsection name="Electricity - from fossil fuels">
             <data>55.1% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>142</data>
+            <data name="country comparison to the world">142</data>
         </subsection>
-        <subsection name='Electricity - from nuclear fuels'>
+        <subsection name="Electricity - from nuclear fuels">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>85</data>
+            <data name="country comparison to the world">85</data>
         </subsection>
-        <subsection name='Electricity - from hydroelectric plants'>
+        <subsection name="Electricity - from hydroelectric plants">
             <data>44.9% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>48</data>
+            <data name="country comparison to the world">48</data>
         </subsection>
-        <subsection name='Electricity - from other renewable sources'>
+        <subsection name="Electricity - from other renewable sources">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>179</data>
+            <data name="country comparison to the world">179</data>
         </subsection>
-        <subsection name='Crude oil - production'>
+        <subsection name="Crude oil - production">
             <data>227,000 bbl/day (2016 est.)</data>
-            <data name='country comparison to the world'>36</data>
+            <data name="country comparison to the world">36</data>
         </subsection>
-        <subsection name='Crude oil - exports'>
+        <subsection name="Crude oil - exports">
             <data>278,000 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>26</data>
+            <data name="country comparison to the world">26</data>
         </subsection>
-        <subsection name='Crude oil - imports'>
+        <subsection name="Crude oil - imports">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>119</data>
+            <data name="country comparison to the world">119</data>
         </subsection>
-        <subsection name='Crude oil - proved reserves'>
+        <subsection name="Crude oil - proved reserves">
             <data>1.1 billion bbl (1 January 2017 est.)</data>
-            <data name='country comparison to the world'>43</data>
+            <data name="country comparison to the world">43</data>
         </subsection>
-        <subsection name='Refined petroleum products - production'>
+        <subsection name="Refined petroleum products - production">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>137</data>
+            <data name="country comparison to the world">137</data>
         </subsection>
-        <subsection name='Refined petroleum products - consumption'>
+        <subsection name="Refined petroleum products - consumption">
             <data>5,200 bbl/day (2015 est.)</data>
-            <data name='country comparison to the world'>175</data>
+            <data name="country comparison to the world">175</data>
         </subsection>
-        <subsection name='Refined petroleum products - exports'>
+        <subsection name="Refined petroleum products - exports">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>150</data>
+            <data name="country comparison to the world">150</data>
         </subsection>
-        <subsection name='Refined petroleum products - imports'>
+        <subsection name="Refined petroleum products - imports">
             <data>5,197 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>165</data>
+            <data name="country comparison to the world">165</data>
         </subsection>
-        <subsection name='Natural gas - production'>
+        <subsection name="Natural gas - production">
             <data>6.2 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>47</data>
+            <data name="country comparison to the world">47</data>
         </subsection>
-        <subsection name='Natural gas - consumption'>
+        <subsection name="Natural gas - consumption">
             <data>1.19 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>86</data>
+            <data name="country comparison to the world">86</data>
         </subsection>
-        <subsection name='Natural gas - exports'>
+        <subsection name="Natural gas - exports">
             <data>5.01 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>32</data>
+            <data name="country comparison to the world">32</data>
         </subsection>
-        <subsection name='Natural gas - imports'>
+        <subsection name="Natural gas - imports">
             <data>0 cu m (2013 est.)</data>
-            <data name='country comparison to the world'>120</data>
+            <data name="country comparison to the world">120</data>
         </subsection>
-        <subsection name='Natural gas - proved reserves'>
+        <subsection name="Natural gas - proved reserves">
             <data>36.81 billion cu m (1 January 2017 est.)</data>
-            <data name='country comparison to the world'>68</data>
+            <data name="country comparison to the world">68</data>
         </subsection>
-        <subsection name='Carbon dioxide emissions from consumption of energy'>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
             <data>3.7 million Mt (2013 est.)</data>
-            <data name='country comparison to the world'>136</data>
+            <data name="country comparison to the world">136</data>
         </subsection>
     </section>
-    <section name='Communications'>
-        <subsection name='Telephones - fixed lines'>
-            <data name='total subscriptions'>10,989</data>
-            <data name='subscriptions per 100 inhabitants'>1 (July 2016 est.)</data>
-            <data name='country comparison to the world'>193</data>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">10,989</data>
+            <data name="subscriptions per 100 inhabitants">1 (July 2016 est.)</data>
+            <data name="country comparison to the world">193</data>
         </subsection>
-        <subsection name='Telephones - mobile cellular'>
-            <data name='total subscriptions'>575,650</data>
-            <data name='subscriptions per 100 inhabitants'>74 (July 2016 est.)</data>
-            <data name='country comparison to the world'>167</data>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">575,650</data>
+            <data name="subscriptions per 100 inhabitants">74 (July 2016 est.)</data>
+            <data name="country comparison to the world">167</data>
         </subsection>
-        <subsection name='Telephone system'>
-            <data name='general assessment'>digital fixed-line network in most major urban areas and decent mobile cellular coverage</data>
-            <data name='domestic'>fixed-line density is about 1 per 100 persons; mobile-cellular subscribership has been increasing and in 2016 stood at about 70 percent of the population</data>
-            <data name='international'>country code - 240; international communications from Bata and Malabo to African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2016)</data>
+        <subsection name="Telephone system">
+            <data name="general assessment">digital fixed-line network in most major urban areas and decent mobile cellular coverage</data>
+            <data name="domestic">fixed-line density is about 1 per 100 persons; mobile-cellular subscribership has been increasing and in 2016 stood at about 70 percent of the population</data>
+            <data name="international">country code - 240; international communications from Bata and Malabo to African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2016)</data>
         </subsection>
-        <subsection name='Broadcast media'>
+        <subsection name="Broadcast media">
             <data>state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son, 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are accessible (2013)</data>
         </subsection>
-        <subsection name='Internet country code'>
+        <subsection name="Internet country code">
             <data>.gq</data>
         </subsection>
-        <subsection name='Internet users'>
-            <data name='total'>180,597</data>
-            <data name='percent of population'>23.8% (July 2016 est.)</data>
-            <data name='country comparison to the world'>173</data>
+        <subsection name="Internet users">
+            <data name="total">180,597</data>
+            <data name="percent of population">23.8% (July 2016 est.)</data>
+            <data name="country comparison to the world">173</data>
         </subsection>
-        <subsection name='Broadband - fixed line subscriptions'>
-            <data name='total'>3,382</data>
-            <data name='subscriptions per 100 inhabitants'>less than 1 (2017 est.)</data>
-            <data name='country comparison to the world'>181</data>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">3,382</data>
+            <data name="subscriptions per 100 inhabitants">less than 1 (2017 est.)</data>
+            <data name="country comparison to the world">181</data>
         </subsection>
     </section>
-    <section name='Transportation'>
-        <subsection name='National air transport system'>
-            <data name='number of registered air carriers'>6</data>
-            <data name='inventory of registered aircraft operated by air carriers'>15</data>
-            <data name='annual passenger traffic on registered air carriers'>400,759</data>
-            <data name='annual freight traffic on registered air carriers'>461,650 mt-km (2015)</data>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">6</data>
+            <data name="inventory of registered aircraft operated by air carriers">15</data>
+            <data name="annual passenger traffic on registered air carriers">400,759</data>
+            <data name="annual freight traffic on registered air carriers">461,650 mt-km (2015)</data>
         </subsection>
-        <subsection name='Civil aircraft registration country code prefix'>
+        <subsection name="Civil aircraft registration country code prefix">
             <data>3C (2016)</data>
         </subsection>
-        <subsection name='Airports'>
+        <subsection name="Airports">
             <data>7 (2013)</data>
-            <data name='country comparison to the world'>166</data>
+            <data name="country comparison to the world">166</data>
         </subsection>
-        <subsection name='Airports - with paved runways'>
-            <data name='total'>6</data>
-            <data name='over 3,047 m'>1</data>
-            <data name='2,438 to 3,047 m'>2</data>
-            <data name='1,524 to 2,437 m'>1</data>
-            <data name='under 914 m'>2 (2017)</data>
+        <subsection name="Airports - with paved runways">
+            <data name="total">6</data>
+            <data name="over 3,047 m">1</data>
+            <data name="2,438 to 3,047 m">2</data>
+            <data name="1,524 to 2,437 m">1</data>
+            <data name="under 914 m">2 (2017)</data>
         </subsection>
-        <subsection name='Airports - with unpaved runways'>
-            <data name='total'>1</data>
-            <data name='2,438 to 3,047 m'>1 (2013)</data>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">1</data>
+            <data name="2,438 to 3,047 m">1 (2013)</data>
         </subsection>
-        <subsection name='Pipelines'>
+        <subsection name="Pipelines">
             <data>condensate 42 km; condensate/gas 5 km; gas 79 km; oil 71 km (2013)</data>
         </subsection>
-        <subsection name='Roadways'>
-            <data name='total'>2,880 km (2000)</data>
-            <data name='country comparison to the world'>168</data>
+        <subsection name="Roadways">
+            <data name="total">2,880 km (2000)</data>
+            <data name="country comparison to the world">168</data>
         </subsection>
-        <subsection name='Merchant marine'>
-            <data name='total'>40</data>
-            <data name='by type'>container ship 1, general cargo 7, oil tanker 8, other 24 (2017)</data>
-            <data name='country comparison to the world'>122</data>
+        <subsection name="Merchant marine">
+            <data name="total">40</data>
+            <data name="by type">container ship 1, general cargo 7, oil tanker 8, other 24 (2017)</data>
+            <data name="country comparison to the world">122</data>
         </subsection>
-        <subsection name='Ports and terminals'>
-            <data name='major seaport(s)'>Bata, Luba, Malabo</data>
-            <data name='LNG terminal(s) (export)'>Bioko Island</data>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Bata, Luba, Malabo</data>
+            <data name="LNG terminal(s) (export)">Bioko Island</data>
         </subsection>
     </section>
-    <section name='Military and Security'>
-        <subsection name='Military expenditures'>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
             <data>0.18% of GDP (2016)</data>
             <data>0.78% of GDP (2014)</data>
-            <data name='country comparison to the world'>152</data>
+            <data name="country comparison to the world">152</data>
         </subsection>
-        <subsection name='Military branches'>
+        <subsection name="Military branches">
             <data>Equatorial Guinea Armed Forces (FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army), Navy, Air Force (2013)</data>
         </subsection>
-        <subsection name='Military service age and obligation'>
+        <subsection name="Military service age and obligation">
             <data>18 years of age for selective compulsory military service, although conscription is rare in practice; 2-year service obligation; women hold only administrative positions in the Navy (2013)</data>
         </subsection>
     </section>
-    <section name='Transnational Issues'>
-        <subsection name='Disputes - international'>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
             <data>in 2002, ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delayed final delimitation; UN urged Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane and lesser islands and to create a maritime boundary in the hydrocarbon-rich Corisco Bay</data>
         </subsection>
-        <subsection name='Trafficking in persons'>
-            <data name='current situation'>Equatorial Guinea is a source country for children subjected to sex trafficking and destination country for men, women, and children subjected to forced labor; Equatorial Guinean girls may be encouraged by their parents to engage in the sex trade in urban centers to receive groceries, gifts, housing, and money; children are also trafficked from nearby countries for work as domestic servants, market laborers, ambulant vendors, and launderers; women are trafficked to Equatorial Guinea from Cameroon, Benin, other neighboring countries, and China for forced labor or prostitution</data>
-            <data name='tier rating'>Tier 3 – Equatorial Guinea does not fully comply with the minimum standards on the elimination of trafficking and is not making significant efforts to do so; in 2014, the government made no efforts to investigate or prosecute any suspected trafficking offenders or to identify or protect victims, despite its 2004 law prohibiting all forms of trafficking and mandating the provision of services to victims; undocumented migrants continued to be deported without being screened to assess whether any were trafficking victims; authorities did not undertake any trafficking awareness campaigns, implement any programs to address forced child labor, or make any other efforts to prevent trafficking (2015)</data>
+        <subsection name="Trafficking in persons">
+            <data name="current situation">Equatorial Guinea is a source country for children subjected to sex trafficking and destination country for men, women, and children subjected to forced labor; Equatorial Guinean girls may be encouraged by their parents to engage in the sex trade in urban centers to receive groceries, gifts, housing, and money; children are also trafficked from nearby countries for work as domestic servants, market laborers, ambulant vendors, and launderers; women are trafficked to Equatorial Guinea from Cameroon, Benin, other neighboring countries, and China for forced labor or prostitution</data>
+            <data name="tier rating">Tier 3 – Equatorial Guinea does not fully comply with the minimum standards on the elimination of trafficking and is not making significant efforts to do so; in 2014, the government made no efforts to investigate or prosecute any suspected trafficking offenders or to identify or protect victims, despite its 2004 law prohibiting all forms of trafficking and mandating the provision of services to victims; undocumented migrants continued to be deported without being screened to assess whether any were trafficking victims; authorities did not undertake any trafficking awareness campaigns, implement any programs to address forced child labor, or make any other efforts to prevent trafficking (2015)</data>
         </subsection>
     </section>
 </region>
