@@ -6,3 +6,9 @@ Semestrálni práce na BI-XML
 <b>Marek Bělohoubek</b> - Israel, Ireland - ePub<br/>
 <b>Matyáš Procházka</b> - Montserrat, Oman - parser pro data ze stranek<br/>
 <b>Tomáš Pospíšil</b> - Cuba, Egypt - transformace do pdf<br/>
+
+## Validace pomocí DTD
+
+```
+xmllint --noout --dtdvalid xml/schema.dtd xml/source.xml
+```
