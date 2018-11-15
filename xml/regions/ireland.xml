@@ -1,0 +1,769 @@
+<region id="ireland" name="Ireland">
+    <section name="Introduction">
+        <subsection name="Background">
+            <data>Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century was responsible for a drop in the island's population by more than one quarter through starvation, disease, and emigration. For more than a century afterward, the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU.</data>
+            <data>The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising that touched off several years of guerrilla warfare resulting in independence from the UK in 1921 for 26 southern counties; six northern (Ulster) counties remained part of the UK. Deep sectarian divides between the Catholic and Protestant populations and systemic discrimination in Northern Ireland erupted into years of violence known as the "Troubles" that began in the 1960s. The Government of Ireland was part of a process along with the UK and US Governments that helped broker the Good Friday Agreement in Northern Ireland in 1998. This initiated a new phase of cooperation between the Irish and British Governments. Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the euro-zone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. Today the economy is recovering, fueled by large and growing foreign direct investment, especially from US multi-nationals.</data>
+        </subsection>
+    </section>
+    <section name="Geography">
+        <subsection name="Location">
+            <data>Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain</data>
+        </subsection>
+        <subsection name="Geographic coordinates">
+            <data>53 00 N, 8 00 W</data>
+        </subsection>
+        <subsection name="Map references">
+            <data>Europe</data>
+        </subsection>
+        <subsection name="Area">
+            <data name="total">70,273 sq km</data>
+            <data name="land">68,883 sq km</data>
+            <data name="water">1,390 sq km</data>
+            <data name="country comparison to the world">121</data>
+        </subsection>
+        <subsection name="Area - comparative">
+            <data>slightly larger than West Virginia</data>
+        </subsection>
+        <subsection name="Land boundaries">
+            <data name="total">443 km</data>
+            <data name="border countries (1)">UK 443 km</data>
+        </subsection>
+        <subsection name="Coastline">
+            <data>1,448 km</data>
+        </subsection>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="exclusive fishing zone">200 nm</data>
+        </subsection>
+        <subsection name="Climate">
+            <data>temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time</data>
+        </subsection>
+        <subsection name="Terrain">
+            <data>mostly flat to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast</data>
+        </subsection>
+        <subsection name="Elevation">
+            <data name="mean elevation">118 m</data>
+            <data name="elevation extremes">lowest point: Atlantic Ocean 0 m</data>
+            <data>highest point: Carrauntoohil 1,041 m</data>
+        </subsection>
+        <subsection name="Natural resources">
+            <data>natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite</data>
+        </subsection>
+        <subsection name="Land use">
+            <data name="agricultural land">66.1%</data>
+            <data>arable land 15.4%; permanent crops 0%; permanent pasture 50.7%</data>
+            <data name="forest">10.9%</data>
+            <data name="other">23% (2011 est.)</data>
+        </subsection>
+        <subsection name="Irrigated land">
+            <data>0 sq km (2012)</data>
+        </subsection>
+        <subsection name="Population - distribution">
+            <data>population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities</data>
+        </subsection>
+        <subsection name="Natural hazards">
+            <data>rare extreme weather events</data>
+        </subsection>
+        <subsection name="Environment - current issues">
+            <data>water pollution, especially of lakes, from agricultural runoff; acid rain kills plants, destroys soil fertility, and contributes to deforestation</data>
+        </subsection>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</data>
+            <data name="signed, but not ratified">Air Pollution-Persistent Organic Pollutants, Marine Life Conservation</data>
+        </subsection>
+        <subsection name="Geography - note">
+            <data>strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin</data>
+        </subsection>
+    </section>
+    <section name="People and Society">
+        <subsection name="Population">
+            <data>5,011,102 (July 2017 est.)</data>
+            <data name="country comparison to the world">121</data>
+        </subsection>
+        <subsection name="Nationality">
+            <data name="noun">Irishman(men), Irishwoman(women), Irish (collective plural)</data>
+            <data name="adjective">Irish</data>
+        </subsection>
+        <subsection name="Ethnic groups">
+            <data>Irish 82.2%, Irish travelers 0.7%, other white 9.5%, Asian 2.1%, black 1.4%, other 1.5%, unspecified 2.6% (2016 est.)</data>
+        </subsection>
+        <subsection name="Languages">
+            <data>English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 39.8% of the population as of 2016; mainly spoken in areas along Ireland's western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)</data>
+        </subsection>
+        <subsection name="Religions">
+            <data>Roman Catholic 78.3%, Church of Ireland 2.7%, other Christian 1.6%, Orthodox 1.3%, Muslim 1.3%, other 2.4%, none 9.8%, unspecified 2.6% (2016 est.)</data>
+        </subsection>
+        <subsection name="Age structure">
+            <data name="0-14 years">21.46% (male 549,864/female 525,608)</data>
+            <data name="15-24 years">11.84% (male 301,114/female 292,055)</data>
+            <data name="25-54 years">43.2% (male 1,087,587/female 1,077,383)</data>
+            <data name="55-64 years">10.42% (male 261,650/female 260,737)</data>
+            <data name="65 years and over">13.07% (male 303,078/female 352,026) (2017 est.)</data>
+        </subsection>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">53.8</data>
+            <data name="youth dependency ratio">33.4</data>
+            <data name="elderly dependency ratio">20.3</data>
+            <data name="potential support ratio">4.9 (2015 est.)</data>
+        </subsection>
+        <subsection name="Median age">
+            <data name="total">36.8 years</data>
+            <data name="male">36.4 years</data>
+            <data name="female">37.1 years (2017 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Population growth rate">
+            <data>1.15% (2017 est.)</data>
+            <data name="country comparison to the world">99</data>
+        </subsection>
+        <subsection name="Birth rate">
+            <data>14.1 births/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">137</data>
+        </subsection>
+        <subsection name="Death rate">
+            <data>6.6 deaths/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">142</data>
+        </subsection>
+        <subsection name="Net migration rate">
+            <data>4 migrant(s)/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">27</data>
+        </subsection>
+        <subsection name="Population distribution">
+            <data>population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities</data>
+        </subsection>
+        <subsection name="Urbanization">
+            <data name="urban population">63.2% of total population (2018)</data>
+            <data name="rate of urbanization">1.14% annual rate of change (2015-20 est.)</data>
+        </subsection>
+        <subsection name="Major urban areas - population">
+            <data>DUBLIN (capital) 1.201 million (2018)</data>
+        </subsection>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.06 male(s)/female</data>
+            <data name="0-14 years">1.05 male(s)/female</data>
+            <data name="15-24 years">1.03 male(s)/female</data>
+            <data name="25-54 years">1.01 male(s)/female</data>
+            <data name="55-64 years">1 male(s)/female</data>
+            <data name="65 years and over">0.86 male(s)/female</data>
+            <data name="total population">1 male(s)/female (2017 est.)</data>
+        </subsection>
+        <subsection name="Mother's mean age at first birth">
+            <data>30.7 years (2015 est.)</data>
+        </subsection>
+        <subsection name="Maternal mortality ratio">
+            <data>8 deaths/100,000 live births (2015 est.)</data>
+            <data name="country comparison to the world">156</data>
+        </subsection>
+        <subsection name="Infant mortality rate">
+            <data name="total">3.6 deaths/1,000 live births</data>
+            <data name="male">4 deaths/1,000 live births</data>
+            <data name="female">3.3 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">198</data>
+        </subsection>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">80.9 years</data>
+            <data name="male">78.6 years</data>
+            <data name="female">83.4 years (2017 est.)</data>
+            <data name="country comparison to the world">33</data>
+        </subsection>
+        <subsection name="Total fertility rate">
+            <data>1.97 children born/woman (2017 est.)</data>
+            <data name="country comparison to the world">125</data>
+        </subsection>
+        <subsection name="Health expenditures">
+            <data>7.8% of GDP (2014)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Physicians density">
+            <data>2.96 physicians/1,000 population (2016)</data>
+        </subsection>
+        <subsection name="Hospital bed density">
+            <data>2.8 beds/1,000 population (2013)</data>
+        </subsection>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
+            <data>urban: 97.9% of population</data>
+            <data>rural: 97.8% of population</data>
+            <data>total: 97.9% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 2.1% of population</data>
+            <data>rural: 2.2% of population</data>
+            <data>total: 2.1% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
+            <data>urban: 89.1% of population</data>
+            <data>rural: 92.9% of population</data>
+            <data>total: 90.5% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 10.9% of population</data>
+            <data>rural: 7.1% of population</data>
+            <data>total: 9.5% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="HIV/AIDS - adult prevalence rate">
+            <data>0.2% (2017 est.)</data>
+            <data name="country comparison to the world">89</data>
+        </subsection>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
+            <data>7,200 (2017 est.)</data>
+            <data name="country comparison to the world">105</data>
+        </subsection>
+        <subsection name="HIV/AIDS - deaths">
+            <data>&lt;100 (2017 est.)</data>
+        </subsection>
+        <subsection name="Obesity - adult prevalence rate">
+            <data>25.3% (2016)</data>
+            <data name="country comparison to the world">51</data>
+        </subsection>
+        <subsection name="Education expenditures">
+            <data>4.9% of GDP (2014)</data>
+            <data name="country comparison to the world">31</data>
+        </subsection>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">19 years</data>
+            <data name="male">19 years</data>
+            <data name="female">19 years (2014)</data>
+        </subsection>
+        <subsection name="Unemployment, youth ages 15-24">
+            <data name="total">17.2%</data>
+            <data name="male">19.5%</data>
+            <data name="female">14.6% (2016 est.)</data>
+            <data name="country comparison to the world">61</data>
+        </subsection>
+    </section>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">none</data>
+            <data name="conventional short form">Ireland</data>
+            <data name="local long form">none</data>
+            <data name="local short form">Eire</data>
+            <data name="etymology">the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other</data>
+        </subsection>
+        <subsection name="Government type">
+            <data>parliamentary republic</data>
+        </subsection>
+        <subsection name="Capital">
+            <data name="name">Dublin</data>
+            <data name="geographic coordinates">53 19 N, 6 14 W</data>
+            <data name="time difference">UTC 0 (5 hours ahead of Washington, DC, during Standard Time)</data>
+            <data name="daylight saving time">+1hr, begins last Sunday in March; ends last Sunday in October</data>
+        </subsection>
+        <subsection name="Administrative divisions">
+            <data>28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow</data>
+        </subsection>
+        <subsection name="Independence">
+            <data>6 December 1921 (from the UK by the Anglo-Irish Treaty, which ended British rule); 6 December 1922 (Irish Free State established); 18 April 1949 (Republic of Ireland Act enabled)</data>
+        </subsection>
+        <subsection name="National holiday">
+            <data>Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903</data>
+        </subsection>
+        <subsection name="Constitution">
+            <data name="history">previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937</data>
+            <data name="amendments">proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2018 (2018)</data>
+        </subsection>
+        <subsection name="Legal system">
+            <data>common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court</data>
+        </subsection>
+        <subsection name="International law organization participation">
+            <data>accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction</data>
+        </subsection>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child</data>
+            <data name="citizenship by descent">yes</data>
+            <data name="dual citizenship recognized">yes</data>
+            <data name="residency requirement for naturalization">4 of the previous 8 years</data>
+        </subsection>
+        <subsection name="Suffrage">
+            <data>18 years of age; universal</data>
+        </subsection>
+        <subsection name="Executive branch">
+            <data name="chief of state">President Michael D. HIGGINS (since 11 November 2011)</data>
+            <data name="head of government">Taoiseach (Prime Minister) Leo VARADKAR (since 14 June 2017)</data>
+            <data name="cabinet">Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)</data>
+            <data name="elections/appointments">president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 29 October 2011 (next to be held no later than 10 November 2018); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president</data>
+            <data name="election results">Michael D. HIGGINS elected president; percent of vote - Michael D. HIGGINS (Labor Party) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin MCGUINNESS (Sinn Fein) 13.7%, Gay MITCHELL (Fine Gael) 6.4%, David NORRIS (independent) 6.2%, other 5.6%</data>
+        </subsection>
+        <subsection name="Legislative branch">
+            <data name="description">bicameral Parliament or Oireachtas consists of:</data>
+            <data>Senate or Seanad Eireann (60 seats; 43 members indirectly elected from 5 vocational panels of nominees by an electoral college consisting of members from the House of Representatives, outgoing Senate members, and city and county council members, 11 appointed by the prime minister, and 6 elected by 2 university constituencies - 3 each from the University of Dublin (Trinity College) and the National University of Ireland)</data>
+            <data>House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)</data>
+            <data name="elections"></data>
+            <data>Senate - last held in April and May 2016 (next to be held no later than 2021)</data>
+            <data>House of Representatives - last held on 26 February 2016 (next to be held no later than 2021)</data>
+            <data name="election results"></data>
+            <data>Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14; composition - men 42, women 18, percent of women 30%</data>
+            <data>House of Representatives - percent of vote by party - Fine Gael 25.5%, Fianna Fail 24.4%, Sinn Fein 13.8%, Labor Party 6.6%, AAA-PBP 4%, Social Democrats 3%, Green Party 2.7%, Renua Ireland 2.2% independent 17.8%; seats by party - Fine Gael 50, Fianna Fail 44, Sinn Fein 23, Labor Party 7, AAA-PBP 6, Social Democrats 3, Green Party 2, independent 23; composition - men 123, women 35, percent of women 22.2%; note - total Parliament percent of women 24.3%</data>
+        </subsection>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)</data>
+            <data name="judge selection and term of office">judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70</data>
+            <data name="subordinate courts">High Court, Court of Appeal; circuit and district courts; criminal courts</data>
+        </subsection>
+        <subsection name="Political parties and leaders">
+            <data>Solidarity-People Before Profit or AAAS-PBP [collective leadership]</data>
+            <data>Fianna Fail [Micheal MARTIN]</data>
+            <data>Fine Gael [Leo VARADKAR]</data>
+            <data>Green Party [Eamon RYAN]</data>
+            <data>Labor (Labour) Party [Brendan HOWLIN]</data>
+            <data>Renua Ireland [John LEAHY]</data>
+            <data>Sinn Fein [Mary Lou MCDONALD]</data>
+            <data>Social Democrats [Catherine MURPHY, Roisin SHORTALL]</data>
+            <data>Socialist Party [collective leadership]</data>
+            <data>The Workers' Party [Michael DONNELLY]</data>
+        </subsection>
+        <subsection name="International organization participation">
+            <data>ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC</data>
+        </subsection>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Daniel Gerard MULHALL (since 8 September 2017)</data>
+            <data name="chancery">2234 Massachusetts Avenue NW, Washington, DC 20008</data>
+            <data name="telephone">[1] (202) 462-3939</data>
+            <data name="FAX">[1] (202) 232-5993</data>
+            <data name="consulate(s) general">Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco</data>
+        </subsection>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador (vacant) Charge d'Affaires L. Reece SMYTH (since 20 January 2017)</data>
+            <data name="embassy">42 Elgin Road, Ballsbridge, Dublin 4</data>
+            <data name="mailing address">use embassy street address</data>
+            <data name="telephone">[353] (1) 668-8777</data>
+            <data name="FAX">[353] (1) 668-9946</data>
+        </subsection>
+        <subsection name="Flag description">
+            <data>three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange</data>
+            <data name="note">similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red</data>
+        </subsection>
+        <subsection name="National symbol(s)">
+            <data>harp, shamrock (trefoil); national colors: blue, green</data>
+        </subsection>
+        <subsection name="National anthem">
+            <data name="name">"Amhran na bhFiann" (The Soldier's Song)</data>
+            <data name="lyrics/music">Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY</data>
+            <data name="note">adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team</data>
+        </subsection>
+    </section>
+    <section name="Economy">
+        <subsection name="Economy - overview">
+            <data>Ireland is a small, modern, trade-dependent economy. It was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply during the world financial crisis and the subsequent collapse of its domestic property market and construction industry during 2008-11. Faced with sharply reduced revenues and a burgeoning budget deficit from efforts to stabilize its fragile banking sector, the Irish Government introduced the first in a series of draconian budgets in 2009. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world's largest deficit, as a percentage of GDP. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s banking sector and avoid defaulting on its sovereign debt. In March 2011, the KENNY government intensified austerity measures to meet the deficit targets under Ireland's EU-IMF bailout program.</data>
+            <data>In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt. In 2014, the economy rapidly picked up. In late 2014, the government introduced a fiscally neutral budget, marking the end of the austerity program. Continued growth of tax receipts has allowed the government to lower some taxes and increase public spending while keeping to its deficit-reduction targets. In 2015, GDP growth exceeded 26%. The magnitude of the increase reflected one-off statistical revisions, multinational corporate restructurings in intellectual property, and the aircraft leasing sector, rather than real gains in the domestic economy, which was still growing. Growth moderated to around 4.1% in 2017, but the recovering economy assisted lowering the deficit to 0.6% of GDP.</data>
+            <data>In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment during the 2008-11 economic crisis, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Ireland’s low corporation tax of 12.5% and a talented pool of high-tech laborers have been some of the key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to pay less tax or, in the case of U.S. multinationals, defer taxation owed to the United States. In 2014, amid growing international pressure, the Irish government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole. The Irish economy continued to grow in 2017 and is forecast to do so through 2019, supported by a strong export sector, robust job growth, and low inflation, to the point that the Government must now address concerns about overheating and potential loss of competitiveness. The greatest risks to the economy are the UK’s scheduled departure from the European Union (“Brexit”) in March 2019, possible changes to international taxation policies that could affect Ireland’s revenues, and global trade pressures.</data>
+        </subsection>
+        <subsection name="GDP (purchasing power parity)">
+            <data>$357.2 billion (2017 est.)</data>
+            <data>$339.7 billion (2016 est.)</data>
+            <data>$270.7 billion (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">52</data>
+        </subsection>
+        <subsection name="GDP (official exchange rate)">
+            <data>$334 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - real growth rate">
+            <data>7.8% (2017 est.)</data>
+            <data>5.1% (2016 est.)</data>
+            <data>25.5% (2015 est.)</data>
+            <data name="country comparison to the world">9</data>
+        </subsection>
+        <subsection name="GDP - per capita (PPP)">
+            <data>$75,500 (2017 est.)</data>
+            <data>$72,300 (2016 est.)</data>
+            <data>$58,200 (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">10</data>
+        </subsection>
+        <subsection name="Gross national saving">
+            <data>36.7% of GDP (2017 est.)</data>
+            <data>35.7% of GDP (2016 est.)</data>
+            <data>32.1% of GDP (2015 est.)</data>
+            <data name="country comparison to the world">13</data>
+        </subsection>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">34.6%</data>
+            <data name="government consumption">10.3%</data>
+            <data name="investment in fixed capital">33.1%</data>
+            <data name="investment in inventories">0.8%</data>
+            <data name="exports of goods and services">120.7%</data>
+            <data name="imports of goods and services">-99.5% (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">1%</data>
+            <data name="industry">38.2%</data>
+            <data name="services">60.7% (2017 est.)</data>
+        </subsection>
+        <subsection name="Agriculture - products">
+            <data>barley, potatoes, wheat; beef, dairy products</data>
+        </subsection>
+        <subsection name="Industries">
+            <data>pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices</data>
+        </subsection>
+        <subsection name="Industrial production growth rate">
+            <data>1.5% (2017 est.)</data>
+            <data name="country comparison to the world">150</data>
+        </subsection>
+        <subsection name="Labor force">
+            <data>2.226 million (2017 est.)</data>
+            <data name="country comparison to the world">123</data>
+        </subsection>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">5%</data>
+            <data name="industry">11%</data>
+            <data name="services">84% (2015 est.)</data>
+        </subsection>
+        <subsection name="Unemployment rate">
+            <data>6.4% (2017 est.)</data>
+            <data>7.9% (2016 est.)</data>
+            <data name="country comparison to the world">92</data>
+        </subsection>
+        <subsection name="Population below poverty line">
+            <data>8.2% (2013 est.)</data>
+        </subsection>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">2.9%</data>
+            <data name="highest 10%">27.2% (2000)</data>
+        </subsection>
+        <subsection name="Distribution of family income - Gini index">
+            <data>31.3 (2013 est.)</data>
+            <data>35.9 (1987 est.)</data>
+            <data name="country comparison to the world">125</data>
+        </subsection>
+        <subsection name="Budget">
+            <data name="revenues">$85.41 billion</data>
+            <data name="expenditures">$87.22 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="Taxes and other revenues">
+            <data>26.2% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">111</data>
+        </subsection>
+        <subsection name="Budget surplus (+) or deficit (-)">
+            <data>-0.6% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Public debt">
+            <data>68.5% of GDP (2017 est.)</data>
+            <data>72.9% of GDP (2016 est.)</data>
+            <data name="note">data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions</data>
+            <data name="country comparison to the world">52</data>
+        </subsection>
+        <subsection name="Fiscal year">
+            <data>calendar year</data>
+        </subsection>
+        <subsection name="Inflation rate (consumer prices)">
+            <data>0.3% (2017 est.)</data>
+            <data>-0.2% (2016 est.)</data>
+            <data name="country comparison to the world">19</data>
+        </subsection>
+        <subsection name="Central bank discount rate">
+            <data>0.05% (31 December 2015)</data>
+            <data>0.15% (31 August 2014)</data>
+            <data name="note">this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area</data>
+            <data name="country comparison to the world">143</data>
+        </subsection>
+        <subsection name="Commercial bank prime lending rate">
+            <data>3.8% (31 December 2017 est.)</data>
+            <data>3.48% (31 December 2016 est.)</data>
+            <data name="country comparison to the world">164</data>
+        </subsection>
+        <subsection name="Stock of narrow money">
+            <data>$180 billion (31 December 2017 est.)</data>
+            <data>$156.2 billion (31 December 2016 est.)</data>
+            <data name="note">see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders</data>
+            <data name="country comparison to the world">27</data>
+        </subsection>
+        <subsection name="Stock of broad money">
+            <data>$233.9 billion (31 December 2017 est.)</data>
+            <data>$204.9 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Stock of domestic credit">
+            <data>$305.3 billion (31 December 2017 est.)</data>
+            <data>$287.1 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">37</data>
+        </subsection>
+        <subsection name="Market value of publicly traded shares">
+            <data>$128 billion (31 December 2015 est.)</data>
+            <data>$143.5 billion (31 December 2014 est.)</data>
+            <data>$170.1 billion (31 December 2013 est.)</data>
+            <data name="country comparison to the world">40</data>
+        </subsection>
+        <subsection name="Current account balance">
+            <data>$41.88 billion (2017 est.)</data>
+            <data>$10.17 billion (2016 est.)</data>
+            <data name="country comparison to the world">12</data>
+        </subsection>
+        <subsection name="Exports">
+            <data>$225.1 billion (2017 est.)</data>
+            <data>$206 billion (2016 est.)</data>
+            <data name="country comparison to the world">24</data>
+        </subsection>
+        <subsection name="Exports - commodities">
+            <data>machinery and equipment, computers, chemicals, medical devices, pharmaceuticals; foodstuffs, animal products</data>
+        </subsection>
+        <subsection name="Exports - partners">
+            <data>US 27.1%, UK 13.4%, Belgium 11%, Germany 8.1%, Switzerland 5.1%, Netherlands 4.9%, France 4.3% (2017)</data>
+        </subsection>
+        <subsection name="Imports">
+            <data>$96.03 billion (2017 est.)</data>
+            <data>$92.09 billion (2016 est.)</data>
+            <data name="country comparison to the world">34</data>
+        </subsection>
+        <subsection name="Imports - commodities">
+            <data>data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing</data>
+        </subsection>
+        <subsection name="Imports - partners">
+            <data>UK 29%, US 18.9%, France 12.1%, Germany 9.6%, Netherlands 4.1% (2017)</data>
+        </subsection>
+        <subsection name="Reserves of foreign exchange and gold">
+            <data>$3.591 billion (31 December 2016 est.)</data>
+            <data>$2.203 billion (31 December 2015 est.)</data>
+            <data name="country comparison to the world">100</data>
+        </subsection>
+        <subsection name="Debt - external">
+            <data>$2.47 trillion (31 March 2016 est.)</data>
+            <data>$2.35 trillion (31 March 2015 est.)</data>
+            <data name="country comparison to the world">9</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - at home">
+            <data>$1.477 trillion (31 December 2017 est.)</data>
+            <data>$1.411 trillion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">7</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - abroad">
+            <data>$1.49 trillion (31 December 2017 est.)</data>
+            <data>$1.404 trillion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">9</data>
+        </subsection>
+        <subsection name="Exchange rates">
+            <data>euros (EUR) per US dollar -</data>
+            <data>0.89 (2017 est.)</data>
+            <data>0.9 (2016 est.)</data>
+            <data>0.92 (2015 est.)</data>
+            <data>0.89 (2014 est.)</data>
+            <data>0.76 (2013 est.)</data>
+        </subsection>
+    </section>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="electrification - total population">100% (2016)</data>
+        </subsection>
+        <subsection name="Electricity - production">
+            <data>25.2 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">70</data>
+        </subsection>
+        <subsection name="Electricity - consumption">
+            <data>23.79 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">70</data>
+        </subsection>
+        <subsection name="Electricity - exports">
+            <data>1.583 billion kWh (2016 est.)</data>
+            <data name="country comparison to the world">49</data>
+        </subsection>
+        <subsection name="Electricity - imports">
+            <data>871 million kWh (2016 est.)</data>
+            <data name="country comparison to the world">71</data>
+        </subsection>
+        <subsection name="Electricity - installed generating capacity">
+            <data>9.557 million kW (2015 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+        <subsection name="Electricity - from fossil fuels">
+            <data>68.1% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">106</data>
+        </subsection>
+        <subsection name="Electricity - from nuclear fuels">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">84</data>
+        </subsection>
+        <subsection name="Electricity - from hydroelectric plants">
+            <data>2.5% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">135</data>
+        </subsection>
+        <subsection name="Electricity - from other renewable sources">
+            <data>29.7% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">15</data>
+        </subsection>
+        <subsection name="Crude oil - production">
+            <data>0 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">127</data>
+        </subsection>
+        <subsection name="Crude oil - exports">
+            <data>0 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">114</data>
+        </subsection>
+        <subsection name="Crude oil - imports">
+            <data>65,390 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">49</data>
+        </subsection>
+        <subsection name="Crude oil - proved reserves">
+            <data>0 bbl (1 January 2017 est.)</data>
+            <data name="country comparison to the world">129</data>
+        </subsection>
+        <subsection name="Refined petroleum products - production">
+            <data>64,310 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">77</data>
+        </subsection>
+        <subsection name="Refined petroleum products - consumption">
+            <data>151,700 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">69</data>
+        </subsection>
+        <subsection name="Refined petroleum products - exports">
+            <data>31,540 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+        <subsection name="Refined petroleum products - imports">
+            <data>119,600 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">53</data>
+        </subsection>
+        <subsection name="Natural gas - production">
+            <data>132 million cu m (2015 est.)</data>
+            <data name="country comparison to the world">81</data>
+        </subsection>
+        <subsection name="Natural gas - consumption">
+            <data>4.354 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">64</data>
+        </subsection>
+        <subsection name="Natural gas - exports">
+            <data>0 cu m (2014 est.)</data>
+            <data name="country comparison to the world">95</data>
+        </subsection>
+        <subsection name="Natural gas - imports">
+            <data>4.234 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Natural gas - proved reserves">
+            <data>9.911 billion cu m (1 January 2017 est.)</data>
+            <data name="country comparison to the world">84</data>
+        </subsection>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
+            <data>34 million Mt (2013 est.)</data>
+            <data name="country comparison to the world">74</data>
+        </subsection>
+    </section>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">1,842,026</data>
+            <data name="subscriptions per 100 inhabitants">37 (2017 est.)</data>
+            <data name="country comparison to the world">59</data>
+        </subsection>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">4,898,872</data>
+            <data name="subscriptions per 100 inhabitants">98 (2017 est.)</data>
+            <data name="country comparison to the world">121</data>
+        </subsection>
+        <subsection name="Telephone system">
+            <data name="general assessment">modern digital system using cable and microwave radio relay</data>
+            <data name="domestic">system privatized but dominated by former state monopoly operator; increasing levels of broadband access particularly in urban areas</data>
+            <data name="international">country code - 353; landing point for the Hibernia-Atlantic submarine cable with links to the US, Canada, and UK; satellite earth stations - 81 (2014)</data>
+        </subsection>
+        <subsection name="Broadcast media">
+            <data>publicly owned broadcaster Radio Telefis Eireann (RTE) operates 2 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2014)</data>
+        </subsection>
+        <subsection name="Internet country code">
+            <data>.ie</data>
+        </subsection>
+        <subsection name="Internet users">
+            <data name="total">4,069,432</data>
+            <data name="percent of population">82.2% (July 2016 est.)</data>
+            <data name="country comparison to the world">88</data>
+        </subsection>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">1,401,356</data>
+            <data name="subscriptions per 100 inhabitants">28 (2017 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+    </section>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">6</data>
+            <data name="inventory of registered aircraft operated by air carriers">431</data>
+            <data name="annual passenger traffic on registered air carriers">113,144,501</data>
+            <data name="annual freight traffic on registered air carriers">138.58 million mt-km (2015)</data>
+        </subsection>
+        <subsection name="Civil aircraft registration country code prefix">
+            <data>EI (2016)</data>
+        </subsection>
+        <subsection name="Airports">
+            <data>40 (2013)</data>
+            <data name="country comparison to the world">105</data>
+        </subsection>
+        <subsection name="Airports - with paved runways">
+            <data name="total">16</data>
+            <data name="over 3,047 m">1</data>
+            <data name="2,438 to 3,047 m">1</data>
+            <data name="1,524 to 2,437 m">4</data>
+            <data name="914 to 1,523 m">5</data>
+            <data name="under 914 m">5 (2017)</data>
+        </subsection>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">24</data>
+            <data name="2,438 to 3,047 m">1</data>
+            <data name="914 to 1,523 m">2</data>
+            <data name="under 914 m">21 (2013)</data>
+        </subsection>
+        <subsection name="Pipelines">
+            <data>gas 2,147 km (2013)</data>
+        </subsection>
+        <subsection name="Railways">
+            <data name="total">3,237 km</data>
+            <data name="broad gauge">1,872 km 1.600-m gauge (49 km electrified)</data>
+            <data name="narrow gauge">1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2014)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Roadways">
+            <data name="total">96,036 km</data>
+            <data name="paved">96,036 km (includes 1,224 km of expressways) (2014)</data>
+            <data name="country comparison to the world">51</data>
+        </subsection>
+        <subsection name="Waterways">
+            <data>956 km (pleasure craft only) (2010)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="Merchant marine">
+            <data name="total">83</data>
+            <data name="by type">bulk carrier 9, general cargo 28, oil tanker 1, other 45 (2017)</data>
+            <data name="country comparison to the world">93</data>
+        </subsection>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Dublin, Shannon Foynes</data>
+            <data name="river port(s)">Cork (Lee), Waterford (Suir)</data>
+            <data name="container port(s) (TEUs)">Dublin (529,563) (2016)</data>
+            <data name="cruise port(s)">Cork, Dublin</data>
+        </subsection>
+    </section>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
+            <data>0.34% of GDP (2016)</data>
+            <data>0.35% of GDP (2015)</data>
+            <data>0.47% of GDP (2014)</data>
+            <data>0.5% of GDP (2013)</data>
+            <data>0.51% of GDP (2012)</data>
+            <data name="country comparison to the world">149</data>
+        </subsection>
+        <subsection name="Military branches">
+            <data>Irish Defence Forces (Oglaigh na h-Eireannn), Permanent Defence Forces (PDF): Army, Naval Service, Air Corps; Reserve Defence Forces (RDF): Army, Naval Service Reserves (2014)</data>
+        </subsection>
+        <subsection name="Military service age and obligation">
+            <data>18-25 years of age for male and female voluntary military service recruits to the Permanent Defence Forces (PDF; 18-27 years of age for the Naval Service); 18-28 for cadetship (officer) applicants; 18-35 years of age for the Reserve Defence Forces (RDF); maximum obligation 12 years (PDF officers), 5 years (PDF enlisted), 3 years RDF (4 years for Naval Service Reserves); EU citizenship, refugee status, or 5-year residence in Ireland required (2014)</data>
+        </subsection>
+    </section>
+    <section name="Terrorism">
+        <subsection name="Terrorist groups - foreign based">
+            <data name="Continuity Irish Republican Army (CIRA)"></data>
+            <data>aim(s): to bring about a united Ireland</data>
+            <data>area(s) of operation: maintains an operational presence</data>
+            <data name="New Irish Republican Army (NIRA)"></data>
+            <data>aim(s): to bring about a united Ireland</data>
+            <data>area(s) of operation: maintains an operational presence</data>
+            <data>note(s): formerly known as the Real Irish Republican Army (RIRA) (April 2018)</data>
+        </subsection>
+    </section>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
+            <data>Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</data>
+        </subsection>
+        <subsection name="Refugees and internally displaced persons">
+            <data name="stateless persons">99 (2017)</data>
+        </subsection>
+        <subsection name="Illicit drugs">
+            <data>transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern</data>
+        </subsection>
+    </section>
+</region>
