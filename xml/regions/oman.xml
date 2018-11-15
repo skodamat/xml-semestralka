@@ -1,515 +1,515 @@
-<region name='Oman'>
-    <section name='Introduction'>
-        <subsection name='Background'>
+<region id="oman" name="Oman">
+    <section name="Introduction">
+        <subsection name="Background">
             <data>The inhabitants of the area of Oman have long prospered from Indian Ocean trade. In the late 18th century, the nascent sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, although the sultanate never became a British colony. In 1970, QABOOS bin Said Al-Said overthrew his father, and has since ruled as sultan, but he has not designated a successor. His extensive modernization program has opened the country to the outside world, while preserving the longstanding close ties with the UK and US. Oman's moderate, independent foreign policy has sought to maintain good relations with its neighbors and to avoid external entanglements.</data>
             <data>Inspired by the popular uprisings that swept the Middle East and North Africa beginning in January 2011, some Omanis staged demonstrations, calling for more jobs and economic benefits and an end to corruption. In response to those protester demands, QABOOS in 2011 pledged to implement economic and political reforms, such as granting legislative and regulatory powers to the Majlis al-Shura and increasing unemployment benefits. Additionally, in August 2012, the Sultan announced a royal directive mandating the speedy implementation of a national job creation plan for thousands of public and private sector Omani jobs. This initiative took on new urgency in December 2017, when QABOOS instructed the government to create 25,000 new jobs in the public and private sectors for Omanis. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in December 2012. Announced by the Sultan in 2011, the municipal councils have the power to advise the Royal Court on the needs of local districts across Oman's 11 governorates. The Sultan returned to Oman in March 2015 after eight months in Germany, where he received medical treatment.</data>
         </subsection>
     </section>
-    <section name='Geography'>
-        <subsection name='Location'>
+    <section name="Geography">
+        <subsection name="Location">
             <data>Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and the UAE</data>
         </subsection>
-        <subsection name='Geographic coordinates'>
+        <subsection name="Geographic coordinates">
             <data>21 00 N, 57 00 E</data>
         </subsection>
-        <subsection name='Map references'>
+        <subsection name="Map references">
             <data>Middle East</data>
         </subsection>
-        <subsection name='Area'>
-            <data name='total'>309,500 sq km</data>
-            <data name='land'>309,500 sq km</data>
-            <data name='water'>0 sq km</data>
-            <data name='country comparison to the world'>72</data>
+        <subsection name="Area">
+            <data name="total">309,500 sq km</data>
+            <data name="land">309,500 sq km</data>
+            <data name="water">0 sq km</data>
+            <data name="country comparison to the world">72</data>
         </subsection>
-        <subsection name='Area - comparative'>
+        <subsection name="Area - comparative">
             <data>twice the size of Georgia; slightly smaller than Kansas</data>
         </subsection>
-        <subsection name='Land boundaries'>
-            <data name='total'>1,561 km</data>
-            <data name='border countries (3)'>Saudi Arabia 658 km, UAE 609 km, Yemen 294 km</data>
+        <subsection name="Land boundaries">
+            <data name="total">1,561 km</data>
+            <data name="border countries (3)">Saudi Arabia 658 km, UAE 609 km, Yemen 294 km</data>
         </subsection>
-        <subsection name='Coastline'>
+        <subsection name="Coastline">
             <data>2,092 km</data>
         </subsection>
-        <subsection name='Maritime claims'>
-            <data name='territorial sea'>12 nm</data>
-            <data name='contiguous zone'>24 nm</data>
-            <data name='exclusive economic zone'>200 nm</data>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="contiguous zone">24 nm</data>
+            <data name="exclusive economic zone">200 nm</data>
         </subsection>
-        <subsection name='Climate'>
+        <subsection name="Climate">
             <data>dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south</data>
         </subsection>
-        <subsection name='Terrain'>
+        <subsection name="Terrain">
             <data>central desert plain, rugged mountains in north and south</data>
         </subsection>
-        <subsection name='Elevation'>
-            <data name='mean elevation'>310 m</data>
-            <data name='elevation extremes'>lowest point: Arabian Sea 0 m</data>
+        <subsection name="Elevation">
+            <data name="mean elevation">310 m</data>
+            <data name="elevation extremes">lowest point: Arabian Sea 0 m</data>
             <data>highest point: Jabal Shams 3,004 m</data>
         </subsection>
-        <subsection name='Natural resources'>
+        <subsection name="Natural resources">
             <data>petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas</data>
         </subsection>
-        <subsection name='Land use'>
-            <data name='agricultural land'>4.7%</data>
+        <subsection name="Land use">
+            <data name="agricultural land">4.7%</data>
             <data>arable land 0.1%; permanent crops 0.1%; permanent pasture 4.5%</data>
-            <data name='forest'>0%</data>
-            <data name='other'>95.3% (2011 est.)</data>
+            <data name="forest">0%</data>
+            <data name="other">95.3% (2011 est.)</data>
         </subsection>
-        <subsection name='Irrigated land'>
+        <subsection name="Irrigated land">
             <data>590 sq km (2012)</data>
         </subsection>
-        <subsection name='Population - distribution'>
+        <subsection name="Population - distribution">
             <data>the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely populated</data>
         </subsection>
-        <subsection name='Natural hazards'>
+        <subsection name="Natural hazards">
             <data>summer winds often raise large sandstorms and dust storms in interior; periodic droughts</data>
         </subsection>
-        <subsection name='Environment - current issues'>
+        <subsection name="Environment - current issues">
             <data>limited natural freshwater resources; high levels of soil and water salinity in the coastal plains; beach pollution from oil spills; industrial effluents seeping into the water tables and aquifers; desertification due to high winds driving desert sand onto arable lands</data>
         </subsection>
-        <subsection name='Environment - international agreements'>
-            <data name='party to'>Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling</data>
-            <data name='signed, but not ratified'>none of the selected agreements</data>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling</data>
+            <data name="signed, but not ratified">none of the selected agreements</data>
         </subsection>
-        <subsection name='Geography - note'>
+        <subsection name="Geography - note">
             <data>consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz, a vital transit point for world crude oil</data>
         </subsection>
     </section>
-    <section name='People and Society'>
-        <subsection name='Population'>
+    <section name="People and Society">
+        <subsection name="Population">
             <data>4,613,241 (July 2017 est.)</data>
-            <data name='note'>immigrants make up approximately 45% of the total population (2017)</data>
-            <data name='country comparison to the world'>126</data>
+            <data name="note">immigrants make up approximately 45% of the total population (2017)</data>
+            <data name="country comparison to the world">126</data>
         </subsection>
-        <subsection name='Nationality'>
-            <data name='noun'>Omani(s)</data>
-            <data name='adjective'>Omani</data>
+        <subsection name="Nationality">
+            <data name="noun">Omani(s)</data>
+            <data name="adjective">Omani</data>
         </subsection>
-        <subsection name='Ethnic groups'>
+        <subsection name="Ethnic groups">
             <data>Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan, Bangladeshi), African</data>
         </subsection>
-        <subsection name='Languages'>
+        <subsection name="Languages">
             <data>Arabic (official), English, Baluchi, Urdu, Indian dialects</data>
         </subsection>
-        <subsection name='Religions'>
+        <subsection name="Religions">
             <data>Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish &lt;0.1%, other 1%, unaffiliated 0.2% (2010 est.)</data>
-            <data name='note'>Omani citizens represent approximately 60% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists accounting for roughly 5% of Omani citizens</data>
+            <data name="note">Omani citizens represent approximately 60% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists accounting for roughly 5% of Omani citizens</data>
         </subsection>
-        <subsection name='Age structure'>
-            <data name='0-14 years'>30.1% (male 528,554/female 502,272)</data>
-            <data name='15-24 years'>18.69% (male 335,764/female 304,207)</data>
-            <data name='25-54 years'>43.8% (male 864,858/female 635,006)</data>
-            <data name='55-64 years'>3.92% (male 71,477/female 62,793)</data>
-            <data name='65 years and over'>3.49% (male 58,561/female 60,894) (2017 est.)</data>
+        <subsection name="Age structure">
+            <data name="0-14 years">30.1% (male 528,554/female 502,272)</data>
+            <data name="15-24 years">18.69% (male 335,764/female 304,207)</data>
+            <data name="25-54 years">43.8% (male 864,858/female 635,006)</data>
+            <data name="55-64 years">3.92% (male 71,477/female 62,793)</data>
+            <data name="65 years and over">3.49% (male 58,561/female 60,894) (2017 est.)</data>
         </subsection>
-        <subsection name='Dependency ratios'>
-            <data name='total dependency ratio'>32.4</data>
-            <data name='youth dependency ratio'>29.4</data>
-            <data name='elderly dependency ratio'>3.1</data>
-            <data name='potential support ratio'>32.6 (2015 est.)</data>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">32.4</data>
+            <data name="youth dependency ratio">29.4</data>
+            <data name="elderly dependency ratio">3.1</data>
+            <data name="potential support ratio">32.6 (2015 est.)</data>
         </subsection>
-        <subsection name='Median age'>
-            <data name='total'>25.6 years</data>
-            <data name='male'>26.6 years</data>
-            <data name='female'>24.2 years (2017 est.)</data>
-            <data name='country comparison to the world'>153</data>
+        <subsection name="Median age">
+            <data name="total">25.6 years</data>
+            <data name="male">26.6 years</data>
+            <data name="female">24.2 years (2017 est.)</data>
+            <data name="country comparison to the world">153</data>
         </subsection>
-        <subsection name='Population growth rate'>
+        <subsection name="Population growth rate">
             <data>2.03% (2017 est.)</data>
-            <data name='country comparison to the world'>44</data>
+            <data name="country comparison to the world">44</data>
         </subsection>
-        <subsection name='Birth rate'>
+        <subsection name="Birth rate">
             <data>24 births/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>54</data>
+            <data name="country comparison to the world">54</data>
         </subsection>
-        <subsection name='Death rate'>
+        <subsection name="Death rate">
             <data>3.3 deaths/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>220</data>
+            <data name="country comparison to the world">220</data>
         </subsection>
-        <subsection name='Net migration rate'>
+        <subsection name="Net migration rate">
             <data>-0.4 migrant(s)/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>120</data>
+            <data name="country comparison to the world">120</data>
         </subsection>
-        <subsection name='Population distribution'>
+        <subsection name="Population distribution">
             <data>the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated</data>
         </subsection>
-        <subsection name='Urbanization'>
-            <data name='urban population'>84.5% of total population (2018)</data>
-            <data name='rate of urbanization'>5.25% annual rate of change (2015-20 est.)</data>
+        <subsection name="Urbanization">
+            <data name="urban population">84.5% of total population (2018)</data>
+            <data name="rate of urbanization">5.25% annual rate of change (2015-20 est.)</data>
         </subsection>
-        <subsection name='Major urban areas - population'>
+        <subsection name="Major urban areas - population">
             <data>MUSCAT (capital) 1.447 million (2018)</data>
         </subsection>
-        <subsection name='Sex ratio'>
-            <data name='at birth'>1.05 male(s)/female</data>
-            <data name='0-14 years'>1.05 male(s)/female</data>
-            <data name='15-24 years'>1.1 male(s)/female</data>
-            <data name='25-54 years'>1.38 male(s)/female</data>
-            <data name='55-64 years'>1.14 male(s)/female</data>
-            <data name='65 years and over'>0.99 male(s)/female</data>
-            <data name='total population'>1.19 male(s)/female (2017 est.)</data>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.05 male(s)/female</data>
+            <data name="0-14 years">1.05 male(s)/female</data>
+            <data name="15-24 years">1.1 male(s)/female</data>
+            <data name="25-54 years">1.38 male(s)/female</data>
+            <data name="55-64 years">1.14 male(s)/female</data>
+            <data name="65 years and over">0.99 male(s)/female</data>
+            <data name="total population">1.19 male(s)/female (2017 est.)</data>
         </subsection>
-        <subsection name='Maternal mortality ratio'>
+        <subsection name="Maternal mortality ratio">
             <data>17 deaths/100,000 live births (2015 est.)</data>
-            <data name='country comparison to the world'>133</data>
+            <data name="country comparison to the world">133</data>
         </subsection>
-        <subsection name='Infant mortality rate'>
-            <data name='total'>12.8 deaths/1,000 live births</data>
-            <data name='male'>13.1 deaths/1,000 live births</data>
-            <data name='female'>12.5 deaths/1,000 live births (2017 est.)</data>
-            <data name='country comparison to the world'>110</data>
+        <subsection name="Infant mortality rate">
+            <data name="total">12.8 deaths/1,000 live births</data>
+            <data name="male">13.1 deaths/1,000 live births</data>
+            <data name="female">12.5 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">110</data>
         </subsection>
-        <subsection name='Life expectancy at birth'>
-            <data name='total population'>75.7 years</data>
-            <data name='male'>73.7 years</data>
-            <data name='female'>77.7 years (2017 est.)</data>
-            <data name='country comparison to the world'>99</data>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">75.7 years</data>
+            <data name="male">73.7 years</data>
+            <data name="female">77.7 years (2017 est.)</data>
+            <data name="country comparison to the world">99</data>
         </subsection>
-        <subsection name='Total fertility rate'>
+        <subsection name="Total fertility rate">
             <data>2.82 children born/woman (2017 est.)</data>
-            <data name='country comparison to the world'>60</data>
+            <data name="country comparison to the world">60</data>
         </subsection>
-        <subsection name='Contraceptive prevalence rate'>
+        <subsection name="Contraceptive prevalence rate">
             <data>29.7% (2014)</data>
         </subsection>
-        <subsection name='Health expenditures'>
+        <subsection name="Health expenditures">
             <data>3.6% of GDP (2014)</data>
-            <data name='country comparison to the world'>172</data>
+            <data name="country comparison to the world">172</data>
         </subsection>
-        <subsection name='Physicians density'>
+        <subsection name="Physicians density">
             <data>1.92 physicians/1,000 population (2016)</data>
         </subsection>
-        <subsection name='Hospital bed density'>
+        <subsection name="Hospital bed density">
             <data>1.6 beds/1,000 population (2014)</data>
         </subsection>
-        <subsection name='Drinking water source'>
-            <data name='improved'></data>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
             <data>urban: 95.5% of population</data>
             <data>rural: 86.1% of population</data>
             <data>total: 93.4% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 4.5% of population</data>
             <data>rural: 13.9% of population</data>
             <data>total: 6.6% of population (2015 est.)</data>
         </subsection>
-        <subsection name='Sanitation facility access'>
-            <data name='improved'></data>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
             <data>urban: 97.3% of population</data>
             <data>rural: 94.7% of population</data>
             <data>total: 96.7% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 2.7% of population</data>
             <data>rural: 5.3% of population</data>
             <data>total: 3.3% of population (2015 est.)</data>
         </subsection>
-        <subsection name='HIV/AIDS - adult prevalence rate'>
+        <subsection name="HIV/AIDS - adult prevalence rate">
             <data>NA</data>
         </subsection>
-        <subsection name='HIV/AIDS - people living with HIV/AIDS'>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
             <data>NA</data>
         </subsection>
-        <subsection name='HIV/AIDS - deaths'>
+        <subsection name="HIV/AIDS - deaths">
             <data>NA</data>
         </subsection>
-        <subsection name='Obesity - adult prevalence rate'>
+        <subsection name="Obesity - adult prevalence rate">
             <data>27% (2016)</data>
-            <data name='country comparison to the world'>39</data>
+            <data name="country comparison to the world">39</data>
         </subsection>
-        <subsection name='Children under the age of 5 years underweight'>
+        <subsection name="Children under the age of 5 years underweight">
             <data>9.7% (2014)</data>
-            <data name='country comparison to the world'>73</data>
+            <data name="country comparison to the world">73</data>
         </subsection>
-        <subsection name='Education expenditures'>
+        <subsection name="Education expenditures">
             <data>6.2% of GDP (2016)</data>
-            <data name='country comparison to the world'>100</data>
+            <data name="country comparison to the world">100</data>
         </subsection>
-        <subsection name='Literacy'>
-            <data name='definition'>age 15 and over can read and write</data>
-            <data name='total population'>93%</data>
-            <data name='male'>96.6%</data>
-            <data name='female'>86% (2015 est.)</data>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">93%</data>
+            <data name="male">96.6%</data>
+            <data name="female">86% (2015 est.)</data>
         </subsection>
-        <subsection name='School life expectancy (primary to tertiary education)'>
-            <data name='total'>14 years</data>
-            <data name='male'>13 years</data>
-            <data name='female'>15 years (2015)</data>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">14 years</data>
+            <data name="male">13 years</data>
+            <data name="female">15 years (2015)</data>
         </subsection>
     </section>
-    <section name='Government'>
-        <subsection name='Country name'>
-            <data name='conventional long form'>Sultanate of Oman</data>
-            <data name='conventional short form'>Oman</data>
-            <data name='local long form'>Saltanat Uman</data>
-            <data name='local short form'>Uman</data>
-            <data name='former'>Sultanate of Muscat and Oman</data>
-            <data name='etymology'>the origin of the name is uncertain, but it apparently dates back at least 2,000 years since an \"Omana\" is mentioned by Pliny the Elder (1st century A.D.) and an \"Omanon\" by Ptolemy (2nd century A.D.)</data>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">Sultanate of Oman</data>
+            <data name="conventional short form">Oman</data>
+            <data name="local long form">Saltanat Uman</data>
+            <data name="local short form">Uman</data>
+            <data name="former">Sultanate of Muscat and Oman</data>
+            <data name="etymology">the origin of the name is uncertain, but it apparently dates back at least 2,000 years since an "Omana" is mentioned by Pliny the Elder (1st century A.D.) and an "Omanon" by Ptolemy (2nd century A.D.)</data>
         </subsection>
-        <subsection name='Government type'>
+        <subsection name="Government type">
             <data>absolute monarchy</data>
         </subsection>
-        <subsection name='Capital'>
-            <data name='name'>Muscat</data>
-            <data name='geographic coordinates'>23 37 N, 58 35 E</data>
-            <data name='time difference'>UTC+4 (9 hours ahead of Washington, DC, during Standard Time)</data>
+        <subsection name="Capital">
+            <data name="name">Muscat</data>
+            <data name="geographic coordinates">23 37 N, 58 35 E</data>
+            <data name="time difference">UTC+4 (9 hours ahead of Washington, DC, during Standard Time)</data>
         </subsection>
-        <subsection name='Administrative divisions'>
+        <subsection name="Administrative divisions">
             <data>11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)</data>
         </subsection>
-        <subsection name='Independence'>
+        <subsection name="Independence">
             <data>1650 (expulsion of the Portuguese)</data>
         </subsection>
-        <subsection name='National holiday'>
+        <subsection name="National holiday">
             <data>National Day, 18 November; note - coincides with the birthday of Sultan QABOOS, 18 November (1940)</data>
         </subsection>
-        <subsection name='Constitution'>
-            <data name='history'>promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011</data>
-            <data name='amendments'>promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree; amended 2011 (2016)</data>
+        <subsection name="Constitution">
+            <data name="history">promulgated by royal decree 6 November 1996 (the Basic Law of the Sultanate of Oman serves as the constitution); amended by royal decree in 2011</data>
+            <data name="amendments">promulgated by the sultan or proposed by the Council of Oman and drafted by a technical committee as stipulated by royal decree and then promulgated through royal decree; amended 2011 (2016)</data>
         </subsection>
-        <subsection name='Legal system'>
+        <subsection name="Legal system">
             <data>mixed legal system of Anglo-Saxon law and Islamic law</data>
         </subsection>
-        <subsection name='International law organization participation'>
+        <subsection name="International law organization participation">
             <data>has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</data>
         </subsection>
-        <subsection name='Citizenship'>
-            <data name='citizenship by birth'>no</data>
-            <data name='citizenship by descent only'>the father must be a citizen of Oman</data>
-            <data name='dual citizenship recognized'>no</data>
-            <data name='residency requirement for naturalization'>unknown</data>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">no</data>
+            <data name="citizenship by descent only">the father must be a citizen of Oman</data>
+            <data name="dual citizenship recognized">no</data>
+            <data name="residency requirement for naturalization">unknown</data>
         </subsection>
-        <subsection name='Suffrage'>
+        <subsection name="Suffrage">
             <data>21 years of age; universal; note - members of the military and security forces by law cannot vote</data>
         </subsection>
-        <subsection name='Executive branch'>
-            <data name='chief of state'>Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972); note - the monarch is both chief of state and head of government</data>
-            <data name='head of government'>Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972)</data>
-            <data name='cabinet'>Cabinet appointed by the monarch</data>
-            <data name='elections/appointments'>members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan</data>
+        <subsection name="Executive branch">
+            <data name="chief of state">Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972); note - the monarch is both chief of state and head of government</data>
+            <data name="head of government">Sultan and Prime Minister QABOOS bin Said Al-Said (sultan since 23 July 1970 and prime minister since 23 July 1972)</data>
+            <data name="cabinet">Cabinet appointed by the monarch</data>
+            <data name="elections/appointments">members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan</data>
         </subsection>
-        <subsection name='Legislative branch'>
-            <data name='description'>bicameral Council of Oman or Majlis Oman consists of:</data>
+        <subsection name="Legislative branch">
+            <data name="description">bicameral Council of Oman or Majlis Oman consists of:</data>
             <data>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)</data>
             <data>Consultative Council or Majlis al-Shura (85 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court</data>
-            <data name='elections'>Council of State - last appointments on 7 November 2015 (next - NA)</data>
+            <data name="elections">Council of State - last appointments on 7 November 2015 (next - NA)</data>
             <data>Consultative Assembly - last held on 25 October 2015 (next to be held in October 2019)</data>
-            <data name='election results'>percent of vote by party - NA; seats by party - NA; note - organized political parties in Oman are legally banned</data>
+            <data name="election results">percent of vote by party - NA; seats by party - NA; note - organized political parties in Oman are legally banned</data>
         </subsection>
-        <subsection name='Judicial branch'>
-            <data name='highest court(s)'>Supreme Court (consists of 5 judges)</data>
-            <data name='judge selection and term of office'>judges nominated by the 9-member Supreme Judicial Council (chaired by the monarch) and appointed by the monarch; judges appointed for life</data>
-            <data name='subordinate courts'>Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts</data>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court (consists of 5 judges)</data>
+            <data name="judge selection and term of office">judges nominated by the 9-member Supreme Judicial Council (chaired by the monarch) and appointed by the monarch; judges appointed for life</data>
+            <data name="subordinate courts">Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts</data>
         </subsection>
-        <subsection name='Political parties and leaders'>
+        <subsection name="Political parties and leaders">
             <data>none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations</data>
         </subsection>
-        <subsection name='International organization participation'>
+        <subsection name="International organization participation">
             <data>ABEDA, AFESD, AMF, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IDB, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
         </subsection>
-        <subsection name='Diplomatic representation in the US'>
-            <data name='chief of mission'>Ambassador Hunaina bint Sultan bin Ahmad al-MUGHAIRI (since 2 December 2005)</data>
-            <data name='chancery'>2535 Belmont Road, NW, Washington, DC 20008</data>
-            <data name='telephone'>[1] (202) 387-1980</data>
-            <data name='FAX'>[1] (202) 745-4933</data>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Hunaina bint Sultan bin Ahmad al-MUGHAIRI (since 2 December 2005)</data>
+            <data name="chancery">2535 Belmont Road, NW, Washington, DC 20008</data>
+            <data name="telephone">[1] (202) 387-1980</data>
+            <data name="FAX">[1] (202) 745-4933</data>
         </subsection>
-        <subsection name='Diplomatic representation from the US'>
-            <data name='chief of mission'>Ambassador Marc J. SIEVERS (since 15 December 2016)</data>
-            <data name='embassy'>Jamait Ad Duwal Al Arabiyya Street, Al Khuwair area, Muscat</data>
-            <data name='mailing address'>P.O. Box 202, P.C. 115, Madinat Al Sultan Qaboos, Muscat</data>
-            <data name='telephone'>[968] 24-643-400</data>
-            <data name='FAX'>[968] 24-643-740</data>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador Marc J. SIEVERS (since 15 December 2016)</data>
+            <data name="embassy">Jamait Ad Duwal Al Arabiyya Street, Al Khuwair area, Muscat</data>
+            <data name="mailing address">P.O. Box 202, P.C. 115, Madinat Al Sultan Qaboos, Muscat</data>
+            <data name="telephone">[968] 24-643-400</data>
+            <data name="FAX">[968] 24-643-740</data>
         </subsection>
-        <subsection name='Flag description'>
+        <subsection name="Flag description">
             <data>three horizontal bands of white (top), red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band; white represents peace and prosperity, red recalls battles against foreign invaders, and green symbolizes the Jebel al Akhdar (Green Mountains) and fertility</data>
         </subsection>
-        <subsection name='National symbol(s)'>
+        <subsection name="National symbol(s)">
             <data>khanjar dagger superimposed on two crossed swords; national colors: red, white, green</data>
         </subsection>
-        <subsection name='National anthem'>
-            <data name='name'>\"Nashid as-Salaam as-Sultani\" (The Sultan's Anthem)</data>
-            <data name='lyrics/music'>Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS</data>
-            <data name='note'>adopted 1932; new lyrics written after QABOOS bin Said al Said gained power in 1970; first performed by the band of a British ship as a salute to the Sultan during a 1932 visit to Muscat; the bandmaster of the HMS Hawkins was asked to write a salutation to the Sultan on the occasion of his ship visit</data>
+        <subsection name="National anthem">
+            <data name="name">"Nashid as-Salaam as-Sultani" (The Sultan's Anthem)</data>
+            <data name="lyrics/music">Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS</data>
+            <data name="note">adopted 1932; new lyrics written after QABOOS bin Said al Said gained power in 1970; first performed by the band of a British ship as a salute to the Sultan during a 1932 visit to Muscat; the bandmaster of the HMS Hawkins was asked to write a salutation to the Sultan on the occasion of his ship visit</data>
         </subsection>
     </section>
-    <section name='Economy'>
-        <subsection name='Economy - overview'>
+    <section name="Economy">
+        <subsection name="Economy - overview">
             <data>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</data>
             <data>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</data>
             <data>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</data>
         </subsection>
-        <subsection name='GDP (purchasing power parity)'>
+        <subsection name="GDP (purchasing power parity)">
             <data>$186.6 billion (2017 est.)</data>
             <data>$183.3 billion (2016 est.)</data>
             <data>$175 billion (2015 est.)</data>
-            <data name='note'>data are in 2017 dollars</data>
-            <data name='country comparison to the world'>70</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">70</data>
         </subsection>
-        <subsection name='GDP (official exchange rate)'>
+        <subsection name="GDP (official exchange rate)">
             <data>$74.27 billion (2017 est.)</data>
         </subsection>
-        <subsection name='GDP - real growth rate'>
+        <subsection name="GDP - real growth rate">
             <data>-0.3% (2017 est.)</data>
             <data>1.8% (2016 est.)</data>
             <data>4.7% (2015 est.)</data>
-            <data name='country comparison to the world'>203</data>
+            <data name="country comparison to the world">203</data>
         </subsection>
-        <subsection name='GDP - per capita (PPP)'>
+        <subsection name="GDP - per capita (PPP)">
             <data>$45,200 (2017 est.)</data>
             <data>$45,700 (2016 est.)</data>
             <data>$46,300 (2015 est.)</data>
-            <data name='note'>data are in 2017 dollars</data>
-            <data name='country comparison to the world'>37</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">37</data>
         </subsection>
-        <subsection name='Gross national saving'>
+        <subsection name="Gross national saving">
             <data>22.5% of GDP (2017 est.)</data>
             <data>16.9% of GDP (2016 est.)</data>
             <data>17.2% of GDP (2015 est.)</data>
-            <data name='country comparison to the world'>77</data>
+            <data name="country comparison to the world">77</data>
         </subsection>
-        <subsection name='GDP - composition, by end use'>
-            <data name='household consumption'>34.5%</data>
-            <data name='government consumption'>24.6%</data>
-            <data name='investment in fixed capital'>35.3%</data>
-            <data name='investment in inventories'>2.1%</data>
-            <data name='exports of goods and services'>51%</data>
-            <data name='imports of goods and services'>-47.4% (2017 est.)</data>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">34.5%</data>
+            <data name="government consumption">24.6%</data>
+            <data name="investment in fixed capital">35.3%</data>
+            <data name="investment in inventories">2.1%</data>
+            <data name="exports of goods and services">51%</data>
+            <data name="imports of goods and services">-47.4% (2017 est.)</data>
         </subsection>
-        <subsection name='GDP - composition, by sector of origin'>
-            <data name='agriculture'>1.7%</data>
-            <data name='industry'>45.2%</data>
-            <data name='services'>53% (2017 est.)</data>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">1.7%</data>
+            <data name="industry">45.2%</data>
+            <data name="services">53% (2017 est.)</data>
         </subsection>
-        <subsection name='Agriculture - products'>
+        <subsection name="Agriculture - products">
             <data>dates, limes, bananas, alfalfa, vegetables; camels, cattle; fish</data>
         </subsection>
-        <subsection name='Industries'>
+        <subsection name="Industries">
             <data>crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber</data>
         </subsection>
-        <subsection name='Industrial production growth rate'>
+        <subsection name="Industrial production growth rate">
             <data>0.3% (2017 est.)</data>
-            <data name='country comparison to the world'>183</data>
+            <data name="country comparison to the world">183</data>
         </subsection>
-        <subsection name='Labor force'>
+        <subsection name="Labor force">
             <data>2.255 million</data>
-            <data name='note'>about 60% of the labor force is non-national (2016 est.)</data>
-            <data name='country comparison to the world'>120</data>
+            <data name="note">about 60% of the labor force is non-national (2016 est.)</data>
+            <data name="country comparison to the world">120</data>
         </subsection>
-        <subsection name='Labor force - by occupation'>
-            <data name='agriculture'>NA%</data>
-            <data name='industry'>NA%</data>
-            <data name='services'>NA%</data>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">NA%</data>
+            <data name="industry">NA%</data>
+            <data name="services">NA%</data>
         </subsection>
-        <subsection name='Unemployment rate'>
+        <subsection name="Unemployment rate">
             <data>NA%</data>
         </subsection>
-        <subsection name='Population below poverty line'>
+        <subsection name="Population below poverty line">
             <data>NA%</data>
         </subsection>
-        <subsection name='Household income or consumption by percentage share'>
-            <data name='lowest 10%'>NA%</data>
-            <data name='highest 10%'>NA%</data>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">NA%</data>
+            <data name="highest 10%">NA%</data>
         </subsection>
-        <subsection name='Budget'>
-            <data name='revenues'>$20.48 billion</data>
-            <data name='expenditures'>$29.54 billion (2017 est.)</data>
+        <subsection name="Budget">
+            <data name="revenues">$20.48 billion</data>
+            <data name="expenditures">$29.54 billion (2017 est.)</data>
         </subsection>
-        <subsection name='Taxes and other revenues'>
+        <subsection name="Taxes and other revenues">
             <data>28.5% of GDP (2017 est.)</data>
-            <data name='country comparison to the world'>92</data>
+            <data name="country comparison to the world">92</data>
         </subsection>
-        <subsection name='Budget surplus (+) or deficit (-)'>
+        <subsection name="Budget surplus (+) or deficit (-)">
             <data>-12.6% of GDP (2017 est.)</data>
-            <data name='country comparison to the world'>215</data>
+            <data name="country comparison to the world">215</data>
         </subsection>
-        <subsection name='Public debt'>
+        <subsection name="Public debt">
             <data>44.2% of GDP (2017 est.)</data>
             <data>33.3% of GDP (2016 est.)</data>
-            <data name='note'>excludes indebtedness of state-owned enterprises</data>
-            <data name='country comparison to the world'>119</data>
+            <data name="note">excludes indebtedness of state-owned enterprises</data>
+            <data name="country comparison to the world">119</data>
         </subsection>
-        <subsection name='Fiscal year'>
+        <subsection name="Fiscal year">
             <data>calendar year</data>
         </subsection>
-        <subsection name='Inflation rate (consumer prices)'>
+        <subsection name="Inflation rate (consumer prices)">
             <data>1.6% (2017 est.)</data>
             <data>1.1% (2016 est.)</data>
-            <data name='country comparison to the world'>87</data>
+            <data name="country comparison to the world">87</data>
         </subsection>
-        <subsection name='Central bank discount rate'>
+        <subsection name="Central bank discount rate">
             <data>2% (31 December 2010)</data>
             <data>0.05% (31 December 2009)</data>
-            <data name='country comparison to the world'>118</data>
+            <data name="country comparison to the world">118</data>
         </subsection>
-        <subsection name='Commercial bank prime lending rate'>
+        <subsection name="Commercial bank prime lending rate">
             <data>5.4% (31 December 2017 est.)</data>
             <data>5.08% (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>137</data>
+            <data name="country comparison to the world">137</data>
         </subsection>
-        <subsection name='Stock of narrow money'>
+        <subsection name="Stock of narrow money">
             <data>$12.7 billion (31 December 2017 est.)</data>
             <data>$12.95 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>81</data>
+            <data name="country comparison to the world">81</data>
         </subsection>
-        <subsection name='Stock of broad money'>
+        <subsection name="Stock of broad money">
             <data>$41.44 billion (31 December 2017 est.)</data>
             <data>$40.11 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>75</data>
+            <data name="country comparison to the world">75</data>
         </subsection>
-        <subsection name='Stock of domestic credit'>
+        <subsection name="Stock of domestic credit">
             <data>$48.24 billion (31 December 2017 est.)</data>
             <data>$46.47 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>68</data>
+            <data name="country comparison to the world">68</data>
         </subsection>
-        <subsection name='Market value of publicly traded shares'>
+        <subsection name="Market value of publicly traded shares">
             <data>$41.12 billion (31 December 2015 est.)</data>
             <data>$37.83 billion (31 December 2014 est.)</data>
             <data>$36.77 billion (31 December 2013 est.)</data>
-            <data name='country comparison to the world'>58</data>
+            <data name="country comparison to the world">58</data>
         </subsection>
-        <subsection name='Current account balance'>
+        <subsection name="Current account balance">
             <data>-$8.557 billion (2017 est.)</data>
             <data>-$12.32 billion (2016 est.)</data>
-            <data name='country comparison to the world'>186</data>
+            <data name="country comparison to the world">186</data>
         </subsection>
-        <subsection name='Exports'>
+        <subsection name="Exports">
             <data>$31.9 billion (2017 est.)</data>
             <data>$27.54 billion (2016 est.)</data>
-            <data name='country comparison to the world'>62</data>
+            <data name="country comparison to the world">62</data>
         </subsection>
-        <subsection name='Exports - commodities'>
+        <subsection name="Exports - commodities">
             <data>petroleum, reexports, fish, metals, textiles</data>
         </subsection>
-        <subsection name='Exports - partners'>
+        <subsection name="Exports - partners">
             <data>China 43.7%, UAE 11%, South Korea 7.9%, Saudi Arabia 4.2% (2017)</data>
         </subsection>
-        <subsection name='Imports'>
+        <subsection name="Imports">
             <data>$22.71 billion (2017 est.)</data>
             <data>$21.29 billion (2016 est.)</data>
-            <data name='country comparison to the world'>71</data>
+            <data name="country comparison to the world">71</data>
         </subsection>
-        <subsection name='Imports - commodities'>
+        <subsection name="Imports - commodities">
             <data>machinery and transport equipment, manufactured goods, food, livestock, lubricants</data>
         </subsection>
-        <subsection name='Imports - partners'>
+        <subsection name="Imports - partners">
             <data>UAE 35.5%, US 27.8%, Brazil 4% (2017)</data>
         </subsection>
-        <subsection name='Reserves of foreign exchange and gold'>
+        <subsection name="Reserves of foreign exchange and gold">
             <data>$19.96 billion (31 December 2017 est.)</data>
             <data>$20.26 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>61</data>
+            <data name="country comparison to the world">61</data>
         </subsection>
-        <subsection name='Debt - external'>
+        <subsection name="Debt - external">
             <data>$39.17 billion (31 December 2017 est.)</data>
             <data>$27.05 billion (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>76</data>
+            <data name="country comparison to the world">76</data>
         </subsection>
-        <subsection name='Stock of direct foreign investment - at home'>
+        <subsection name="Stock of direct foreign investment - at home">
             <data>$NA</data>
         </subsection>
-        <subsection name='Stock of direct foreign investment - abroad'>
+        <subsection name="Stock of direct foreign investment - abroad">
             <data>$NA</data>
         </subsection>
-        <subsection name='Exchange rates'>
+        <subsection name="Exchange rates">
             <data>Omani rials (OMR) per US dollar -</data>
             <data>0.38 (2017 est.)</data>
             <data>0.38 (2016 est.)</data>
@@ -518,212 +518,212 @@
             <data>0.38 (2013 est.)</data>
         </subsection>
     </section>
-    <section name='Energy'>
-        <subsection name='Electricity access'>
-            <data name='population without electricity'>100,000</data>
-            <data name='electrification - total population'>98%</data>
-            <data name='electrification - urban areas'>99%</data>
-            <data name='electrification - rural areas'>93% (2013)</data>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="population without electricity">100,000</data>
+            <data name="electrification - total population">98%</data>
+            <data name="electrification - urban areas">99%</data>
+            <data name="electrification - rural areas">93% (2013)</data>
         </subsection>
-        <subsection name='Electricity - production'>
+        <subsection name="Electricity - production">
             <data>30.79 billion kWh (2015 est.)</data>
-            <data name='country comparison to the world'>64</data>
+            <data name="country comparison to the world">64</data>
         </subsection>
-        <subsection name='Electricity - consumption'>
+        <subsection name="Electricity - consumption">
             <data>27.62 billion kWh (2015 est.)</data>
-            <data name='country comparison to the world'>63</data>
+            <data name="country comparison to the world">63</data>
         </subsection>
-        <subsection name='Electricity - exports'>
+        <subsection name="Electricity - exports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>171</data>
+            <data name="country comparison to the world">171</data>
         </subsection>
-        <subsection name='Electricity - imports'>
+        <subsection name="Electricity - imports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>175</data>
+            <data name="country comparison to the world">175</data>
         </subsection>
-        <subsection name='Electricity - installed generating capacity'>
+        <subsection name="Electricity - installed generating capacity">
             <data>7.869 million kW (2015 est.)</data>
-            <data name='country comparison to the world'>70</data>
+            <data name="country comparison to the world">70</data>
         </subsection>
-        <subsection name='Electricity - from fossil fuels'>
+        <subsection name="Electricity - from fossil fuels">
             <data>100% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>12</data>
+            <data name="country comparison to the world">12</data>
         </subsection>
-        <subsection name='Electricity - from nuclear fuels'>
+        <subsection name="Electricity - from nuclear fuels">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>146</data>
+            <data name="country comparison to the world">146</data>
         </subsection>
-        <subsection name='Electricity - from hydroelectric plants'>
+        <subsection name="Electricity - from hydroelectric plants">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>189</data>
+            <data name="country comparison to the world">189</data>
         </subsection>
-        <subsection name='Electricity - from other renewable sources'>
+        <subsection name="Electricity - from other renewable sources">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>197</data>
+            <data name="country comparison to the world">197</data>
         </subsection>
-        <subsection name='Crude oil - production'>
+        <subsection name="Crude oil - production">
             <data>1.007 million bbl/day (2016 est.)</data>
-            <data name='country comparison to the world'>20</data>
+            <data name="country comparison to the world">20</data>
         </subsection>
-        <subsection name='Crude oil - exports'>
+        <subsection name="Crude oil - exports">
             <data>745,800 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>18</data>
+            <data name="country comparison to the world">18</data>
         </subsection>
-        <subsection name='Crude oil - imports'>
+        <subsection name="Crude oil - imports">
             <data>6,970 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>76</data>
+            <data name="country comparison to the world">76</data>
         </subsection>
-        <subsection name='Crude oil - proved reserves'>
+        <subsection name="Crude oil - proved reserves">
             <data>5.373 billion bbl (1 January 2017 est.)</data>
-            <data name='country comparison to the world'>22</data>
+            <data name="country comparison to the world">22</data>
         </subsection>
-        <subsection name='Refined petroleum products - production'>
+        <subsection name="Refined petroleum products - production">
             <data>224,000 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>49</data>
+            <data name="country comparison to the world">49</data>
         </subsection>
-        <subsection name='Refined petroleum products - consumption'>
+        <subsection name="Refined petroleum products - consumption">
             <data>176,000 bbl/day (2015 est.)</data>
-            <data name='country comparison to the world'>61</data>
+            <data name="country comparison to the world">61</data>
         </subsection>
-        <subsection name='Refined petroleum products - exports'>
+        <subsection name="Refined petroleum products - exports">
             <data>33,240 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>61</data>
+            <data name="country comparison to the world">61</data>
         </subsection>
-        <subsection name='Refined petroleum products - imports'>
+        <subsection name="Refined petroleum products - imports">
             <data>713.9 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>203</data>
+            <data name="country comparison to the world">203</data>
         </subsection>
-        <subsection name='Natural gas - production'>
+        <subsection name="Natural gas - production">
             <data>29.93 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>25</data>
+            <data name="country comparison to the world">25</data>
         </subsection>
-        <subsection name='Natural gas - consumption'>
+        <subsection name="Natural gas - consumption">
             <data>21.92 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>35</data>
+            <data name="country comparison to the world">35</data>
         </subsection>
-        <subsection name='Natural gas - exports'>
+        <subsection name="Natural gas - exports">
             <data>1.99 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>38</data>
+            <data name="country comparison to the world">38</data>
         </subsection>
-        <subsection name='Natural gas - imports'>
+        <subsection name="Natural gas - imports">
             <data>10 billion cu m (2015 est.)</data>
-            <data name='country comparison to the world'>27</data>
+            <data name="country comparison to the world">27</data>
         </subsection>
-        <subsection name='Natural gas - proved reserves'>
+        <subsection name="Natural gas - proved reserves">
             <data>651.3 billion cu m (1 January 2017 est.)</data>
-            <data name='country comparison to the world'>30</data>
+            <data name="country comparison to the world">30</data>
         </subsection>
-        <subsection name='Carbon dioxide emissions from consumption of energy'>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
             <data>69 million Mt (2013 est.)</data>
-            <data name='country comparison to the world'>49</data>
+            <data name="country comparison to the world">49</data>
         </subsection>
     </section>
-    <section name='Communications'>
-        <subsection name='Telephones - fixed lines'>
-            <data name='total subscriptions'>497,716</data>
-            <data name='subscriptions per 100 inhabitants'>11 (2017 est.)</data>
-            <data name='country comparison to the world'>95</data>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">497,716</data>
+            <data name="subscriptions per 100 inhabitants">11 (2017 est.)</data>
+            <data name="country comparison to the world">95</data>
         </subsection>
-        <subsection name='Telephones - mobile cellular'>
-            <data name='total subscriptions'>6,943,910</data>
-            <data name='subscriptions per 100 inhabitants'>151 (2017 est.)</data>
-            <data name='country comparison to the world'>107</data>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">6,943,910</data>
+            <data name="subscriptions per 100 inhabitants">151 (2017 est.)</data>
+            <data name="country comparison to the world">107</data>
         </subsection>
-        <subsection name='Telephone system'>
-            <data name='general assessment'>modern system consisting of open-wire, microwave, and radiotelephone communication stations; limited coaxial cable; domestic satellite system with 8 earth stations</data>
-            <data name='domestic'>fixed-line and mobile-cellular subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems</data>
-            <data name='international'>country code - 968; the Fiber-Optic Link Around the Globe (FLAG) and the SEA-ME-WE-3 submarine cable provide connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean), 1 Arabsat (2016)</data>
+        <subsection name="Telephone system">
+            <data name="general assessment">modern system consisting of open-wire, microwave, and radiotelephone communication stations; limited coaxial cable; domestic satellite system with 8 earth stations</data>
+            <data name="domestic">fixed-line and mobile-cellular subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems</data>
+            <data name="international">country code - 968; the Fiber-Optic Link Around the Globe (FLAG) and the SEA-ME-WE-3 submarine cable provide connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean), 1 Arabsat (2016)</data>
         </subsection>
-        <subsection name='Broadcast media'>
+        <subsection name="Broadcast media">
             <data>1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and several additional stations now operating (2018)</data>
         </subsection>
-        <subsection name='Internet country code'>
+        <subsection name="Internet country code">
             <data>.om</data>
         </subsection>
-        <subsection name='Internet users'>
-            <data name='total'>2,342,483</data>
-            <data name='percent of population'>69.8% (July 2016 est.)</data>
-            <data name='country comparison to the world'>108</data>
+        <subsection name="Internet users">
+            <data name="total">2,342,483</data>
+            <data name="percent of population">69.8% (July 2016 est.)</data>
+            <data name="country comparison to the world">108</data>
         </subsection>
-        <subsection name='Broadband - fixed line subscriptions'>
-            <data name='total'>348,926</data>
-            <data name='subscriptions per 100 inhabitants'>8 (2017 est.)</data>
-            <data name='country comparison to the world'>91</data>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">348,926</data>
+            <data name="subscriptions per 100 inhabitants">8 (2017 est.)</data>
+            <data name="country comparison to the world">91</data>
         </subsection>
     </section>
-    <section name='Transportation'>
-        <subsection name='National air transport system'>
-            <data name='number of registered air carriers'>1</data>
-            <data name='inventory of registered aircraft operated by air carriers'>45</data>
-            <data name='annual passenger traffic on registered air carriers'>6,365,784</data>
-            <data name='annual freight traffic on registered air carriers'>412,234,008 mt-km (2015)</data>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">1</data>
+            <data name="inventory of registered aircraft operated by air carriers">45</data>
+            <data name="annual passenger traffic on registered air carriers">6,365,784</data>
+            <data name="annual freight traffic on registered air carriers">412,234,008 mt-km (2015)</data>
         </subsection>
-        <subsection name='Civil aircraft registration country code prefix'>
+        <subsection name="Civil aircraft registration country code prefix">
             <data>A4O (2016)</data>
         </subsection>
-        <subsection name='Airports'>
+        <subsection name="Airports">
             <data>132 (2013)</data>
-            <data name='country comparison to the world'>44</data>
+            <data name="country comparison to the world">44</data>
         </subsection>
-        <subsection name='Airports - with paved runways'>
-            <data name='total'>13</data>
-            <data name='over 3,047 m'>7</data>
-            <data name='2,438 to 3,047 m'>5</data>
-            <data name='914 to 1,523 m'>1 (2017)</data>
+        <subsection name="Airports - with paved runways">
+            <data name="total">13</data>
+            <data name="over 3,047 m">7</data>
+            <data name="2,438 to 3,047 m">5</data>
+            <data name="914 to 1,523 m">1 (2017)</data>
         </subsection>
-        <subsection name='Airports - with unpaved runways'>
-            <data name='total'>119</data>
-            <data name='over 3,047 m'>2</data>
-            <data name='2,438 to 3,047 m'>7</data>
-            <data name='1,524 to 2,437 m'>51</data>
-            <data name='914 to 1,523 m'>33</data>
-            <data name='under 914 m'>26 (2013)</data>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">119</data>
+            <data name="over 3,047 m">2</data>
+            <data name="2,438 to 3,047 m">7</data>
+            <data name="1,524 to 2,437 m">51</data>
+            <data name="914 to 1,523 m">33</data>
+            <data name="under 914 m">26 (2013)</data>
         </subsection>
-        <subsection name='Heliports'>
+        <subsection name="Heliports">
             <data>3 (2013)</data>
         </subsection>
-        <subsection name='Pipelines'>
+        <subsection name="Pipelines">
             <data>condensate 106 km; gas 4,224 km; oil 3,558 km; oil/gas/water 33 km; refined products 264 km (2013)</data>
         </subsection>
-        <subsection name='Roadways'>
-            <data name='total'>60,230 km</data>
-            <data name='paved'>29,685 km (includes 1,943 km of expressways)</data>
-            <data name='unpaved'>30,545 km (2012)</data>
-            <data name='country comparison to the world'>70</data>
+        <subsection name="Roadways">
+            <data name="total">60,230 km</data>
+            <data name="paved">29,685 km (includes 1,943 km of expressways)</data>
+            <data name="unpaved">30,545 km (2012)</data>
+            <data name="country comparison to the world">70</data>
         </subsection>
-        <subsection name='Merchant marine'>
-            <data name='total'>51</data>
-            <data name='by type'>general cargo 9, other 42 (2017)</data>
-            <data name='country comparison to the world'>116</data>
+        <subsection name="Merchant marine">
+            <data name="total">51</data>
+            <data name="by type">general cargo 9, other 42 (2017)</data>
+            <data name="country comparison to the world">116</data>
         </subsection>
-        <subsection name='Ports and terminals'>
-            <data name='major seaport(s)'>Mina' Qabus, Salalah, Suhar</data>
-            <data name='container port(s) (TEUs)'>Salalah (3,325,044) (2016)</data>
-            <data name='LNG terminal(s) (export)'>Qalhat</data>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Mina' Qabus, Salalah, Suhar</data>
+            <data name="container port(s) (TEUs)">Salalah (3,325,044) (2016)</data>
+            <data name="LNG terminal(s) (export)">Qalhat</data>
         </subsection>
     </section>
-    <section name='Military and Security'>
-        <subsection name='Military expenditures'>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
             <data>13.73% of GDP (2016)</data>
             <data>14.38% of GDP (2015)</data>
             <data>13.51% of GDP (2014)</data>
             <data>14.81% of GDP (2013)</data>
             <data>16.08% of GDP (2012)</data>
-            <data name='country comparison to the world'>1</data>
+            <data name="country comparison to the world">1</data>
         </subsection>
-        <subsection name='Military branches'>
+        <subsection name="Military branches">
             <data>Sultan's Armed Forces (SAF): Royal Army of Oman, Royal Navy of Oman, Royal Air Force of Oman (al-Quwwat al-Jawwiya al-Sultanat Oman) (2013)</data>
         </subsection>
-        <subsection name='Military service age and obligation'>
+        <subsection name="Military service age and obligation">
             <data>18-30 years of age for voluntary military service; no conscription (2012)</data>
         </subsection>
     </section>
-    <section name='Transnational Issues'>
-        <subsection name='Disputes - international'>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
             <data>boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public</data>
         </subsection>
-        <subsection name='Refugees and internally displaced persons'>
-            <data name='refugees (country of origin)'>5,000 (Yemen) (2017)</data>
+        <subsection name="Refugees and internally displaced persons">
+            <data name="refugees (country of origin)">5,000 (Yemen) (2017)</data>
         </subsection>
     </section>
 </region>
