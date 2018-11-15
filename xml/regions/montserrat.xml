@@ -1,401 +1,401 @@
-<region name='Montserrat'>
-    <section name='Introduction'>
-        <subsection name='Background'>
+<region id="montserrat" name="Montserrat">
+    <section name="Introduction">
+        <subsection name="Background">
             <data>English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013.</data>
         </subsection>
     </section>
-    <section name='Geography'>
-        <subsection name='Location'>
+    <section name="Geography">
+        <subsection name="Location">
             <data>Caribbean, island in the Caribbean Sea, southeast of Puerto Rico</data>
         </subsection>
-        <subsection name='Geographic coordinates'>
+        <subsection name="Geographic coordinates">
             <data>16 45 N, 62 12 W</data>
         </subsection>
-        <subsection name='Map references'>
+        <subsection name="Map references">
             <data>Central America and the Caribbean</data>
         </subsection>
-        <subsection name='Area'>
-            <data name='total'>102 sq km</data>
-            <data name='land'>102 sq km</data>
-            <data name='water'>0 sq km</data>
-            <data name='country comparison to the world'>226</data>
+        <subsection name="Area">
+            <data name="total">102 sq km</data>
+            <data name="land">102 sq km</data>
+            <data name="water">0 sq km</data>
+            <data name="country comparison to the world">226</data>
         </subsection>
-        <subsection name='Area - comparative'>
+        <subsection name="Area - comparative">
             <data>about 0.6 times the size of Washington, DC</data>
         </subsection>
-        <subsection name='Land boundaries'>
+        <subsection name="Land boundaries">
             <data>0 km</data>
         </subsection>
-        <subsection name='Coastline'>
+        <subsection name="Coastline">
             <data>40 km</data>
         </subsection>
-        <subsection name='Maritime claims'>
-            <data name='territorial sea'>12 nm</data>
-            <data name='exclusive fishing zone'>200 nm</data>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="exclusive fishing zone">200 nm</data>
         </subsection>
-        <subsection name='Climate'>
+        <subsection name="Climate">
             <data>tropical; little daily or seasonal temperature variation</data>
         </subsection>
-        <subsection name='Terrain'>
+        <subsection name="Terrain">
             <data>volcanic island, mostly mountainous, with small coastal lowland</data>
         </subsection>
-        <subsection name='Elevation'>
-            <data name='mean elevation'>NA</data>
-            <data name='elevation extremes'>lowest point: Caribbean Sea 0 m</data>
+        <subsection name="Elevation">
+            <data name="mean elevation">NA</data>
+            <data name="elevation extremes">lowest point: Caribbean Sea 0 m</data>
             <data>highest point: Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1050 m in 2015</data>
         </subsection>
-        <subsection name='Natural resources'>
+        <subsection name="Natural resources">
             <data>NEGL</data>
         </subsection>
-        <subsection name='Land use'>
-            <data name='agricultural land'>30%</data>
+        <subsection name="Land use">
+            <data name="agricultural land">30%</data>
             <data>arable land 20%; permanent crops 0%; permanent pasture 10%</data>
-            <data name='forest'>25%</data>
-            <data name='other'>45% (2011 est.)</data>
+            <data name="forest">25%</data>
+            <data name="other">45% (2011 est.)</data>
         </subsection>
-        <subsection name='Irrigated land'>
+        <subsection name="Irrigated land">
             <data>0 sq km (2012)</data>
         </subsection>
-        <subsection name='Population - distribution'>
+        <subsection name="Population - distribution">
             <data>only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity</data>
         </subsection>
-        <subsection name='Natural hazards'>
+        <subsection name="Natural hazards">
             <data>volcanic eruptions; severe hurricanes (June to November)</data>
-            <data name='volcanism'>Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</data>
+            <data name="volcanism">Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</data>
         </subsection>
-        <subsection name='Environment - current issues'>
+        <subsection name="Environment - current issues">
             <data>land erosion occurs on slopes that have been cleared for cultivation</data>
         </subsection>
-        <subsection name='Geography - note'>
+        <subsection name="Geography - note">
             <data>the island is entirely volcanic in origin and comprised of three major volcanic centers of differing ages</data>
         </subsection>
     </section>
-    <section name='People and Society'>
-        <subsection name='Population'>
+    <section name="People and Society">
+        <subsection name="Population">
             <data>5,292</data>
-            <data name='note'>an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned (July 2017 est.)</data>
-            <data name='country comparison to the world'>228</data>
+            <data name="note">an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned (July 2017 est.)</data>
+            <data name="country comparison to the world">228</data>
         </subsection>
-        <subsection name='Nationality'>
-            <data name='noun'>Montserratian(s)</data>
-            <data name='adjective'>Montserratian</data>
+        <subsection name="Nationality">
+            <data name="noun">Montserratian(s)</data>
+            <data name="adjective">Montserratian</data>
         </subsection>
-        <subsection name='Ethnic groups'>
+        <subsection name="Ethnic groups">
             <data>African/black 88.4%, mixed 3.7%, hispanic/Spanish 3%, caucasian/white 2.7%, East Indian/Indian 1.5%, other 0.7% (2011 est.)</data>
         </subsection>
-        <subsection name='Languages'>
+        <subsection name="Languages">
             <data>English</data>
         </subsection>
-        <subsection name='Religions'>
+        <subsection name="Religions">
             <data>Protestant 67.1% (includes Anglican 21.8%, Methodist 17%, Pentecostal 14.1%, Seventh Day Adventist 10.5%, and Church of God 3.7%), Roman Catholic 11.6%, Rastafarian 1.4%, other 6.5%, none 2.6%, unspecified 10.8% (2001 est.)</data>
         </subsection>
-        <subsection name='Age structure'>
-            <data name='0-14 years'>16.5% (male 449/female 424)</data>
-            <data name='15-24 years'>21.52% (male 599/female 540)</data>
-            <data name='25-54 years'>47.43% (male 1,201/female 1,309)</data>
-            <data name='55-64 years'>8.45% (male 194/female 253)</data>
-            <data name='65 years and over'>6.1% (male 199/female 124) (2017 est.)</data>
+        <subsection name="Age structure">
+            <data name="0-14 years">16.5% (male 449/female 424)</data>
+            <data name="15-24 years">21.52% (male 599/female 540)</data>
+            <data name="25-54 years">47.43% (male 1,201/female 1,309)</data>
+            <data name="55-64 years">8.45% (male 194/female 253)</data>
+            <data name="65 years and over">6.1% (male 199/female 124) (2017 est.)</data>
         </subsection>
-        <subsection name='Median age'>
-            <data name='total'>33.2 years</data>
-            <data name='male'>32.6 years</data>
-            <data name='female'>33.7 years (2017 est.)</data>
-            <data name='country comparison to the world'>94</data>
+        <subsection name="Median age">
+            <data name="total">33.2 years</data>
+            <data name="male">32.6 years</data>
+            <data name="female">33.7 years (2017 est.)</data>
+            <data name="country comparison to the world">94</data>
         </subsection>
-        <subsection name='Population growth rate'>
+        <subsection name="Population growth rate">
             <data>0.45% (2017 est.)</data>
-            <data name='country comparison to the world'>158</data>
+            <data name="country comparison to the world">158</data>
         </subsection>
-        <subsection name='Birth rate'>
+        <subsection name="Birth rate">
             <data>10.8 births/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>183</data>
+            <data name="country comparison to the world">183</data>
         </subsection>
-        <subsection name='Death rate'>
+        <subsection name="Death rate">
             <data>6.2 deaths/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>154</data>
+            <data name="country comparison to the world">154</data>
         </subsection>
-        <subsection name='Net migration rate'>
+        <subsection name="Net migration rate">
             <data>0 migrant(s)/1,000 population (2017 est.)</data>
-            <data name='country comparison to the world'>92</data>
+            <data name="country comparison to the world">92</data>
         </subsection>
-        <subsection name='Population distribution'>
+        <subsection name="Population distribution">
             <data>only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity</data>
         </subsection>
-        <subsection name='Urbanization'>
-            <data name='urban population'>9.1% of total population (2018)</data>
-            <data name='rate of urbanization'>0.64% annual rate of change (2015-20 est.)</data>
+        <subsection name="Urbanization">
+            <data name="urban population">9.1% of total population (2018)</data>
+            <data name="rate of urbanization">0.64% annual rate of change (2015-20 est.)</data>
         </subsection>
-        <subsection name='Sex ratio'>
-            <data name='at birth'>1.07 male(s)/female</data>
-            <data name='0-14 years'>1.07 male(s)/female</data>
-            <data name='15-24 years'>1.08 male(s)/female</data>
-            <data name='25-54 years'>0.92 male(s)/female</data>
-            <data name='55-64 years'>0.83 male(s)/female</data>
-            <data name='65 years and over'>1.6 male(s)/female</data>
-            <data name='total population'>1 male(s)/female (2017 est.)</data>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.07 male(s)/female</data>
+            <data name="0-14 years">1.07 male(s)/female</data>
+            <data name="15-24 years">1.08 male(s)/female</data>
+            <data name="25-54 years">0.92 male(s)/female</data>
+            <data name="55-64 years">0.83 male(s)/female</data>
+            <data name="65 years and over">1.6 male(s)/female</data>
+            <data name="total population">1 male(s)/female (2017 est.)</data>
         </subsection>
-        <subsection name='Infant mortality rate'>
-            <data name='total'>12.3 deaths/1,000 live births</data>
-            <data name='male'>9.7 deaths/1,000 live births</data>
-            <data name='female'>15.1 deaths/1,000 live births (2017 est.)</data>
-            <data name='country comparison to the world'>116</data>
+        <subsection name="Infant mortality rate">
+            <data name="total">12.3 deaths/1,000 live births</data>
+            <data name="male">9.7 deaths/1,000 live births</data>
+            <data name="female">15.1 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">116</data>
         </subsection>
-        <subsection name='Life expectancy at birth'>
-            <data name='total population'>74.6 years</data>
-            <data name='male'>75.9 years</data>
-            <data name='female'>73.2 years (2017 est.)</data>
-            <data name='country comparison to the world'>122</data>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">74.6 years</data>
+            <data name="male">75.9 years</data>
+            <data name="female">73.2 years (2017 est.)</data>
+            <data name="country comparison to the world">122</data>
         </subsection>
-        <subsection name='Total fertility rate'>
+        <subsection name="Total fertility rate">
             <data>1.33 children born/woman (2017 est.)</data>
-            <data name='country comparison to the world'>216</data>
+            <data name="country comparison to the world">216</data>
         </subsection>
-        <subsection name='Drinking water source'>
-            <data name='improved'></data>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
             <data>urban: 99% of population</data>
             <data>rural: 99% of population</data>
             <data>total: 99% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 1% of population</data>
             <data>rural: 1% of population</data>
             <data>total: 1% of population (2015 est.)</data>
         </subsection>
-        <subsection name='Sanitation facility access'>
-            <data name='improved'></data>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
             <data>urban: 82.9% of population</data>
             <data>rural: 82.9% of population</data>
             <data>total: 82.9% of population</data>
-            <data name='unimproved'></data>
+            <data name="unimproved"></data>
             <data>urban: 17.1% of population</data>
             <data>rural: 17.1% of population</data>
             <data>total: 17.1% of population (2007 est.)</data>
         </subsection>
-        <subsection name='HIV/AIDS - adult prevalence rate'>
+        <subsection name="HIV/AIDS - adult prevalence rate">
             <data>NA</data>
         </subsection>
-        <subsection name='HIV/AIDS - people living with HIV/AIDS'>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
             <data>NA</data>
         </subsection>
-        <subsection name='HIV/AIDS - deaths'>
+        <subsection name="HIV/AIDS - deaths">
             <data>NA</data>
         </subsection>
-        <subsection name='Education expenditures'>
+        <subsection name="Education expenditures">
             <data>5.1% of GDP (2009)</data>
         </subsection>
     </section>
-    <section name='Government'>
-        <subsection name='Country name'>
-            <data name='conventional long form'>none</data>
-            <data name='conventional short form'>Montserrat</data>
-            <data name='etymology'>island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain</data>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">none</data>
+            <data name="conventional short form">Montserrat</data>
+            <data name="etymology">island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain</data>
         </subsection>
-        <subsection name='Dependency status'>
+        <subsection name="Dependency status">
             <data>overseas territory of the UK</data>
         </subsection>
-        <subsection name='Government type'>
+        <subsection name="Government type">
             <data>parliamentary democracy (Legislative Council); self-governing overseas territory of the UK</data>
         </subsection>
-        <subsection name='Capital'>
-            <data name='name'>Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat</data>
-            <data name='geographic coordinates'>16 42 N, 62 13 W</data>
-            <data name='time difference'>UTC-4 (1 hour ahead of Washington, DC, during Standard Time)</data>
+        <subsection name="Capital">
+            <data name="name">Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat</data>
+            <data name="geographic coordinates">16 42 N, 62 13 W</data>
+            <data name="time difference">UTC-4 (1 hour ahead of Washington, DC, during Standard Time)</data>
         </subsection>
-        <subsection name='Administrative divisions'>
+        <subsection name="Administrative divisions">
             <data>3 parishes; Saint Anthony, Saint Georges, Saint Peter</data>
         </subsection>
-        <subsection name='Independence'>
+        <subsection name="Independence">
             <data>none (overseas territory of the UK)</data>
         </subsection>
-        <subsection name='National holiday'>
+        <subsection name="National holiday">
             <data>birthday of Queen ELIZABETH II, second Saturday in June (1926)</data>
         </subsection>
-        <subsection name='Constitution'>
-            <data name='history'>previous 1960; latest effective 1 September 2010 (The Montserrat Constitution Order 2010)</data>
-            <data name='amendments'>amended 2011 (2018)</data>
+        <subsection name="Constitution">
+            <data name="history">previous 1960; latest effective 1 September 2010 (The Montserrat Constitution Order 2010)</data>
+            <data name="amendments">amended 2011 (2018)</data>
         </subsection>
-        <subsection name='Legal system'>
+        <subsection name="Legal system">
             <data>English common law</data>
         </subsection>
-        <subsection name='Citizenship'>
+        <subsection name="Citizenship">
             <data>see United Kingdom</data>
         </subsection>
-        <subsection name='Suffrage'>
+        <subsection name="Suffrage">
             <data>18 years of age; universal</data>
         </subsection>
-        <subsection name='Executive branch'>
-            <data name='chief of state'>Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)</data>
-            <data name='head of government'>Premier Donaldson ROMERO (since 12 September 2014); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister</data>
-            <data name='cabinet'>Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary</data>
-            <data name='elections/appointments'>the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier</data>
+        <subsection name="Executive branch">
+            <data name="chief of state">Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)</data>
+            <data name="head of government">Premier Donaldson ROMERO (since 12 September 2014); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister</data>
+            <data name="cabinet">Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary</data>
+            <data name="elections/appointments">the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier</data>
         </subsection>
-        <subsection name='Legislative branch'>
-            <data name='description'>unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)</data>
-            <data name='elections'>last held on 11 September 2014 (next to be held by 2019)</data>
-            <data name='election results'>percent of vote by party - PDM 50.0%, MCAP 35.4%, other 14.6%; seats by party - PDM 7, MCAP 2</data>
+        <subsection name="Legislative branch">
+            <data name="description">unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)</data>
+            <data name="elections">last held on 11 September 2014 (next to be held by 2019)</data>
+            <data name="election results">percent of vote by party - PDM 50.0%, MCAP 35.4%, other 14.6%; seats by party - PDM 7, MCAP 2</data>
         </subsection>
-        <subsection name='Judicial branch'>
-            <data name='highest court(s)'>the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside at the member states with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice</data>
-            <data name='judge selection and term of office'>chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62</data>
-            <data name='subordinate courts'>magistrate's court</data>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside at the member states with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice</data>
+            <data name="judge selection and term of office">chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62</data>
+            <data name="subordinate courts">magistrate's court</data>
         </subsection>
-        <subsection name='Political parties and leaders'>
+        <subsection name="Political parties and leaders">
             <data>Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL]</data>
             <data>People's Democratic Movement or PDM [Donaldson ROMERO]</data>
         </subsection>
-        <subsection name='International organization participation'>
+        <subsection name="International organization participation">
             <data>Caricom, CDB, Interpol (subbureau), OECS, UPU</data>
         </subsection>
-        <subsection name='Diplomatic representation in the US'>
+        <subsection name="Diplomatic representation in the US">
             <data>none (overseas territory of the UK)</data>
         </subsection>
-        <subsection name='Diplomatic representation from the US'>
+        <subsection name="Diplomatic representation from the US">
             <data>none (overseas territory of the UK)</data>
         </subsection>
-        <subsection name='Flag description'>
+        <subsection name="Flag description">
             <data>blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness</data>
         </subsection>
-        <subsection name='National anthem'>
-            <data name='note'>as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)</data>
+        <subsection name="National anthem">
+            <data name="note">as a territory of the UK, "God Save the Queen" is official (see United Kingdom)</data>
         </subsection>
     </section>
-    <section name='Economy'>
-        <subsection name='Economy - overview'>
+    <section name="Economy">
+        <subsection name="Economy - overview">
             <data>Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.</data>
             <data>Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.</data>
         </subsection>
-        <subsection name='GDP (purchasing power parity)'>
+        <subsection name="GDP (purchasing power parity)">
             <data>$167.4 million (2011 est.)</data>
             <data>$155.9 million (2010 est.)</data>
             <data>$162.7 million (2009 est.)</data>
-            <data name='country comparison to the world'>224</data>
+            <data name="country comparison to the world">224</data>
         </subsection>
-        <subsection name='GDP (official exchange rate)'>
+        <subsection name="GDP (official exchange rate)">
             <data>(2011 est.)</data>
         </subsection>
-        <subsection name='GDP - real growth rate'>
+        <subsection name="GDP - real growth rate">
             <data>7.4% (2011 est.)</data>
             <data>-4.2% (2010 est.)</data>
-            <data name='country comparison to the world'>13</data>
+            <data name="country comparison to the world">13</data>
         </subsection>
-        <subsection name='GDP - per capita (PPP)'>
+        <subsection name="GDP - per capita (PPP)">
             <data>$34,000 (2011 est.)</data>
             <data>$31,100 (2010 est.)</data>
             <data>$32,300 (2009 est.)</data>
-            <data name='country comparison to the world'>60</data>
+            <data name="country comparison to the world">60</data>
         </subsection>
-        <subsection name='GDP - composition, by end use'>
-            <data name='household consumption'>89.3%</data>
-            <data name='government consumption'>53.4%</data>
-            <data name='investment in fixed capital'>22.2%</data>
-            <data name='investment in inventories'>-0.1%</data>
-            <data name='exports of goods and services'>25.7%</data>
-            <data name='imports of goods and services'>-90.5% (2017 est.)</data>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">89.3%</data>
+            <data name="government consumption">53.4%</data>
+            <data name="investment in fixed capital">22.2%</data>
+            <data name="investment in inventories">-0.1%</data>
+            <data name="exports of goods and services">25.7%</data>
+            <data name="imports of goods and services">-90.5% (2017 est.)</data>
         </subsection>
-        <subsection name='GDP - composition, by sector of origin'>
-            <data name='agriculture'>1.6%</data>
-            <data name='industry'>21.8%</data>
-            <data name='services'>76.6% (2017 est.)</data>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">1.6%</data>
+            <data name="industry">21.8%</data>
+            <data name="services">76.6% (2017 est.)</data>
         </subsection>
-        <subsection name='Agriculture - products'>
+        <subsection name="Agriculture - products">
             <data>cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products</data>
         </subsection>
-        <subsection name='Industries'>
+        <subsection name="Industries">
             <data>tourism, rum, textiles, electronic appliances</data>
         </subsection>
-        <subsection name='Industrial production growth rate'>
+        <subsection name="Industrial production growth rate">
             <data>2% (2017 est.)</data>
-            <data name='country comparison to the world'>140</data>
+            <data name="country comparison to the world">140</data>
         </subsection>
-        <subsection name='Labor force'>
+        <subsection name="Labor force">
             <data>4,521 (2012)</data>
-            <data name='country comparison to the world'>223</data>
+            <data name="country comparison to the world">223</data>
         </subsection>
-        <subsection name='Labor force - by occupation'>
-            <data name='agriculture'>1.4%</data>
-            <data name='industry'>12.7%</data>
-            <data name='services'>85.9% (2017 est.)</data>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">1.4%</data>
+            <data name="industry">12.7%</data>
+            <data name="services">85.9% (2017 est.)</data>
         </subsection>
-        <subsection name='Unemployment rate'>
+        <subsection name="Unemployment rate">
             <data>5.6% (2017 est.)</data>
             <data>6% (1998 est.)</data>
-            <data name='country comparison to the world'>81</data>
+            <data name="country comparison to the world">81</data>
         </subsection>
-        <subsection name='Population below poverty line'>
+        <subsection name="Population below poverty line">
             <data>NA%</data>
         </subsection>
-        <subsection name='Household income or consumption by percentage share'>
-            <data name='lowest 10%'>NA%</data>
-            <data name='highest 10%'>NA%</data>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">NA%</data>
+            <data name="highest 10%">NA%</data>
         </subsection>
-        <subsection name='Budget'>
-            <data name='revenues'>$37.04 million</data>
-            <data name='expenditures'>$37.04 million (2017 est.)</data>
+        <subsection name="Budget">
+            <data name="revenues">$37.04 million</data>
+            <data name="expenditures">$37.04 million (2017 est.)</data>
         </subsection>
-        <subsection name='Fiscal year'>
+        <subsection name="Fiscal year">
             <data>1 April - 31 March</data>
         </subsection>
-        <subsection name='Inflation rate (consumer prices)'>
+        <subsection name="Inflation rate (consumer prices)">
             <data>1.1% (2017 est.)</data>
             <data>-0.2% (2016 est.)</data>
-            <data name='country comparison to the world'>58</data>
+            <data name="country comparison to the world">58</data>
         </subsection>
-        <subsection name='Central bank discount rate'>
+        <subsection name="Central bank discount rate">
             <data>10.99% (31 December 2010)</data>
             <data>6.5% (31 December 2009)</data>
-            <data name='country comparison to the world'>20</data>
+            <data name="country comparison to the world">20</data>
         </subsection>
-        <subsection name='Commercial bank prime lending rate'>
+        <subsection name="Commercial bank prime lending rate">
             <data>7% (31 December 2017 est.)</data>
             <data>7.26% (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>119</data>
+            <data name="country comparison to the world">119</data>
         </subsection>
-        <subsection name='Stock of narrow money'>
+        <subsection name="Stock of narrow money">
             <data>$23.33 million (31 December 2017 est.)</data>
             <data>$23.04 million (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>194</data>
+            <data name="country comparison to the world">194</data>
         </subsection>
-        <subsection name='Stock of broad money'>
+        <subsection name="Stock of broad money">
             <data>$100.7 million (31 December 2017 est.)</data>
             <data>$91.6 million (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>196</data>
+            <data name="country comparison to the world">196</data>
         </subsection>
-        <subsection name='Stock of domestic credit'>
+        <subsection name="Stock of domestic credit">
             <data>$1.481 million (31 December 2017 est.)</data>
             <data>$1.481 million (31 December 2016 est.)</data>
-            <data name='country comparison to the world'>191</data>
+            <data name="country comparison to the world">191</data>
         </subsection>
-        <subsection name='Exports'>
+        <subsection name="Exports">
             <data>$5.7 million (2017 est.)</data>
             <data>$5.2 million (2016 est.)</data>
-            <data name='country comparison to the world'>218</data>
+            <data name="country comparison to the world">218</data>
         </subsection>
-        <subsection name='Exports - commodities'>
+        <subsection name="Exports - commodities">
             <data>electronic components, plastic bags, apparel; hot peppers, limes, live plants; cattle</data>
         </subsection>
-        <subsection name='Exports - partners'>
+        <subsection name="Exports - partners">
             <data>US 29%, France 23%, Saint Kitts and Nevis 22.2% (2017)</data>
         </subsection>
-        <subsection name='Imports'>
+        <subsection name="Imports">
             <data>$33.67 million (2017 est.)</data>
             <data>$31.02 million (2016 est.)</data>
-            <data name='country comparison to the world'>218</data>
+            <data name="country comparison to the world">218</data>
         </subsection>
-        <subsection name='Imports - commodities'>
+        <subsection name="Imports - commodities">
             <data>machinery and transportation equipment, foodstuffs, manufactured goods, fuels, lubricants</data>
         </subsection>
-        <subsection name='Imports - partners'>
+        <subsection name="Imports - partners">
             <data>US 72.8%, Trinidad and Tobago 6%, UK 4.1% (2017)</data>
         </subsection>
-        <subsection name='Reserves of foreign exchange and gold'>
+        <subsection name="Reserves of foreign exchange and gold">
             <data>$49.36 million (31 December 2016 est.)</data>
             <data>$51.47 million (31 December 2015 est.)</data>
-            <data name='country comparison to the world'>173</data>
+            <data name="country comparison to the world">173</data>
         </subsection>
-        <subsection name='Debt - external'>
+        <subsection name="Debt - external">
             <data>$8.9 million (1997)</data>
-            <data name='country comparison to the world'>201</data>
+            <data name="country comparison to the world">201</data>
         </subsection>
-        <subsection name='Exchange rates'>
+        <subsection name="Exchange rates">
             <data>East Caribbean dollars (XCD) per US dollar -</data>
             <data>2.7 (2017 est.)</data>
             <data>2.7 (2016 est.)</data>
@@ -404,164 +404,164 @@
             <data>2.7 (2013 est.)</data>
         </subsection>
     </section>
-    <section name='Energy'>
-        <subsection name='Electricity - production'>
+    <section name="Energy">
+        <subsection name="Electricity - production">
             <data>24 million kWh (2015 est.)</data>
-            <data name='country comparison to the world'>213</data>
+            <data name="country comparison to the world">213</data>
         </subsection>
-        <subsection name='Electricity - consumption'>
+        <subsection name="Electricity - consumption">
             <data>22.32 million kWh (2015 est.)</data>
-            <data name='country comparison to the world'>211</data>
+            <data name="country comparison to the world">211</data>
         </subsection>
-        <subsection name='Electricity - exports'>
+        <subsection name="Electricity - exports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>165</data>
+            <data name="country comparison to the world">165</data>
         </subsection>
-        <subsection name='Electricity - imports'>
+        <subsection name="Electricity - imports">
             <data>0 kWh (2016 est.)</data>
-            <data name='country comparison to the world'>170</data>
+            <data name="country comparison to the world">170</data>
         </subsection>
-        <subsection name='Electricity - installed generating capacity'>
+        <subsection name="Electricity - installed generating capacity">
             <data>5,000 kW (2015 est.)</data>
-            <data name='country comparison to the world'>214</data>
+            <data name="country comparison to the world">214</data>
         </subsection>
-        <subsection name='Electricity - from fossil fuels'>
+        <subsection name="Electricity - from fossil fuels">
             <data>100% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>11</data>
+            <data name="country comparison to the world">11</data>
         </subsection>
-        <subsection name='Electricity - from nuclear fuels'>
+        <subsection name="Electricity - from nuclear fuels">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>137</data>
+            <data name="country comparison to the world">137</data>
         </subsection>
-        <subsection name='Electricity - from hydroelectric plants'>
+        <subsection name="Electricity - from hydroelectric plants">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>187</data>
+            <data name="country comparison to the world">187</data>
         </subsection>
-        <subsection name='Electricity - from other renewable sources'>
+        <subsection name="Electricity - from other renewable sources">
             <data>0% of total installed capacity (2015 est.)</data>
-            <data name='country comparison to the world'>195</data>
+            <data name="country comparison to the world">195</data>
         </subsection>
-        <subsection name='Crude oil - production'>
+        <subsection name="Crude oil - production">
             <data>0 bbl/day (2016 est.)</data>
-            <data name='country comparison to the world'>164</data>
+            <data name="country comparison to the world">164</data>
         </subsection>
-        <subsection name='Crude oil - exports'>
+        <subsection name="Crude oil - exports">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>157</data>
+            <data name="country comparison to the world">157</data>
         </subsection>
-        <subsection name='Crude oil - imports'>
+        <subsection name="Crude oil - imports">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>157</data>
+            <data name="country comparison to the world">157</data>
         </subsection>
-        <subsection name='Crude oil - proved reserves'>
+        <subsection name="Crude oil - proved reserves">
             <data>0 bbl (1 January 2017 est.)</data>
-            <data name='country comparison to the world'>163</data>
+            <data name="country comparison to the world">163</data>
         </subsection>
-        <subsection name='Refined petroleum products - production'>
+        <subsection name="Refined petroleum products - production">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>170</data>
+            <data name="country comparison to the world">170</data>
         </subsection>
-        <subsection name='Refined petroleum products - consumption'>
+        <subsection name="Refined petroleum products - consumption">
             <data>570 bbl/day (2015 est.)</data>
-            <data name='country comparison to the world'>209</data>
+            <data name="country comparison to the world">209</data>
         </subsection>
-        <subsection name='Refined petroleum products - exports'>
+        <subsection name="Refined petroleum products - exports">
             <data>0 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>177</data>
+            <data name="country comparison to the world">177</data>
         </subsection>
-        <subsection name='Refined petroleum products - imports'>
+        <subsection name="Refined petroleum products - imports">
             <data>416.4 bbl/day (2014 est.)</data>
-            <data name='country comparison to the world'>207</data>
+            <data name="country comparison to the world">207</data>
         </subsection>
-        <subsection name='Natural gas - production'>
+        <subsection name="Natural gas - production">
             <data>0 cu m (2013 est.)</data>
-            <data name='country comparison to the world'>216</data>
+            <data name="country comparison to the world">216</data>
         </subsection>
-        <subsection name='Natural gas - consumption'>
+        <subsection name="Natural gas - consumption">
             <data>0 cu m (2013 est.)</data>
-            <data name='country comparison to the world'>168</data>
+            <data name="country comparison to the world">168</data>
         </subsection>
-        <subsection name='Natural gas - exports'>
+        <subsection name="Natural gas - exports">
             <data>0 cu m (2013 est.)</data>
-            <data name='country comparison to the world'>143</data>
+            <data name="country comparison to the world">143</data>
         </subsection>
-        <subsection name='Natural gas - imports'>
+        <subsection name="Natural gas - imports">
             <data>0 cu m (2013 est.)</data>
-            <data name='country comparison to the world'>152</data>
+            <data name="country comparison to the world">152</data>
         </subsection>
-        <subsection name='Natural gas - proved reserves'>
+        <subsection name="Natural gas - proved reserves">
             <data>0 cu m (1 January 2014 est.)</data>
-            <data name='country comparison to the world'>167</data>
+            <data name="country comparison to the world">167</data>
         </subsection>
-        <subsection name='Carbon dioxide emissions from consumption of energy'>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
             <data>88,010 Mt (2012 est.)</data>
-            <data name='country comparison to the world'>210</data>
+            <data name="country comparison to the world">210</data>
         </subsection>
     </section>
-    <section name='Communications'>
-        <subsection name='Telephones - fixed lines'>
-            <data name='total subscriptions'>3,000</data>
-            <data name='subscriptions per 100 inhabitants'>57 (July 2016 est.)</data>
-            <data name='country comparison to the world'>209</data>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">3,000</data>
+            <data name="subscriptions per 100 inhabitants">57 (July 2016 est.)</data>
+            <data name="country comparison to the world">209</data>
         </subsection>
-        <subsection name='Telephones - mobile cellular'>
-            <data name='total subscriptions'>5,000</data>
-            <data name='subscriptions per 100 inhabitants'>95 (July 2016 est.)</data>
-            <data name='country comparison to the world'>214</data>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">5,000</data>
+            <data name="subscriptions per 100 inhabitants">95 (July 2016 est.)</data>
+            <data name="country comparison to the world">214</data>
         </subsection>
-        <subsection name='Telephone system'>
-            <data name='general assessment'>modern and fully digitalized</data>
-            <data name='domestic'>combined fixed-line and mobile-cellular teledensity exceeds 150 per 100 persons</data>
-            <data name='international'>country code - 1-664; landing point for the East Caribbean Fiber System (ECFS) optic submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2016)</data>
+        <subsection name="Telephone system">
+            <data name="general assessment">modern and fully digitalized</data>
+            <data name="domestic">combined fixed-line and mobile-cellular teledensity exceeds 150 per 100 persons</data>
+            <data name="international">country code - 1-664; landing point for the East Caribbean Fiber System (ECFS) optic submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2016)</data>
         </subsection>
-        <subsection name='Broadcast media'>
+        <subsection name="Broadcast media">
             <data>Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)</data>
         </subsection>
-        <subsection name='Internet country code'>
+        <subsection name="Internet country code">
             <data>.ms</data>
         </subsection>
-        <subsection name='Internet users'>
-            <data name='total'>2,860</data>
-            <data name='percent of population'>54.6% (July 2016 est.)</data>
-            <data name='country comparison to the world'>221</data>
+        <subsection name="Internet users">
+            <data name="total">2,860</data>
+            <data name="percent of population">54.6% (July 2016 est.)</data>
+            <data name="country comparison to the world">221</data>
         </subsection>
     </section>
-    <section name='Transportation'>
-        <subsection name='National air transport system'>
-            <data name='number of registered air carriers'>1</data>
-            <data name='inventory of registered aircraft operated by air carriers'>3 (2015)</data>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">1</data>
+            <data name="inventory of registered aircraft operated by air carriers">3 (2015)</data>
         </subsection>
-        <subsection name='Civil aircraft registration country code prefix'>
+        <subsection name="Civil aircraft registration country code prefix">
             <data>VP-M (2016)</data>
         </subsection>
-        <subsection name='Airports'>
+        <subsection name="Airports">
             <data>1 (2013)</data>
-            <data name='country comparison to the world'>226</data>
+            <data name="country comparison to the world">226</data>
         </subsection>
-        <subsection name='Airports - with paved runways'>
-            <data name='total'>1</data>
-            <data name='under 914 m'>1 (2017)</data>
+        <subsection name="Airports - with paved runways">
+            <data name="total">1</data>
+            <data name="under 914 m">1 (2017)</data>
         </subsection>
-        <subsection name='Roadways'>
-            <data name='note'>volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island (2017)</data>
+        <subsection name="Roadways">
+            <data name="note">volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island (2017)</data>
         </subsection>
-        <subsection name='Ports and terminals'>
-            <data name='major seaport(s)'>Little Bay, Plymouth</data>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Little Bay, Plymouth</data>
         </subsection>
     </section>
-    <section name='Military and Security'>
-        <subsection name='Military branches'>
+    <section name="Military and Security">
+        <subsection name="Military branches">
             <data>no regular military forces; Royal Montserrat Police Force (2011)</data>
         </subsection>
-        <subsection name='Military - note'>
+        <subsection name="Military - note">
             <data>defense is the responsibility of the UK</data>
         </subsection>
     </section>
-    <section name='Transnational Issues'>
-        <subsection name='Disputes - international'>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
             <data>none</data>
         </subsection>
-        <subsection name='Illicit drugs'>
+        <subsection name="Illicit drugs">
             <data>transshipment point for South American narcotics destined for the US and Europe</data>
         </subsection>
     </section>
