@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions>
+    <region name='Oman' id='oman'>
+        <section name='Introduction'>
+            <subsection name='Subsection'>
+                <data>Text text</data>
+                <data name='Tučný název'>Text text</data>
+            </subsection>
+
+            <subsection name='Subsection 2'>
+                <data>Text text</data>
+                <data name='Tučný název 2'>Text text</data>
+            </subsection>
+        </section>
+        <section name='Geography'>
+            <subsection name='Subsection'>
+                <data>Text text</data>
+                <data name='Tučný název'>Text text</data>
+            </subsection>
+
+            <subsection name='Subsection 2'>
+                <data>Text text</data>
+                <data name='Tučný název 2'>Text text</data>
+            </subsection>
+        </section>
+    </region>
+
+    <region name='Brazil' id='brazil'>
+        <section name='Introduction'>
+            <subsection name='Subsection'>
+                <data>Text text</data>
+                <data name='Tučný název'>Text text</data>
+            </subsection>
+
+            <subsection name='Subsection 2'>
+                <data>Text text</data>
+                <data name='Tučný název 2'>Text text</data>
+            </subsection>
+        </section>
+        <section name='Geography'>
+            <subsection name='Subsection'>
+                <data>Text text</data>
+                <data name='Tučný název'>Text text</data>
+            </subsection>
+
+            <subsection name='Subsection 2'>
+                <data>Text text</data>
+                <data name='Tučný název 2'>Text text</data>
+            </subsection>
+        </section>
+    </region>
+</regions>
