@@ -1,0 +1,749 @@
+<region id="cuba" name="Cuba">
+    <section name="Introduction">
+        <subsection name="Background">
+            <data>The native Amerindian population of Cuba began to decline after the European discovery of the island by Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions that were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He stepped down as president in February 2008 in favor of his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. On 8-9 September 2017, Hurricane Irma passed along the north coast of Cuba causing extensive damage to structures, roads, and power supplies. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018.</data>
+            <data>The country faced a severe economic downturn in 1990 following the withdrawal of former Soviet subsidies worth $4-6 billion annually. Cuba at times portrays the US embargo, in place since 1961, as the source of its difficulties. Over the past decade, there has been growing communication with the Cuban Government to address national interests. As a result of efforts begun in December 2014 to re-establish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries on 20 July 2015. However, the embargo remains in place.</data>
+            <data>Illicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called “wet-foot, dry-foot” policy – by which Cuban nationals who reached US soil were permitted to stay – facilitating the repatriation of Cuban migrants. Illicit Cuban migration has since dropped significantly. In FY 2017, the US Coast Guard interdicted 1,606 Cuban nationals at sea. Also in FY 2017, 20,995 Cuban migrants presented themselves at various land border ports of entry throughout the US.</data>
+        </subsection>
+    </section>
+    <section name="Geography">
+        <subsection name="Location">
+            <data>Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km south of Key West, Florida</data>
+        </subsection>
+        <subsection name="Geographic coordinates">
+            <data>21 30 N, 80 00 W</data>
+        </subsection>
+        <subsection name="Map references">
+            <data>Central America and the Caribbean</data>
+        </subsection>
+        <subsection name="Area">
+            <data name="total">110,860 sq km</data>
+            <data name="land">109,820 sq km</data>
+            <data name="water">1,040 sq km</data>
+            <data name="country comparison to the world">107</data>
+        </subsection>
+        <subsection name="Area - comparative">
+            <data>slightly smaller than Pennsylvania</data>
+        </subsection>
+        <subsection name="Land boundaries">
+            <data name="total">28.5 km</data>
+            <data name="border countries">US Naval Base at Guantanamo Bay 28.5 km</data>
+            <data name="note">Guantanamo Naval Base is leased by the US and remains part of Cuba</data>
+        </subsection>
+        <subsection name="Coastline">
+            <data>3,735 km</data>
+        </subsection>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="contiguous zone">24 nm</data>
+            <data name="exclusive economic zone">200 nm</data>
+        </subsection>
+        <subsection name="Climate">
+            <data>tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)</data>
+        </subsection>
+        <subsection name="Terrain">
+            <data>mostly flat to rolling plains, with rugged hills and mountains in the southeast</data>
+        </subsection>
+        <subsection name="Elevation">
+            <data name="mean elevation">108 m</data>
+            <data name="elevation extremes">lowest point: Caribbean Sea 0 m</data>
+            <data>highest point: Pico Turquino 1,974 m</data>
+        </subsection>
+        <subsection name="Natural resources">
+            <data>cobalt, nickel, iron ore, chromium, copper, salt, timber, silica, petroleum, arable land</data>
+        </subsection>
+        <subsection name="Land use">
+            <data name="agricultural land">60.3%</data>
+            <data>arable land 33.8%; permanent crops 3.6%; permanent pasture 22.9%</data>
+            <data name="forest">27.3%</data>
+            <data name="other">12.4% (2011 est.)</data>
+        </subsection>
+        <subsection name="Irrigated land">
+            <data>8,700 sq km (2012)</data>
+        </subsection>
+        <subsection name="Population - distribution">
+            <data>large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana</data>
+        </subsection>
+        <subsection name="Natural hazards">
+            <data>the east coast is subject to hurricanes from August to November (in general, the country averages about one hurricane every other year); droughts are common</data>
+        </subsection>
+        <subsection name="Environment - current issues">
+            <data>soil degradation and desertification (brought on by poor farming techniques and natural disasters) are the main environmental problems; biodiversity loss; deforestation; air and water pollution</data>
+        </subsection>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands</data>
+            <data name="signed, but not ratified">Marine Life Conservation</data>
+        </subsection>
+        <subsection name="Geography - note">
+            <data>largest country in Caribbean and westernmost island of the Greater Antilles</data>
+        </subsection>
+    </section>
+    <section name="People and Society">
+        <subsection name="Population">
+            <data>11,147,407 (July 2017 est.)</data>
+            <data name="country comparison to the world">80</data>
+        </subsection>
+        <subsection name="Nationality">
+            <data name="noun">Cuban(s)</data>
+            <data name="adjective">Cuban</data>
+        </subsection>
+        <subsection name="Ethnic groups">
+            <data>white 64.1%, mulatto or mixed 26.6%, black 9.3%</data>
+            <data name="note">data represent racial self-identification from Cuba's 2012 national census (2012 est.)</data>
+        </subsection>
+        <subsection name="Languages">
+            <data>Spanish (official)</data>
+        </subsection>
+        <subsection name="Religions">
+            <data>nominally Roman Catholic 85%, Protestant, Jehovah's Witnesses, Jewish, Santeria</data>
+            <data name="note">prior to CASTRO assuming power</data>
+        </subsection>
+        <subsection name="Age structure">
+            <data name="0-14 years">16.57% (male 950,870/female 896,476)</data>
+            <data name="15-24 years">12.22% (male 706,882/female 655,446)</data>
+            <data name="25-54 years">44.43% (male 2,490,483/female 2,462,250)</data>
+            <data name="55-64 years">11.84% (male 640,150/female 679,603)</data>
+            <data name="65 years and over">14.94% (male 763,058/female 902,189) (2017 est.)</data>
+        </subsection>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">43.3</data>
+            <data name="youth dependency ratio">23.3</data>
+            <data name="elderly dependency ratio">19.9</data>
+            <data name="potential support ratio">5 (2015 est.)</data>
+        </subsection>
+        <subsection name="Median age">
+            <data name="total">41.5 years</data>
+            <data name="male">40.1 years</data>
+            <data name="female">42.6 years (2017 est.)</data>
+            <data name="country comparison to the world">37</data>
+        </subsection>
+        <subsection name="Population growth rate">
+            <data>-0.29% (2017 est.)</data>
+            <data name="country comparison to the world">217</data>
+        </subsection>
+        <subsection name="Birth rate">
+            <data>10.7 births/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">184</data>
+        </subsection>
+        <subsection name="Death rate">
+            <data>8.7 deaths/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">74</data>
+        </subsection>
+        <subsection name="Net migration rate">
+            <data>-4.9 migrant(s)/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">190</data>
+        </subsection>
+        <subsection name="Population distribution">
+            <data>large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana</data>
+        </subsection>
+        <subsection name="Urbanization">
+            <data name="urban population">77% of total population (2018)</data>
+            <data name="rate of urbanization">0.14% annual rate of change (2015-20 est.)</data>
+        </subsection>
+        <subsection name="Major urban areas - population">
+            <data>HAVANA (capital) 2.136 million (2018)</data>
+        </subsection>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.06 male(s)/female</data>
+            <data name="0-14 years">1.06 male(s)/female</data>
+            <data name="15-24 years">1.08 male(s)/female</data>
+            <data name="25-54 years">1.01 male(s)/female</data>
+            <data name="55-64 years">0.94 male(s)/female</data>
+            <data name="65 years and over">0.81 male(s)/female</data>
+            <data name="total population">0.99 male(s)/female (2017 est.)</data>
+        </subsection>
+        <subsection name="Maternal mortality ratio">
+            <data>39 deaths/100,000 live births (2015 est.)</data>
+            <data name="country comparison to the world">106</data>
+        </subsection>
+        <subsection name="Infant mortality rate">
+            <data name="total">4.4 deaths/1,000 live births</data>
+            <data name="male">4.9 deaths/1,000 live births</data>
+            <data name="female">3.9 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">181</data>
+        </subsection>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">78.8 years</data>
+            <data name="male">76.5 years</data>
+            <data name="female">81.3 years (2017 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Total fertility rate">
+            <data>1.71 children born/woman (2017 est.)</data>
+            <data name="country comparison to the world">171</data>
+        </subsection>
+        <subsection name="Contraceptive prevalence rate">
+            <data>73.7% (2014)</data>
+        </subsection>
+        <subsection name="Health expenditures">
+            <data>11.1% of GDP (2014)</data>
+            <data name="country comparison to the world">12</data>
+        </subsection>
+        <subsection name="Physicians density">
+            <data>7.52 physicians/1,000 population (2014)</data>
+        </subsection>
+        <subsection name="Hospital bed density">
+            <data>5.2 beds/1,000 population (2014)</data>
+        </subsection>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
+            <data>urban: 96.4% of population</data>
+            <data>rural: 89.8% of population</data>
+            <data>total: 94.9% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 3.6% of population</data>
+            <data>rural: 10.2% of population</data>
+            <data>total: 5.1% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
+            <data>urban: 94.4% of population</data>
+            <data>rural: 89.1% of population</data>
+            <data>total: 93.2% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 5.6% of population</data>
+            <data>rural: 10.9% of population</data>
+            <data>total: 6.8% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="HIV/AIDS - adult prevalence rate">
+            <data>0.4% (2017 est.)</data>
+            <data name="country comparison to the world">71</data>
+        </subsection>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
+            <data>30,000 (2017 est.)</data>
+            <data name="country comparison to the world">70</data>
+        </subsection>
+        <subsection name="HIV/AIDS - deaths">
+            <data>&lt;500 (2017 est.)</data>
+        </subsection>
+        <subsection name="Major infectious diseases">
+            <data name="degree of risk">intermediate</data>
+            <data name="food or waterborne diseases">bacterial diarrhea and hepatitis A</data>
+            <data name="vectorborne diseases">dengue fever</data>
+            <data name="note">active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)</data>
+        </subsection>
+        <subsection name="Obesity - adult prevalence rate">
+            <data>24.6% (2016)</data>
+            <data name="country comparison to the world">56</data>
+        </subsection>
+        <subsection name="Education expenditures">
+            <data>12.8% of GDP (2010)</data>
+            <data name="country comparison to the world">2</data>
+        </subsection>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">99.8%</data>
+            <data name="male">99.9%</data>
+            <data name="female">99.8% (2015 est.)</data>
+        </subsection>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">14 years</data>
+            <data name="male">13 years</data>
+            <data name="female">14 years (2015)</data>
+        </subsection>
+        <subsection name="Unemployment, youth ages 15-24">
+            <data name="total">6.1%</data>
+            <data name="male">6.4%</data>
+            <data name="female">5.6% (2010 est.)</data>
+            <data name="country comparison to the world">145</data>
+        </subsection>
+        <subsection name="People - note">
+            <data>illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called “wet-foot, dry-foot” policy on 12 January 2017</data>
+        </subsection>
+    </section>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">Republic of Cuba</data>
+            <data name="conventional short form">Cuba</data>
+            <data name="local long form">Republica de Cuba</data>
+            <data name="local short form">Cuba</data>
+            <data name="etymology">name derives from the Taino Indian designation for the island "coabana" meaning "great place"</data>
+        </subsection>
+        <subsection name="Government type">
+            <data>communist state</data>
+        </subsection>
+        <subsection name="Capital">
+            <data name="name">Havana</data>
+            <data name="geographic coordinates">23 07 N, 82 21 W</data>
+            <data name="time difference">UTC-5 (same time as Washington, DC, during Standard Time)</data>
+            <data name="daylight saving time">+1hr, begins second Sunday in March; ends first Sunday in November; note - Cuba has been known to alter the schedule of DST on short notice in an attempt to conserve electricity for lighting</data>
+        </subsection>
+        <subsection name="Administrative divisions">
+            <data>15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana, Las Tunas, Matanzas, Mayabeque, Pinar del Rio, Sancti Spiritus, Santiago de Cuba, Villa Clara</data>
+        </subsection>
+        <subsection name="Independence">
+            <data>20 May 1902 (from Spain 10 December 1898; administered by the US from 1898 to 1902); not acknowledged by the Cuban Government as a day of independence</data>
+        </subsection>
+        <subsection name="National holiday">
+            <data>Triumph of the Revolution (Liberation Day), 1 January (1959)</data>
+        </subsection>
+        <subsection name="Constitution">
+            <data name="history">several previous; latest adopted by referendum 15 February 1976, effective 24 February 1976; note - in early June 2018, the Cuban Government announced that Raul CASTRO would head a commission to rewrite the country's constitution</data>
+            <data name="amendments">proposed by the National Assembly of People’s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended; amended 1978, 1992, 2002 (2018)</data>
+        </subsection>
+        <subsection name="Legal system">
+            <data>civil law system based on Spanish civil code</data>
+        </subsection>
+        <subsection name="International law organization participation">
+            <data>has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</data>
+        </subsection>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">yes</data>
+            <data name="citizenship by descent">yes</data>
+            <data name="dual citizenship recognized">no</data>
+            <data name="residency requirement for naturalization">unknown</data>
+        </subsection>
+        <subsection name="Suffrage">
+            <data>16 years of age; universal</data>
+        </subsection>
+        <subsection name="Executive branch">
+            <data name="chief of state">President of the Council of State and President of the Council of Ministers Miguel DIAZ-CANEL Bermudez (since 19 April 2018); First Vice President of the Council of State and First Vice President of the Council of Ministers Salvador Antonio VALDES Mesa (since 19 April 2018); note - the president is both chief of state and head of government</data>
+            <data name="head of government">President of the Council of State and President of the Council of Ministers Miguel DIAZ-CANEL Bermudez (since 19 April 2018); First Vice President of the Council of State and First Vice President of the Council of Ministers Salvador Antonio VALDES Mesa (since 19 April 2018)</data>
+            <data name="cabinet">Council of Ministers proposed by the president of the Council of State and appointed by the National Assembly; it is subordinate to the 31-member Council of State, which is elected by the Assembly to act on its behalf when it is not in session</data>
+            <data name="elections/appointments">president and vice presidents indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 19 April 2018 (next to be held in 2023)</data>
+            <data name="election results">Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 100%</data>
+        </subsection>
+        <subsection name="Legislative branch">
+            <data name="description">unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election</data>
+            <data name="elections">last held on 11 March 2018 (next to be held in early 2023)</data>
+            <data name="election results">Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed</data>
+        </subsection>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)</data>
+            <data name="judge selection and term of office">professional judges elected by the National Assembly are not subject to a specific term; lay judges nominated by workplace collectives and neighborhood associations and elected by municipal or provincial assemblies; lay judges appointed for 5-year terms and serve up to 30 days per year</data>
+            <data name="subordinate courts">People's Provincial Courts; People's Regional Courts; People's Courts</data>
+        </subsection>
+        <subsection name="Political parties and leaders">
+            <data>Cuban Communist Party or PCC [Raul CASTRO Ruz]</data>
+        </subsection>
+        <subsection name="International organization participation">
+            <data>ACP, ALBA, AOSIS, CELAC, FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</data>
+        </subsection>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Jose Ramon CABANAS Rodriguez (since 17 September 2015)</data>
+            <data name="chancery">2630 16th Street NW, Washington, DC 20009</data>
+            <data name="telephone">[1] (202) 797-8518</data>
+            <data name="FAX">NA</data>
+            <data name="consulate(s) general">NA</data>
+        </subsection>
+        <subsection name="Diplomatic representation from the US">
+            <data name="chief of mission">Ambassador (vacant); Charge d'Affaires Phillip Goldberg (Since February 2018)</data>
+            <data name="embassy">Calzada between L &amp; M Streets, Vedado, Havana</data>
+            <data name="mailing address">use embassy street address</data>
+            <data name="telephone">[53] (7) 839-4100</data>
+            <data name="FAX">NA</data>
+        </subsection>
+        <subsection name="Flag description">
+            <data>five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas</data>
+            <data name="note">design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed</data>
+        </subsection>
+        <subsection name="National symbol(s)">
+            <data>royal palm; national colors: red, white, blue</data>
+        </subsection>
+        <subsection name="National anthem">
+            <data name="name">"La Bayamesa" (The Bayamo Song)</data>
+            <data name="lyrics/music">Pedro FIGUEREDO</data>
+            <data name="note">adopted 1940; Pedro FIGUEREDO first performed "La Bayamesa" in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just prior to the fusillade he is reputed to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem</data>
+        </subsection>
+    </section>
+    <section name="Economy">
+        <subsection name="Economy - overview">
+            <data>The government continues to balance the need for loosening its socialist economic system against a desire for firm political control. In April 2011, the government held the first Cuban Communist Party Congress in almost 13 years, during which leaders approved a plan for wide-ranging economic changes. Since then, the government has slowly and incrementally implemented limited economic reforms, including allowing Cubans to buy electronic appliances and cell phones, stay in hotels, and buy and sell used cars. The government has cut state sector jobs as part of the reform process, and it has opened up some retail services to "self-employment," leading to the rise of so-called "cuentapropistas" or entrepreneurs. More than 500,000 Cuban workers are currently registered as self-employed.</data>
+            <data>The Cuban regime has updated its economic model to include permitting the private ownership and sale of real estate and new vehicles, allowing private farmers to sell agricultural goods directly to hotels, allowing the creation of non-agricultural cooperatives, adopting a new foreign investment law, and launching a “Special Development Zone” around the Mariel port.</data>
+            <data>Since 2016, Cuba has attributed slowed economic growth in part to problems with petroleum product deliveries from Venezuela. Since late 2000, Venezuela provided petroleum products to Cuba on preferential terms, supplying at times nearly 100,000 barrels per day. Cuba paid for the oil, in part, with the services of Cuban personnel in Venezuela, including some 30,000 medical professionals.</data>
+        </subsection>
+        <subsection name="GDP (purchasing power parity)">
+            <data>$137 billion (2017 est.)</data>
+            <data>$134.8 billion (2016 est.)</data>
+            <data>$134.2 billion (2015 est.)</data>
+            <data name="note">data are in 2016 US dollars</data>
+            <data name="country comparison to the world">79</data>
+        </subsection>
+        <subsection name="GDP (official exchange rate)">
+            <data>$93.79 billion (2017 est.)</data>
+            <data name="note">data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate</data>
+        </subsection>
+        <subsection name="GDP - real growth rate">
+            <data>1.6% (2017 est.)</data>
+            <data>0.5% (2016 est.)</data>
+            <data>4.4% (2015 est.)</data>
+            <data name="country comparison to the world">170</data>
+        </subsection>
+        <subsection name="GDP - per capita (PPP)">
+            <data>$12,300 (2016 est.)</data>
+            <data>$12,200 (2015 est.)</data>
+            <data>$12,100 (2014 est.)</data>
+            <data name="note">data are in 2016 US dollars</data>
+            <data name="country comparison to the world">128</data>
+        </subsection>
+        <subsection name="Gross national saving">
+            <data>10.1% of GDP (2017 est.)</data>
+            <data>11% of GDP (2016 est.)</data>
+            <data>12.1% of GDP (2015 est.)</data>
+            <data name="country comparison to the world">158</data>
+        </subsection>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">58.2%</data>
+            <data name="government consumption">31.7%</data>
+            <data name="investment in fixed capital">9.9%</data>
+            <data name="investment in inventories">0%</data>
+            <data name="exports of goods and services">13.6%</data>
+            <data name="imports of goods and services">-13.5% (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">3.9%</data>
+            <data name="industry">21.5%</data>
+            <data name="services">74.2% (2017 est.)</data>
+        </subsection>
+        <subsection name="Agriculture - products">
+            <data>sugar, tobacco, citrus, coffee, rice, potatoes, beans; livestock</data>
+        </subsection>
+        <subsection name="Industries">
+            <data>petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar</data>
+        </subsection>
+        <subsection name="Industrial production growth rate">
+            <data>0.6% (2017 est.)</data>
+            <data name="country comparison to the world">177</data>
+        </subsection>
+        <subsection name="Labor force">
+            <data>4.691 million</data>
+            <data name="note">state sector 72.3%, non-state sector 27.7% (2017 est.)</data>
+            <data name="country comparison to the world">87</data>
+        </subsection>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">18%</data>
+            <data name="industry">10%</data>
+            <data name="services">72% (2016 est.)</data>
+        </subsection>
+        <subsection name="Unemployment rate">
+            <data>2.2% (2017 est.)</data>
+            <data>2% (2016 est.)</data>
+            <data name="note">data are official rates; unofficial estimates are about double</data>
+            <data name="country comparison to the world">23</data>
+        </subsection>
+        <subsection name="Population below poverty line">
+            <data>NA%</data>
+        </subsection>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">NA%</data>
+            <data name="highest 10%">NA%</data>
+        </subsection>
+        <subsection name="Budget">
+            <data name="revenues">$51.76 billion</data>
+            <data name="expenditures">$62.11 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="Taxes and other revenues">
+            <data>55.2% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">10</data>
+        </subsection>
+        <subsection name="Budget surplus (+) or deficit (-)">
+            <data>-11% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">210</data>
+        </subsection>
+        <subsection name="Public debt">
+            <data>49.5% of GDP (2017 est.)</data>
+            <data>43.5% of GDP (2016 est.)</data>
+            <data name="country comparison to the world">104</data>
+        </subsection>
+        <subsection name="Fiscal year">
+            <data>calendar year</data>
+        </subsection>
+        <subsection name="Inflation rate (consumer prices)">
+            <data>4.8% (2017 est.)</data>
+            <data>4.5% (2016 est.)</data>
+            <data name="country comparison to the world">171</data>
+        </subsection>
+        <subsection name="Central bank discount rate">
+            <data>NA%</data>
+        </subsection>
+        <subsection name="Commercial bank prime lending rate">
+            <data>NA%</data>
+        </subsection>
+        <subsection name="Stock of narrow money">
+            <data>$23.49 billion (31 December 2017 est.)</data>
+            <data>$21.92 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Stock of broad money">
+            <data>$50.2 billion (31 December 2017 est.)</data>
+            <data>$48.19 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Stock of domestic credit">
+            <data>$NA</data>
+        </subsection>
+        <subsection name="Current account balance">
+            <data>$985.4 million (2017 est.)</data>
+            <data>$2.008 billion (2016 est.)</data>
+            <data name="country comparison to the world">46</data>
+        </subsection>
+        <subsection name="Exports">
+            <data>$2.885 billion (2017 est.)</data>
+            <data>$2.546 billion (2016 est.)</data>
+            <data name="country comparison to the world">128</data>
+        </subsection>
+        <subsection name="Exports - commodities">
+            <data>petroleum, nickel, medical products, sugar, tobacco, fish, citrus, coffee</data>
+        </subsection>
+        <subsection name="Exports - partners">
+            <data>Venezuela 17.8%, Spain 12.2%, Russia 7.9%, Lebanon 6.1%, Indonesia 4.5%, Germany 4.3% (2017)</data>
+        </subsection>
+        <subsection name="Imports">
+            <data>$10.84 billion (2017 est.)</data>
+            <data>$10.3 billion (2016 est.)</data>
+            <data name="country comparison to the world">95</data>
+        </subsection>
+        <subsection name="Imports - commodities">
+            <data>petroleum, food, machinery and equipment, chemicals</data>
+        </subsection>
+        <subsection name="Imports - partners">
+            <data>China 22%, Spain 14%, Russia 5%, Brazil 5%, Mexico 4.9%, Italy 4.8%, US 4.5% (2017)</data>
+        </subsection>
+        <subsection name="Reserves of foreign exchange and gold">
+            <data>$12.8 billion (31 December 2017 est.)</data>
+            <data>$12.3 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">70</data>
+        </subsection>
+        <subsection name="Debt - external">
+            <data>$30.02 billion (31 December 2017 est.)</data>
+            <data>$29.89 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">82</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - at home">
+            <data>$NA</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - abroad">
+            <data>$4.138 billion (2006 est.)</data>
+            <data name="country comparison to the world">77</data>
+        </subsection>
+        <subsection name="Exchange rates">
+            <data>Cuban pesos (CUP) per US dollar -</data>
+            <data>1 (2017 est.)</data>
+            <data>1 (2016 est.)</data>
+            <data>1 (2015 est.)</data>
+            <data>1 (2014 est.)</data>
+            <data>22.7 (2013 est.)</data>
+        </subsection>
+    </section>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="population without electricity">200,000</data>
+            <data name="electrification - total population">99.9%</data>
+            <data name="electrification - urban areas">100%</data>
+            <data name="electrification - rural areas">95% (2013)</data>
+        </subsection>
+        <subsection name="Electricity - production">
+            <data>20.46 billion kWh (2016 est.)</data>
+            <data name="country comparison to the world">74</data>
+        </subsection>
+        <subsection name="Electricity - consumption">
+            <data>17.34 billion kWh (2016 est.)</data>
+            <data name="country comparison to the world">75</data>
+        </subsection>
+        <subsection name="Electricity - exports">
+            <data>0 kWh (2016 est.)</data>
+            <data name="country comparison to the world">124</data>
+        </subsection>
+        <subsection name="Electricity - imports">
+            <data>0 kWh (2016 est.)</data>
+            <data name="country comparison to the world">137</data>
+        </subsection>
+        <subsection name="Electricity - installed generating capacity">
+            <data>6.454 million kW (2016 est.)</data>
+            <data name="country comparison to the world">75</data>
+        </subsection>
+        <subsection name="Electricity - from fossil fuels">
+            <data>90.6% of total installed capacity (2016 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Electricity - from nuclear fuels">
+            <data>0% of total installed capacity (2016 est.)</data>
+            <data name="country comparison to the world">74</data>
+        </subsection>
+        <subsection name="Electricity - from hydroelectric plants">
+            <data>1% of total installed capacity (2016 est.)</data>
+            <data name="country comparison to the world">146</data>
+        </subsection>
+        <subsection name="Electricity - from other renewable sources">
+            <data>8.4% of total installed capacity (2016 est.)</data>
+            <data name="country comparison to the world">76</data>
+        </subsection>
+        <subsection name="Crude oil - production">
+            <data>45,600 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Crude oil - exports">
+            <data>0 bbl/day (2014 est.)</data>
+            <data name="country comparison to the world">107</data>
+        </subsection>
+        <subsection name="Crude oil - imports">
+            <data>87,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">44</data>
+        </subsection>
+        <subsection name="Crude oil - proved reserves">
+            <data>124 million bbl (1 January 2017 est.)</data>
+            <data name="country comparison to the world">72</data>
+        </subsection>
+        <subsection name="Refined petroleum products - production">
+            <data>94,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Refined petroleum products - consumption">
+            <data>180,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">60</data>
+        </subsection>
+        <subsection name="Refined petroleum products - exports">
+            <data>63,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">48</data>
+        </subsection>
+        <subsection name="Refined petroleum products - imports">
+            <data>69,000 bbl/day (2015 est.)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="Natural gas - production">
+            <data>1.185 billion cu m (2016 est.)</data>
+            <data name="country comparison to the world">63</data>
+        </subsection>
+        <subsection name="Natural gas - consumption">
+            <data>1.185 billion cu m (2016 est.)</data>
+            <data name="country comparison to the world">87</data>
+        </subsection>
+        <subsection name="Natural gas - exports">
+            <data>0 cu m (2016 est.)</data>
+            <data name="country comparison to the world">87</data>
+        </subsection>
+        <subsection name="Natural gas - imports">
+            <data>0 cu m (2016 est.)</data>
+            <data name="country comparison to the world">113</data>
+        </subsection>
+        <subsection name="Natural gas - proved reserves">
+            <data>70.79 billion cu m (1 January 2017 est.)</data>
+            <data name="country comparison to the world">59</data>
+        </subsection>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
+            <data>26 million Mt (2013 est.)</data>
+            <data name="country comparison to the world">77</data>
+        </subsection>
+    </section>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">1,349,188</data>
+            <data name="subscriptions per 100 inhabitants">12 (2017 est.)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">4,613,782</data>
+            <data name="subscriptions per 100 inhabitants">41 (2017 est.)</data>
+            <data name="country comparison to the world">123</data>
+        </subsection>
+        <subsection name="Telephone system">
+            <data name="general assessment">fixed-line and mobile services run by the state-run ETESCA; mobile-cellular telephone service is expensive and must be paid in convertible pesos; Cuban Government has opened several hundred Wi-Fi hotspots around the island, which are expensive, and launched a new residential Internet pilot in Havana and other provinces</data>
+            <data name="domestic">fixed-line density remains low at about 12 per 100 inhabitants; mobile-cellular service expanding but remains only about 36 per 100 persons</data>
+            <data name="international">country code - 53; the ALBA-1 fiber-optic submarine cable links Cuba, Jamaica, and Venezuela; fiber-optic cable laid to but not linked to US network; satellite earth station - 1 Intersputnik (Atlantic Ocean region); several US telecommunication companies have signed voice and data deals to serve their customers while in Cuba (2017)</data>
+        </subsection>
+        <subsection name="Broadcast media">
+            <data>government owns and controls all broadcast media with private ownership of electronic media prohibited; however, several online independent news sites exist and those that are not openly critical of the government are often tolerated; government operates 5 national TV networks and many local TV stations; government operates 6 national radio networks, an international station, and many local radio stations; Radio-TV Marti is beamed from the US (2017)</data>
+        </subsection>
+        <subsection name="Internet country code">
+            <data>.cu</data>
+        </subsection>
+        <subsection name="Internet users">
+            <data name="total">4,334,022</data>
+            <data name="percent of population">38.8%</data>
+            <data name="note">private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet" (July 2016 est.)</data>
+            <data name="country comparison to the world">85</data>
+        </subsection>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">33,536</data>
+            <data name="subscriptions per 100 inhabitants">less than 1 (2017 est.)</data>
+            <data name="country comparison to the world">138</data>
+        </subsection>
+    </section>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">4</data>
+            <data name="inventory of registered aircraft operated by air carriers">18</data>
+            <data name="annual passenger traffic on registered air carriers">1,294,458</data>
+            <data name="annual freight traffic on registered air carriers">20,919,645 mt-km (2015)</data>
+        </subsection>
+        <subsection name="Civil aircraft registration country code prefix">
+            <data>CU (2016)</data>
+        </subsection>
+        <subsection name="Airports">
+            <data>133 (2017)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Airports - with paved runways">
+            <data name="total">64</data>
+            <data name="over 3,047 m">7</data>
+            <data name="2,438 to 3,047 m">10</data>
+            <data name="1,524 to 2,437 m">16</data>
+            <data name="914 to 1,523 m">4</data>
+            <data name="under 914 m">27 (2017)</data>
+        </subsection>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">69</data>
+            <data name="914 to 1,523 m">11</data>
+            <data name="under 914 m">58 (2013)</data>
+        </subsection>
+        <subsection name="Pipelines">
+            <data>gas 41 km; oil 230 km (2013)</data>
+        </subsection>
+        <subsection name="Railways">
+            <data name="total">8,367 km</data>
+            <data name="standard gauge">8,195 km 1.435-m gauge (124 km electrified)</data>
+            <data name="narrow gauge">172 km 1.000-m gauge</data>
+            <data name="note">70 km of standard gauge track is not for public use (2015)</data>
+            <data name="country comparison to the world">26</data>
+        </subsection>
+        <subsection name="Roadways">
+            <data name="total">60,858 km</data>
+            <data name="paved">29,820 km (includes 639 km of expressways)</data>
+            <data name="unpaved">31,038 km (2001)</data>
+            <data name="country comparison to the world">69</data>
+        </subsection>
+        <subsection name="Waterways">
+            <data>240 km (almost all navigable inland waterways are near the mouths of rivers) (2011)</data>
+            <data name="country comparison to the world">94</data>
+        </subsection>
+        <subsection name="Merchant marine">
+            <data name="total">43</data>
+            <data name="by type">general cargo 11, oil tanker 3, other 29 (2017)</data>
+            <data name="country comparison to the world">118</data>
+        </subsection>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba</data>
+        </subsection>
+    </section>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
+            <data>3.08% of GDP (2015)</data>
+            <data>3.54% of GDP (2014)</data>
+            <data>3.51% of GDP (2013)</data>
+            <data>3.94% of GDP (2012)</data>
+            <data>3.08% of GDP (2011)</data>
+            <data name="country comparison to the world">28</data>
+        </subsection>
+        <subsection name="Military branches">
+            <data>Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER, includes Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT)), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Youth Labor Army (Ejercito Juvenil del Trabajo, EJT) (2013)</data>
+        </subsection>
+        <subsection name="Military service age and obligation">
+            <data>17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2017)</data>
+        </subsection>
+        <subsection name="Military - note">
+            <data>the collapse of the Soviet Union deprived the Cuban military of its major economic and logistic support and had a significant impact on the state of Cuban equipment; the army remains well trained and professional in nature; the lack of replacement parts for its existing equipment has increasingly affected operational capabilities (2013)</data>
+        </subsection>
+    </section>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
+            <data>US Naval Base at Guantanamo Bay is leased to the United States and only mutual agreement or US abandonment of the facility can terminate the lease</data>
+        </subsection>
+        <subsection name="Trafficking in persons">
+            <data name="current situation">Cuba is a source country for adults and children subjected to sex trafficking and forced labor; child sex trafficking and child sex tourism occur in Cuba, while some Cubans are forced into prostitution in South America and the Caribbean; allegations have been made that some Cubans have been forced or coerced to work at Cuban medical missions abroad; assessing the scope of trafficking within Cuba is difficult because of the lack of information</data>
+            <data name="tier rating">Tier 2 Watch List - Cuba does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Cuba’s penal code does not criminalize all forms of human trafficking, but the government reported that it is in the process of amending its criminal code to comply with the 2000 UN TIP Protocol, to which it acceded in 2013; the government in 2014 prosecuted and convicted 13 sex traffickers and provided services to the victims in those cases but does not have shelters specifically for trafficking victims; the government did not recognize forced labor as a problem and took no action to address it; state media produced newspaper articles and TV and radio programs to raise public awareness about sex trafficking (2015)</data>
+        </subsection>
+        <subsection name="Illicit drugs">
+            <data>territorial waters and air space serve as transshipment zone for US- and European-bound drugs; established the death penalty for certain drug-related crimes in 1999</data>
+        </subsection>
+    </section>
+</region>
