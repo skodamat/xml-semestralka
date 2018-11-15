@@ -1,0 +1,776 @@
+<region id="israel" name="Israel">
+    <section name="Introduction">
+        <subsection name="Background">
+            <data>The State of Israel was declared in 1948, after Britain withdrew from its mandate of Palestine, the UN proposed partitioning the area into Arab and Jewish states, and Arab armies that rejected the UN plan were defeated. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel fought wars against its Arab neighbors in 1967 and 1973, followed by peace treaties with Egypt in 1979 and Jordan in 1994. Israel and Palestinian officials signed a number of interim agreements in the 1990s that created an interim period of Palestinian self-rule in the West Bank and Gaza Strip, which Israel occupied in 1967. The most recent effort to negotiate final status issues took place in 2013-2014. Immigration to Israel continues, with 28,600 new immigrants, mostly Jewish, in 2016. The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gas fields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Prime Minister Benjamin NETANYAHU has led the Israeli Government since 2009; he formed the current center-right coalition following the 2015 elections.</data>
+        </subsection>
+    </section>
+    <section name="Geography">
+        <subsection name="Location">
+            <data>Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon</data>
+        </subsection>
+        <subsection name="Geographic coordinates">
+            <data>31 30 N, 34 45 E</data>
+        </subsection>
+        <subsection name="Map references">
+            <data>Middle East</data>
+        </subsection>
+        <subsection name="Area">
+            <data name="total">20,770 sq km</data>
+            <data name="land">20,330 sq km</data>
+            <data name="water">440 sq km</data>
+            <data name="country comparison to the world">154</data>
+        </subsection>
+        <subsection name="Area - comparative">
+            <data>slightly larger than New Jersey</data>
+        </subsection>
+        <subsection name="Land boundaries">
+            <data name="total">1,068 km</data>
+            <data name="border countries (6)">Egypt 208 km, Gaza Strip 59 km, Jordan 307 km, Lebanon 81 km, Syria 83 km, West Bank 330 km</data>
+        </subsection>
+        <subsection name="Coastline">
+            <data>273 km</data>
+        </subsection>
+        <subsection name="Maritime claims">
+            <data name="territorial sea">12 nm</data>
+            <data name="continental shelf">to depth of exploitation</data>
+        </subsection>
+        <subsection name="Climate">
+            <data>temperate; hot and dry in southern and eastern desert areas</data>
+        </subsection>
+        <subsection name="Terrain">
+            <data>Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley</data>
+        </subsection>
+        <subsection name="Elevation">
+            <data name="mean elevation">508 m</data>
+            <data name="elevation extremes">lowest point: Dead Sea -431 m</data>
+            <data>highest point: Har Meron 1,208 m</data>
+        </subsection>
+        <subsection name="Natural resources">
+            <data>timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand</data>
+        </subsection>
+        <subsection name="Land use">
+            <data name="agricultural land">23.8%</data>
+            <data>arable land 13.7%; permanent crops 3.8%; permanent pasture 6.3%</data>
+            <data name="forest">7.1%</data>
+            <data name="other">69.1% (2011 est.)</data>
+        </subsection>
+        <subsection name="Irrigated land">
+            <data>2,250 sq km (2012)</data>
+        </subsection>
+        <subsection name="Population - distribution">
+            <data>population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba</data>
+        </subsection>
+        <subsection name="Natural hazards">
+            <data>sandstorms may occur during spring and summer; droughts; periodic earthquakes</data>
+        </subsection>
+        <subsection name="Environment - current issues">
+            <data>limited arable land and restricted natural freshwater resources; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides</data>
+        </subsection>
+        <subsection name="Environment - international agreements">
+            <data name="party to">Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</data>
+            <data name="signed, but not ratified">Marine Life Conservation</data>
+        </subsection>
+        <subsection name="Geography - note">
+            <data>Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti); in 2017, there were 422 settlements in the Israeli-occupied territories - 42 settlements in the Golan Heights, 380 sites in the occupied Palestinian territories to include 213 settlements and 132 outposts in the West Bank, and 35 settlements in East Jerusalem; there are no Israeli settlements in the Gaza Strip, as all were evacuated in 2005 (2017)</data>
+        </subsection>
+    </section>
+    <section name="People and Society">
+        <subsection name="Population">
+            <data>8,299,706 (July 2017 est.) (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)</data>
+            <data name="note">approximately 22,000 Israeli settlers live in the Golan Heights (2016); approximately 201,000 Israeli settlers live in East Jerusalem (2014)</data>
+            <data name="country comparison to the world">97</data>
+        </subsection>
+        <subsection name="Nationality">
+            <data name="noun">Israeli(s)</data>
+            <data name="adjective">Israeli</data>
+        </subsection>
+        <subsection name="Ethnic groups">
+            <data>Jewish 74.5% (of which Israel-born 76.9%, Europe/America/Oceania-born 15.9%, Africa-born 4.6%, Asia-born 2.6%), Arab 20.9%, other 4.6% (2017 est.)</data>
+        </subsection>
+        <subsection name="Languages">
+            <data>Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)</data>
+        </subsection>
+        <subsection name="Religions">
+            <data>Jewish 74.7%, Muslim 17.7%, Christian 2%, Druze 1.6%, other 4% (2016 est.)</data>
+        </subsection>
+        <subsection name="Age structure">
+            <data name="0-14 years">27.51% (male 1,168,351/female 1,114,902)</data>
+            <data name="15-24 years">15.53% (male 658,572/female 630,675)</data>
+            <data name="25-54 years">37.17% (male 1,577,187/female 1,507,793)</data>
+            <data name="55-64 years">8.46% (male 344,922/female 357,301)</data>
+            <data name="65 years and over">11.33% (male 421,660/female 518,343) (2017 est.)</data>
+        </subsection>
+        <subsection name="Dependency ratios">
+            <data name="total dependency ratio">64.2</data>
+            <data name="youth dependency ratio">45.7</data>
+            <data name="elderly dependency ratio">18.4</data>
+            <data name="potential support ratio">5.4 (2015 est.)</data>
+        </subsection>
+        <subsection name="Median age">
+            <data name="total">29.9 years</data>
+            <data name="male">29.3 years</data>
+            <data name="female">30.6 years (2017 est.)</data>
+            <data name="country comparison to the world">119</data>
+        </subsection>
+        <subsection name="Population growth rate">
+            <data>1.51% (2017 est.)</data>
+            <data name="country comparison to the world">76</data>
+        </subsection>
+        <subsection name="Birth rate">
+            <data>18.1 births/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">96</data>
+        </subsection>
+        <subsection name="Death rate">
+            <data>5.2 deaths/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">187</data>
+        </subsection>
+        <subsection name="Net migration rate">
+            <data>2.2 migrant(s)/1,000 population (2017 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Population distribution">
+            <data>population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba</data>
+        </subsection>
+        <subsection name="Urbanization">
+            <data name="urban population">92.4% of total population (2018)</data>
+            <data name="rate of urbanization">1.64% annual rate of change (2015-20 est.)</data>
+        </subsection>
+        <subsection name="Major urban areas - population">
+            <data>Tel Aviv-Yafo 4.011 million; Haifa 1.135 million; JERUSALEM (proclaimed capital) 907,000 (2018)</data>
+        </subsection>
+        <subsection name="Sex ratio">
+            <data name="at birth">1.05 male(s)/female</data>
+            <data name="0-14 years">1.05 male(s)/female</data>
+            <data name="15-24 years">1.05 male(s)/female</data>
+            <data name="25-54 years">1.05 male(s)/female</data>
+            <data name="55-64 years">0.96 male(s)/female</data>
+            <data name="65 years and over">0.81 male(s)/female</data>
+            <data name="total population">1.01 male(s)/female (2017 est.)</data>
+        </subsection>
+        <subsection name="Mother's mean age at first birth">
+            <data>27.6 years (2015 est.)</data>
+        </subsection>
+        <subsection name="Maternal mortality ratio">
+            <data>5 deaths/100,000 live births (2015 est.)</data>
+            <data name="country comparison to the world">170</data>
+        </subsection>
+        <subsection name="Infant mortality rate">
+            <data name="total">3.4 deaths/1,000 live births</data>
+            <data name="male">3.4 deaths/1,000 live births</data>
+            <data name="female">3.5 deaths/1,000 live births (2017 est.)</data>
+            <data name="country comparison to the world">204</data>
+        </subsection>
+        <subsection name="Life expectancy at birth">
+            <data name="total population">82.5 years</data>
+            <data name="male">80.7 years</data>
+            <data name="female">84.5 years (2017 est.)</data>
+            <data name="country comparison to the world">12</data>
+        </subsection>
+        <subsection name="Total fertility rate">
+            <data>2.64 children born/woman (2017 est.)</data>
+            <data name="country comparison to the world">71</data>
+        </subsection>
+        <subsection name="Health expenditures">
+            <data>7.8% of GDP (2014)</data>
+            <data name="country comparison to the world">59</data>
+        </subsection>
+        <subsection name="Physicians density">
+            <data>3.58 physicians/1,000 population (2015)</data>
+        </subsection>
+        <subsection name="Hospital bed density">
+            <data>3.1 beds/1,000 population (2013)</data>
+        </subsection>
+        <subsection name="Drinking water source">
+            <data name="improved"></data>
+            <data>urban: 100% of population</data>
+            <data>rural: 100% of population</data>
+            <data>total: 100% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 0% of population</data>
+            <data>rural: 0% of population</data>
+            <data>total: 0% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="Sanitation facility access">
+            <data name="improved"></data>
+            <data>urban: 100% of population</data>
+            <data>rural: 100% of population</data>
+            <data>total: 100% of population</data>
+            <data name="unimproved"></data>
+            <data>urban: 0% of population</data>
+            <data>rural: 0% of population</data>
+            <data>total: 0% of population (2015 est.)</data>
+        </subsection>
+        <subsection name="HIV/AIDS - adult prevalence rate">
+            <data>NA</data>
+        </subsection>
+        <subsection name="HIV/AIDS - people living with HIV/AIDS">
+            <data>NA</data>
+        </subsection>
+        <subsection name="HIV/AIDS - deaths">
+            <data>NA</data>
+        </subsection>
+        <subsection name="Obesity - adult prevalence rate">
+            <data>26.1% (2016)</data>
+            <data name="country comparison to the world">45</data>
+        </subsection>
+        <subsection name="Education expenditures">
+            <data>5.7% of GDP (2014)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Literacy">
+            <data name="definition">age 15 and over can read and write</data>
+            <data name="total population">97.8%</data>
+            <data name="male">98.7%</data>
+            <data name="female">96.8% (2011 est.)</data>
+        </subsection>
+        <subsection name="School life expectancy (primary to tertiary education)">
+            <data name="total">16 years</data>
+            <data name="male">16 years</data>
+            <data name="female">16 years (2014)</data>
+        </subsection>
+        <subsection name="Unemployment, youth ages 15-24">
+            <data name="total">7.3%</data>
+            <data name="male">6.7%</data>
+            <data name="female">7.8% (2017 est.)</data>
+            <data name="country comparison to the world">132</data>
+        </subsection>
+    </section>
+    <section name="Government">
+        <subsection name="Country name">
+            <data name="conventional long form">State of Israel</data>
+            <data name="conventional short form">Israel</data>
+            <data name="local long form">Medinat Yisra'el</data>
+            <data name="local short form">Yisra'el</data>
+            <data name="etymology">named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name "Israel" ("He who struggles with God") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel</data>
+        </subsection>
+        <subsection name="Government type">
+            <data>parliamentary democracy</data>
+        </subsection>
+        <subsection name="Capital">
+            <data name="name">Jerusalem; note - the US recognized Jerusalem as Israel’s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty</data>
+            <data name="geographic coordinates">31 46 N, 35 14 E</data>
+            <data name="time difference">UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</data>
+            <data name="daylight saving time">+1hr, Friday before the last Sunday in March; ends the last Sunday in October</data>
+        </subsection>
+        <subsection name="Administrative divisions">
+            <data>6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv</data>
+        </subsection>
+        <subsection name="Independence">
+            <data>14 May 1948 (from League of Nations mandate under British administration)</data>
+        </subsection>
+        <subsection name="National holiday">
+            <data>Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May</data>
+        </subsection>
+        <subsection name="Constitution">
+            <data name="history">no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)</data>
+            <data name="amendments">proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2018 (2018)</data>
+        </subsection>
+        <subsection name="Legal system">
+            <data>mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws</data>
+        </subsection>
+        <subsection name="International law organization participation">
+            <data>has not submitted an ICJ jurisdiction declaration; withdrew acceptance of International Criminal Court jurisdiction in 2002</data>
+        </subsection>
+        <subsection name="Citizenship">
+            <data name="citizenship by birth">no</data>
+            <data name="citizenship by descent only">at least one parent must be a citizen of Israel</data>
+            <data name="dual citizenship recognized">yes, but naturalized citizens are not allowed to maintain dual citizenship</data>
+            <data name="residency requirement for naturalization">3 out of the 5 years preceding the application for naturalization</data>
+            <data name="note">Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren</data>
+        </subsection>
+        <subsection name="Suffrage">
+            <data>18 years of age; universal; 17 years of age for municipal elections</data>
+        </subsection>
+        <subsection name="Executive branch">
+            <data name="chief of state">President Reuven RIVLIN (since 27 July 2014)</data>
+            <data name="head of government">Prime Minister Binyamin NETANYAHU (since 31 March 2009, most recently reformed on 15 May 2015)</data>
+            <data name="cabinet">Cabinet selected by prime minister and approved by the Knesset</data>
+            <data name="elections/appointments">president indirectly elected by the Knesset for a 7-year term (limited to 1 term); election last held on 10 June 2014 (next to be held in 2021 but can be called earlier); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government</data>
+            <data name="election results">Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4</data>
+        </subsection>
+        <subsection name="Legislative branch">
+            <data name="description">unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)</data>
+            <data name="elections">last held on 17 March 2015 (next to be held by 5 November 2019 but can be called earlier)</data>
+            <data name="election results">percent of vote by party - Likud 23.4%, Zionist Union 18.7%, Joint List 10.5%, Yesh Atid 8.8%, Kulanu 7.5%, The Jewish Home 6.7%, Shas, 5.7%, Yisrael Beitenu 5.1%, UTJ 5%, Meretz 3.9%, Yachad 3%, other 1.7%; seats by party - Likud 30, Zionist Union 24, Joint List 13, Yesh Atid 11, Kulanu 10, The Jewish Home 8, Shas 7, Yisrael Beitenu 6, UTJ 6, Meretz 5; composition - men 91, women 29, percent of women 24.2%</data>
+        </subsection>
+        <subsection name="Judicial branch">
+            <data name="highest court(s)">Supreme Court (consists of the chief justice and 14 judges)</data>
+            <data name="judge selection and term of office">judges selected by the Judicial Selection Committee consisting of 3 Supreme Court judges, 2 Cabinet members including the Minister of Justice as chairman, 2 Knesset members, and 2 representatives from the Israel Bar Association; judges can serve up to mandatory retirement at age 70</data>
+            <data name="subordinate courts">Court for Administrative Matters; district and magistrate courts; national and regional labor courts; special and religious courts</data>
+        </subsection>
+        <subsection name="Political parties and leaders">
+            <data>Balad [Jamal ZAHALKA]</data>
+            <data>Democratic Front for Peace and Equality or HADASH [Ayman ODEH]</data>
+            <data>Israeli Labor Party [Avi GABBAY]</data>
+            <data>Joint List [Ayman ODEH] (coalition includes Balad, HADASH, United Arab List, Ta'al))</data>
+            <data>Kulanu [Moshe KAHLON]</data>
+            <data>Likud [Binyamin NETANYAHU]</data>
+            <data>Meretz [Tamar ZANDBERG]</data>
+            <data>SHAS [Arye DERI]</data>
+            <data>Ta'al (Arab Movement for Renewal) [Ahmad TIBI]</data>
+            <data>Tekumah/National Union (Ichud Leumi) [Uri ARIEL]</data>
+            <data>The Jewish Home (Habayit Hayehudi) [Naftali BENNETT]</data>
+            <data>The Movement (Hatnuah) [Tzipora "Tzipi" LIVNI]</data>
+            <data>United Arab List [Masud GANAIM]</data>
+            <data>United Torah Judaism or UTJ [Yaakov LITZMAN] (an alliance of three parties)</data>
+            <data>Yachad [Eli YISHAI]</data>
+            <data>Yesh Atid [Yair LAPID]</data>
+            <data>Yisrael Beiteinu [Avigdor LIEBERMAN]</data>
+            <data>Zionist Union or Zionist Camp [Avi GABBAY] (alliance includes Israeli Labor Party, The Movement)</data>
+        </subsection>
+        <subsection name="International organization participation">
+            <data>BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO</data>
+        </subsection>
+        <subsection name="Diplomatic representation in the US">
+            <data name="chief of mission">Ambassador Ron DERMER (since 3 December 2013)</data>
+            <data name="chancery">3514 International Drive NW, Washington, DC 20008</data>
+            <data name="telephone">[1] (202) 364-5500</data>
+            <data name="FAX">[1] (202) 364-5607</data>
+            <data name="consulate(s) general">Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco</data>
+        </subsection>
+        <subsection name="Diplomatic representation from the US">
+            <data name="note">on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv, replacing the site of the Jerusalem Consulate General</data>
+            <data name="chief of mission">Ambassador David M. FRIEDMAN (since 23 May 2017)</data>
+            <data name="embassy">David Flusser St.14, Jerusalem, 9378322</data>
+            <data name="telephone">[972] (2) 630-4000</data>
+            <data name="FAX">NA</data>
+            <data name="consular agent">Haifa</data>
+        </subsection>
+        <subsection name="Flag description">
+            <data>white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times</data>
+            <data name="note">the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue</data>
+        </subsection>
+        <subsection name="National symbol(s)">
+            <data>Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white</data>
+        </subsection>
+        <subsection name="National anthem">
+            <data name="name">"Hatikvah" (The Hope)</data>
+            <data name="lyrics/music">Naftali Herz IMBER/traditional, arranged by Samuel COHEN</data>
+            <data name="note">adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart)</data>
+        </subsection>
+    </section>
+    <section name="Economy">
+        <subsection name="Economy - overview">
+            <data>Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.</data>
+            <data>Between 2004 and 2013, growth averaged nearly 5% per year, led by exports. The global financial crisis of 2008-09 spurred a brief recession in Israel, but the country entered the crisis with solid fundamentals, following years of prudent fiscal policy and a resilient banking sector. Israel's economy also weathered the 2011 Arab Spring because strong trade ties outside the Middle East insulated the economy from spillover effects.</data>
+            <data>Slowing domestic and international demand and decreased investment resulting from Israel’s uncertain security situation reduced GDP growth to an average of roughly 2.8% per year during the period 2014-17. Natural gas fields discovered off Israel's coast since 2009 have brightened Israel's energy security outlook. The Tamar and Leviathan fields were some of the world's largest offshore natural gas finds in the last decade. Political and regulatory issues have delayed the development of the massive Leviathan field, but production from Tamar provided a 0.8% boost to Israel's GDP in 2013 and a 0.3% boost in 2014. One of the most carbon intense OECD countries, Israel generates about 57% of its power from coal and only 2.6% from renewable sources.</data>
+            <data>Income inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel's income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of "tycoons" have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high in 2016. Private consumption is expected to drive growth through 2018, with consumers benefitting from low inflation and a strong currency.</data>
+            <data>In the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.</data>
+        </subsection>
+        <subsection name="GDP (purchasing power parity)">
+            <data>$316.5 billion (2017 est.)</data>
+            <data>$304.4 billion (2016 est.)</data>
+            <data>$296.6 billion (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">55</data>
+        </subsection>
+        <subsection name="GDP (official exchange rate)">
+            <data>$350.6 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - real growth rate">
+            <data>3.3% (2017 est.)</data>
+            <data>4% (2016 est.)</data>
+            <data>2.6% (2015 est.)</data>
+            <data name="country comparison to the world">100</data>
+        </subsection>
+        <subsection name="GDP - per capita (PPP)">
+            <data>$36,300 (2017 est.)</data>
+            <data>$35,600 (2016 est.)</data>
+            <data>$35,400 (2015 est.)</data>
+            <data name="note">data are in 2017 dollars</data>
+            <data name="country comparison to the world">54</data>
+        </subsection>
+        <subsection name="Gross national saving">
+            <data>23.7% of GDP (2017 est.)</data>
+            <data>24% of GDP (2016 est.)</data>
+            <data>24.7% of GDP (2015 est.)</data>
+            <data name="country comparison to the world">67</data>
+        </subsection>
+        <subsection name="GDP - composition, by end use">
+            <data name="household consumption">55.4%</data>
+            <data name="government consumption">22%</data>
+            <data name="investment in fixed capital">20.5%</data>
+            <data name="investment in inventories">0.2%</data>
+            <data name="exports of goods and services">29.8%</data>
+            <data name="imports of goods and services">-27.9% (2017 est.)</data>
+        </subsection>
+        <subsection name="GDP - composition, by sector of origin">
+            <data name="agriculture">2.3%</data>
+            <data name="industry">26.6%</data>
+            <data name="services">69.5% (2017 est.)</data>
+        </subsection>
+        <subsection name="Agriculture - products">
+            <data>citrus, vegetables, cotton; beef, poultry, dairy products</data>
+        </subsection>
+        <subsection name="Industries">
+            <data>high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear</data>
+        </subsection>
+        <subsection name="Industrial production growth rate">
+            <data>4% (2017 est.)</data>
+            <data name="country comparison to the world">68</data>
+        </subsection>
+        <subsection name="Labor force">
+            <data>4.021 million (2017 est.)</data>
+            <data name="country comparison to the world">94</data>
+        </subsection>
+        <subsection name="Labor force - by occupation">
+            <data name="agriculture">1.1%</data>
+            <data name="industry">17.3%</data>
+            <data name="services">81.6% (2015 est.)</data>
+        </subsection>
+        <subsection name="Unemployment rate">
+            <data>4.3% (2017 est.)</data>
+            <data>4.8% (2016 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Population below poverty line">
+            <data>22% (2014 est.)</data>
+            <data name="note">Israel's poverty line is $7.30 per person per day</data>
+        </subsection>
+        <subsection name="Household income or consumption by percentage share">
+            <data name="lowest 10%">1.7%</data>
+            <data name="highest 10%">31.3% (2010)</data>
+        </subsection>
+        <subsection name="Distribution of family income - Gini index">
+            <data>42.8 (2013)</data>
+            <data>39.2 (2008)</data>
+            <data name="country comparison to the world">48</data>
+        </subsection>
+        <subsection name="Budget">
+            <data name="revenues">$92.82 billion</data>
+            <data name="expenditures">$102.1 billion (2017 est.)</data>
+        </subsection>
+        <subsection name="Taxes and other revenues">
+            <data>26.7% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">109</data>
+        </subsection>
+        <subsection name="Budget surplus (+) or deficit (-)">
+            <data>-2.7% of GDP (2017 est.)</data>
+            <data name="country comparison to the world">110</data>
+        </subsection>
+        <subsection name="Public debt">
+            <data>61% of GDP (2017 est.)</data>
+            <data>62.3% of GDP (2016 est.)</data>
+            <data name="country comparison to the world">70</data>
+        </subsection>
+        <subsection name="Fiscal year">
+            <data>calendar year</data>
+        </subsection>
+        <subsection name="Inflation rate (consumer prices)">
+            <data>0.2% (2017 est.)</data>
+            <data>-0.5% (2016 est.)</data>
+            <data name="country comparison to the world">16</data>
+        </subsection>
+        <subsection name="Central bank discount rate">
+            <data>0.1% (15 December 2015)</data>
+            <data>0.25% (31 December 2014)</data>
+            <data name="country comparison to the world">140</data>
+        </subsection>
+        <subsection name="Commercial bank prime lending rate">
+            <data>3.3% (31 December 2017 est.)</data>
+            <data>3.42% (31 December 2016 est.)</data>
+            <data name="country comparison to the world">168</data>
+        </subsection>
+        <subsection name="Stock of narrow money">
+            <data>$98.28 billion (31 December 2017 est.)</data>
+            <data>$79.58 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">40</data>
+        </subsection>
+        <subsection name="Stock of broad money">
+            <data>$223.1 billion (31 December 2017 est.)</data>
+            <data>$189 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">37</data>
+        </subsection>
+        <subsection name="Stock of domestic credit">
+            <data>$280.8 billion (31 December 2017 est.)</data>
+            <data>$257.5 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">39</data>
+        </subsection>
+        <subsection name="Market value of publicly traded shares">
+            <data>$243.9 billion (31 December 2015 est.)</data>
+            <data>$200.5 billion (31 December 2014 est.)</data>
+            <data>$203.3 billion (31 December 2013 est.)</data>
+            <data name="country comparison to the world">32</data>
+        </subsection>
+        <subsection name="Current account balance">
+            <data>$10.39 billion (2017 est.)</data>
+            <data>$11.17 billion (2016 est.)</data>
+            <data name="country comparison to the world">22</data>
+        </subsection>
+        <subsection name="Exports">
+            <data>$60.6 billion (2017 est.)</data>
+            <data>$56.17 billion (2016 est.)</data>
+            <data name="country comparison to the world">46</data>
+        </subsection>
+        <subsection name="Exports - commodities">
+            <data>machinery and equipment, software, cut diamonds, agricultural products, chemicals, textiles and apparel</data>
+        </subsection>
+        <subsection name="Exports - partners">
+            <data>US 28.8%, UK 8.2%, Hong Kong 7%, China 5.4%, Belgium 4.5% (2017)</data>
+        </subsection>
+        <subsection name="Imports">
+            <data>$66.76 billion (2017 est.)</data>
+            <data>$63.54 billion (2016 est.)</data>
+            <data name="country comparison to the world">44</data>
+        </subsection>
+        <subsection name="Imports - commodities">
+            <data>raw materials, military equipment, investment goods, rough diamonds, fuels, grain, consumer goods</data>
+        </subsection>
+        <subsection name="Imports - partners">
+            <data>US 11.7%, China 9.5%, Switzerland 8%, Germany 6.8%, UK 6.2%, Belgium 5.9%, Netherlands 4.2%, Turkey 4.2%, Italy 4% (2017)</data>
+        </subsection>
+        <subsection name="Reserves of foreign exchange and gold">
+            <data>$113 billion (31 December 2017 est.)</data>
+            <data>$95.45 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">24</data>
+        </subsection>
+        <subsection name="Debt - external">
+            <data>$93.02 billion (31 December 2017 est.)</data>
+            <data>$87.96 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">51</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - at home">
+            <data>$119.4 billion (31 December 2017 est.)</data>
+            <data>$107.3 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">43</data>
+        </subsection>
+        <subsection name="Stock of direct foreign investment - abroad">
+            <data>$106.9 billion (31 December 2017 est.)</data>
+            <data>$98.11 billion (31 December 2016 est.)</data>
+            <data name="country comparison to the world">35</data>
+        </subsection>
+        <subsection name="Exchange rates">
+            <data>new Israeli shekels (ILS) per US dollar -</data>
+            <data>3.61 (2017 est.)</data>
+            <data>3.84 (2016 est.)</data>
+            <data>3.84 (2015 est.)</data>
+            <data>3.89 (2014 est.)</data>
+            <data>3.58 (2013 est.)</data>
+        </subsection>
+    </section>
+    <section name="Energy">
+        <subsection name="Electricity access">
+            <data name="electrification - total population">100% (2016)</data>
+        </subsection>
+        <subsection name="Electricity - production">
+            <data>60.44 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">49</data>
+        </subsection>
+        <subsection name="Electricity - consumption">
+            <data>52.78 billion kWh (2015 est.)</data>
+            <data name="country comparison to the world">49</data>
+        </subsection>
+        <subsection name="Electricity - exports">
+            <data>5.2 billion kWh (2016 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Electricity - imports">
+            <data>0 kWh (2016 est.)</data>
+            <data name="country comparison to the world">161</data>
+        </subsection>
+        <subsection name="Electricity - installed generating capacity">
+            <data>17.22 million kW (2015 est.)</data>
+            <data name="country comparison to the world">47</data>
+        </subsection>
+        <subsection name="Electricity - from fossil fuels">
+            <data>95.5% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">50</data>
+        </subsection>
+        <subsection name="Electricity - from nuclear fuels">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">112</data>
+        </subsection>
+        <subsection name="Electricity - from hydroelectric plants">
+            <data>0% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">181</data>
+        </subsection>
+        <subsection name="Electricity - from other renewable sources">
+            <data>4.9% of total installed capacity (2015 est.)</data>
+            <data name="country comparison to the world">97</data>
+        </subsection>
+        <subsection name="Crude oil - production">
+            <data>390 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">94</data>
+        </subsection>
+        <subsection name="Crude oil - exports">
+            <data>0 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">139</data>
+        </subsection>
+        <subsection name="Crude oil - imports">
+            <data>215,600 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">28</data>
+        </subsection>
+        <subsection name="Crude oil - proved reserves">
+            <data>12.73 million bbl (1 January 2017 est.)</data>
+            <data name="country comparison to the world">91</data>
+        </subsection>
+        <subsection name="Refined petroleum products - production">
+            <data>278,300 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">44</data>
+        </subsection>
+        <subsection name="Refined petroleum products - consumption">
+            <data>199,900 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">56</data>
+        </subsection>
+        <subsection name="Refined petroleum products - exports">
+            <data>115,700 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">41</data>
+        </subsection>
+        <subsection name="Refined petroleum products - imports">
+            <data>98,020 bbl/day (2016 est.)</data>
+            <data name="country comparison to the world">57</data>
+        </subsection>
+        <subsection name="Natural gas - production">
+            <data>8.5 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">45</data>
+        </subsection>
+        <subsection name="Natural gas - consumption">
+            <data>8.66 billion cu m (2015 est.)</data>
+            <data name="country comparison to the world">50</data>
+        </subsection>
+        <subsection name="Natural gas - exports">
+            <data>2.605 billion cu m (2011 est.)</data>
+            <data name="country comparison to the world">36</data>
+        </subsection>
+        <subsection name="Natural gas - imports">
+            <data>160 million cu m (2015 est.)</data>
+            <data name="country comparison to the world">71</data>
+        </subsection>
+        <subsection name="Natural gas - proved reserves">
+            <data>176 billion cu m (1 January 2017 est.)</data>
+            <data name="country comparison to the world">47</data>
+        </subsection>
+        <subsection name="Carbon dioxide emissions from consumption of energy">
+            <data>62.5 million Mt (2014 est.)</data>
+            <data name="country comparison to the world">51</data>
+        </subsection>
+    </section>
+    <section name="Communications">
+        <subsection name="Telephones - fixed lines">
+            <data name="total subscriptions">3.24 million</data>
+            <data name="subscriptions per 100 inhabitants">39 (2017 est.)</data>
+            <data name="country comparison to the world">42</data>
+        </subsection>
+        <subsection name="Telephones - mobile cellular">
+            <data name="total subscriptions">10.54 million</data>
+            <data name="subscriptions per 100 inhabitants">127 (2017 est.)</data>
+            <data name="country comparison to the world">82</data>
+        </subsection>
+        <subsection name="Telephone system">
+            <data name="general assessment">most highly developed system in the Middle East</data>
+            <data name="domestic">good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide; Israeli cellular providers upgraded to 4G in 2014</data>
+            <data name="international">country code - 972; submarine cables provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2018)</data>
+        </subsection>
+        <subsection name="Broadcast media">
+            <data>state broadcasting network, operated by the Israel Broadcasting Authority (IBA), broadcasts on 2 channels, one in Hebrew and the other in Arabic; 5 commercial channels including a channel broadcasting in Russian, a channel broadcasting Knesset proceedings, and a music channel supervised by a public body; multi-channel satellite and cable TV packages provide access to foreign channels; IBA broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2008)</data>
+        </subsection>
+        <subsection name="Internet country code">
+            <data>.il</data>
+        </subsection>
+        <subsection name="Internet users">
+            <data name="total">6,521,539</data>
+            <data name="percent of population">79.8% (July 2016 est.)</data>
+            <data name="country comparison to the world">65</data>
+        </subsection>
+        <subsection name="Broadband - fixed line subscriptions">
+            <data name="total">2.342 million</data>
+            <data name="subscriptions per 100 inhabitants">28 (2017 est.)</data>
+            <data name="country comparison to the world">49</data>
+        </subsection>
+    </section>
+    <section name="Transportation">
+        <subsection name="National air transport system">
+            <data name="number of registered air carriers">6</data>
+            <data name="inventory of registered aircraft operated by air carriers">60</data>
+            <data name="annual passenger traffic on registered air carriers">6,064,478</data>
+            <data name="annual freight traffic on registered air carriers">758,633,996 mt-km (2015)</data>
+        </subsection>
+        <subsection name="Civil aircraft registration country code prefix">
+            <data>4X (2016)</data>
+        </subsection>
+        <subsection name="Airports">
+            <data>47 (2013)</data>
+            <data name="country comparison to the world">94</data>
+        </subsection>
+        <subsection name="Airports - with paved runways">
+            <data name="total">29</data>
+            <data name="over 3,047 m">2</data>
+            <data name="2,438 to 3,047 m">5</data>
+            <data name="1,524 to 2,437 m">6</data>
+            <data name="914 to 1,523 m">11</data>
+            <data name="under 914 m">5 (2017)</data>
+        </subsection>
+        <subsection name="Airports - with unpaved runways">
+            <data name="total">18</data>
+            <data name="1,524 to 2,437 m">1</data>
+            <data name="914 to 1,523 m">3</data>
+            <data name="under 914 m">14 (2013)</data>
+        </subsection>
+        <subsection name="Heliports">
+            <data>3 (2013)</data>
+        </subsection>
+        <subsection name="Pipelines">
+            <data>gas 763 km; oil 442 km; refined products 261 km (2013)</data>
+        </subsection>
+        <subsection name="Railways">
+            <data name="total">1,250 km</data>
+            <data name="standard gauge">1,250 km 1.435-m gauge (2014)</data>
+            <data name="country comparison to the world">84</data>
+        </subsection>
+        <subsection name="Roadways">
+            <data name="total">18,566 km</data>
+            <data name="paved">18,566 km (includes 449 km of expressways) (2011)</data>
+            <data name="country comparison to the world">115</data>
+        </subsection>
+        <subsection name="Merchant marine">
+            <data name="total">42</data>
+            <data name="by type">container ship 5, general cargo 4, oil tanker 3, other 30 (2017)</data>
+            <data name="country comparison to the world">119</data>
+        </subsection>
+        <subsection name="Ports and terminals">
+            <data name="major seaport(s)">Ashdod, Elat (Eilat), Hadera, Haifa</data>
+            <data name="container port(s) (TEUs)">Ashdod (1,443,000) (2016)</data>
+        </subsection>
+    </section>
+    <section name="Military and Security">
+        <subsection name="Military expenditures">
+            <data>5.62% of GDP (2017)</data>
+            <data>5.64% of GDP (2016)</data>
+            <data>5.6% of GDP (2015)</data>
+            <data>5.86% of GDP (2014)</data>
+            <data>5.75% of GDP (2013)</data>
+            <data name="country comparison to the world">7</data>
+        </subsection>
+        <subsection name="Military branches">
+            <data>Israel Defense Forces (IDF), Israel Naval Force (IN), Israel Air Force (IAF) (2010)</data>
+        </subsection>
+        <subsection name="Military service age and obligation">
+            <data>18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2015)</data>
+        </subsection>
+    </section>
+    <section name="Terrorism">
+        <subsection name="Terrorist groups - home based">
+            <data name="Kahane Chai (Kach)"></data>
+            <data>aim(s): expel Arabs from Israel's biblical lands and, ultimately, restore the biblical state of Israel</data>
+            <data>area(s) of operation: Israel and West Bank settlements</data>
+            <data>note(s): considered to be operationally inactive in recent years (April 2018)</data>
+        </subsection>
+        <subsection name="Terrorist groups - foreign based">
+            <data name="Hizballah"></data>
+            <data>aim(s): destroy the state of Israel</data>
+            <data>area(s) of operation: has been operational across Israel in the past, especially in the north; has in the past launched numerous rockets and other airborne projectiles and devices into Israeli towns in many regions; has the capability to launch rockets and missiles (April 2018)</data>
+        </subsection>
+    </section>
+    <section name="Transnational Issues">
+        <subsection name="Disputes - international">
+            <data>West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005; Golan Heights is Israeli-occupied Syria (Lebanon claims the Shab'a Farms area of Golan Heights); since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region</data>
+        </subsection>
+        <subsection name="Refugees and internally displaced persons">
+            <data name="refugees (country of origin)">27,812 (Eritrea) (2016); 13,262 (Ukraine) (2017) note - estimate represents asylum applicants since the beginning of the Ukraine crisis in 2014 to September 2017</data>
+            <data name="stateless persons">42 (2017)</data>
+        </subsection>
+        <subsection name="Illicit drugs">
+            <data>increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center</data>
+        </subsection>
+    </section>
+</region>
