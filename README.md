@@ -13,7 +13,7 @@ Semestrálni práce na BI-XML
 xmllint --noout --dtdvalid xml/schema.dtd xml/source.xml
 ```
 ## Transformace do html
-
+Náhled: https://skodamat.github.io/xml-semestralka/html/
 ```
 $ cd html
 $ java -jar /path/to/saxon9he.jar ../xml/source.xml htmlTransform.xslt
