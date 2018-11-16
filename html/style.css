@@ -4,20 +4,35 @@ html, body {
     font-family: Helvetica, sans-serif;
     font-weight: 400;
     font-size: 14px;
+    line-height: 1.8em;
     background: #90b8ce;
+}
+
+b {
+    font-weight: 600;
 }
 
 h1 {
     font-size: 2em;
+    line-height: 3em;
     font-weight: 600;
 }
 h2 {
     font-size: 1.6em;
+    line-height: 2.2em;
     font-weight: 500;
+    background: #9ecae2;
+    padding-left: 15px;
 }
 h3 {
     font-size: 1.2em;
     font-weight: 400;
+    border-bottom: 1px dotted grey; 
+    padding-left: 15px;
+}
+
+p {
+    padding: 0 15px 0 15px;
 }
 
 a, a:link, a:visited {
