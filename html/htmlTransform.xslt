@@ -47,38 +47,64 @@
                     <link rel="stylesheet" type="text/css" media="screen" href="../style.css" ></link>
                 </head>
                 <body>
-                    <section class='header'>
-                        <h1>
-                            <xsl:value-of select='@name'></xsl:value-of>
-                        </h1>
-                        <img class='flag' src='../../imgs/flags/{@id}.gif'></img>
-                    </section>
-                    
-                    <xsl:apply-templates select='section'></xsl:apply-templates>
+                    <div><a href='#top' class='homeArrow'></a></div>
+                    <div class='contentWrapper'>
+                        <div class='navigation'>
+                            <ul class='mainMenu'>
+                                <li class='mainMenuItem'><a href='../index.html'>Index</a></li>
+                                <xsl:apply-templates select='section' mode='menu'></xsl:apply-templates>
+                            </ul>
+                        </div>
+                        <div class='content'>   
+                            <section class='header' id='top'>
+                                <h1>
+                                    <xsl:value-of select='@name'></xsl:value-of>
+                                </h1>
+                                <img class='flag' src='../../imgs/flags/{@id}.gif'></img>
+                            </section>
+                            <xsl:apply-templates select='section' mode='content'></xsl:apply-templates>
+                        </div>
+                    </div>
+                    <script src='../script.js'></script>
                 </body>
             </html>
         </xsl:result-document>
     </xsl:template>
 
-    <xsl:template match='section'>
-        <section>
+    <!-- navigation -->
+
+    <xsl:template match='section' mode='menu'>
+        <li class='mainMenuItem'><a href='#{@name}'> <xsl:value-of select='@name'></xsl:value-of></a>  <div class='dropArrow' onclick='toggleMenu(this);'><b>V</b></div></li>
+        <ul class='subMenu' style='visibility: hidden; height: 0;'>
+            <xsl:apply-templates select='subsection' mode='menu'></xsl:apply-templates>
+        </ul>
+    </xsl:template>
+
+    <xsl:template match='subsection' mode='menu'>
+        <li class='subMenuItem'><a href='#{@name}'> - <xsl:value-of select='@name'></xsl:value-of> </a></li>
+    </xsl:template>
+
+    <!-- site content -->
+
+    <xsl:template match='section' mode='content'>
+        <section id='{@name}'>
             <h2>
                 <xsl:value-of select='@name'></xsl:value-of>
             </h2>
-            <xsl:apply-templates select='subsection'></xsl:apply-templates>
+            <xsl:apply-templates select='subsection' mode='content'></xsl:apply-templates>
         </section>
     </xsl:template>
 
-    <xsl:template match='subsection'>
-        <div>
+    <xsl:template match='subsection' mode='content'>
+        <div id='{@name}'>
             <h3>
                 <xsl:value-of select='@name'></xsl:value-of>
             </h3>
-            <xsl:apply-templates select='data'></xsl:apply-templates>
+            <xsl:apply-templates select='data' mode='content'></xsl:apply-templates>
         </div>
     </xsl:template>
 
-    <xsl:template match='data'>
+    <xsl:template match='data' mode='content'>
         <xsl:choose>
             <xsl:when test="@name">
                 <p>
