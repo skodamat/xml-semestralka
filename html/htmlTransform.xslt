@@ -75,7 +75,7 @@
 
     <xsl:template match='section' mode='menu'>
         <li class='mainMenuItem'><a href='#{@name}'> <xsl:value-of select='@name'></xsl:value-of></a>  <div class='dropArrow' onclick='toggleMenu(this);'><b>V</b></div></li>
-        <ul class='subMenu' style='visibility: hidden; height: 0;'>
+        <ul class='subMenu' style='display: none;'>
             <xsl:apply-templates select='subsection' mode='menu'></xsl:apply-templates>
         </ul>
     </xsl:template>
