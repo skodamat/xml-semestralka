@@ -1,13 +1,18 @@
 <!ELEMENT regions (region+)>
 
 <!ELEMENT region  (section*)>
-<!ATTLIST region id ID #REQUIRED name CDATA #REQUIRED>
+<!ATTLIST region
+	id ID #REQUIRED
+	name NMTOKENS #REQUIRED>
 
 <!ELEMENT section (subsection*)>
-<!ATTLIST section name CDATA #REQUIRED>
+<!ATTLIST section
+	name CDATA #REQUIRED>
 
 <!ELEMENT subsection (data*)>
-<!ATTLIST subsection name CDATA #REQUIRED>
+<!ATTLIST subsection
+	name CDATA #REQUIRED>
 
 <!ELEMENT data (#PCDATA)>
-<!ATTLIST data name CDATA #IMPLIED>
+<!ATTLIST data
+	name CDATA #IMPLIED>

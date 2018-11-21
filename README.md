@@ -9,9 +9,12 @@ Semestrálni práce na BI-XML
 
 ## Validace pomocí DTD
 
+Když příkaz nic nevypíše, validace proběhla v pořádku (vypisuje jen chyby)
+
 ```
 xmllint --noout --dtdvalid xml/schema.dtd xml/source.xml
 ```
+
 ## Transformace do html
 Náhled: https://skodamat.github.io/xml-semestralka/html/
 ```
