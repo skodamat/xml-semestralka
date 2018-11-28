@@ -15,6 +15,14 @@ Když příkaz nic nevypíše, validace proběhla v pořádku (vypisuje jen chyb
 xmllint --noout --dtdvalid xml/schema.dtd xml/source.xml
 ```
 
+## Validace pomocí RNG
+
+Validace proběhla v pořádku, pokud vypíše řádku `xml/source.xml validates`
+
+```
+xmllint --noout --relaxng xml/schema.rng xml/source.xml
+```
+
 ## Transformace do html
 Náhled: https://skodamat.github.io/xml-semestralka/html/
 ```

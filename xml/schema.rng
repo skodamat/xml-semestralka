@@ -1,0 +1,66 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+    <start>
+        <element name="regions">
+            <oneOrMore>
+	        <ref name="Region"/>
+            </oneOrMore>
+        </element>
+    </start>
+
+    <define name="Region">
+        <element name="region">
+            <attribute name="id">
+                <text/>
+            </attribute>
+            <attribute name="name">
+                <text/>
+            </attribute>
+
+            <zeroOrMore>
+                <ref name="Section"/>
+            </zeroOrMore>
+
+        </element>
+    </define>
+
+    <define name="Section">
+        <element name="section">
+            <attribute name="name">
+                <text/>
+            </attribute>
+
+            <zeroOrMore>
+                <ref name="Subsection"/>
+            </zeroOrMore>
+
+        </element>
+    </define>
+
+    <define name="Subsection">
+        <element name="subsection">
+            <attribute name="name">
+                <text/>
+            </attribute>
+
+            <zeroOrMore>
+                <ref name="DataNode"/>
+            </zeroOrMore>
+
+        </element>
+    </define>
+
+    <define name="DataNode">
+        <element name="data">
+            <text/>
+
+            <!-- Data nemaji vzdycky nazev, nekdy je to obecny obsah podsekce -->
+            <zeroOrMore>
+                <attribute name="name">
+                    <text/>
+                </attribute>
+            </zeroOrMore>
+
+        </element>
+    </define>
+
+</grammar>
