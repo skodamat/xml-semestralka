@@ -1,4 +1,4 @@
-<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
     <start>
         <element name="regions">
             <oneOrMore>
@@ -10,10 +10,12 @@
     <define name="Region">
         <element name="region">
             <attribute name="id">
-                <text/>
+                <data type="token">
+		    <param name="pattern">[a-z][a-z_]*</param>
+		</data>
             </attribute>
             <attribute name="name">
-                <text/>
+                <data type="token"/>
             </attribute>
 
             <zeroOrMore>
@@ -26,7 +28,19 @@
     <define name="Section">
         <element name="section">
             <attribute name="name">
-                <text/>
+                <choice>
+                    <value>Communications</value>
+                    <value>Economy</value>
+		    <value>Energy</value>
+                    <value>Geography</value>
+                    <value>Government</value>
+                    <value>Introduction</value>
+                    <value>Military and Security</value>
+                    <value>People and Society</value>
+                    <value>Terrorism</value>
+                    <value>Transnational Issues</value>
+                    <value>Transportation</value>
+                  </choice>
             </attribute>
 
             <zeroOrMore>
@@ -39,7 +53,184 @@
     <define name="Subsection">
         <element name="subsection">
             <attribute name="name">
-                <text/>
+                <choice>
+                    <value>Administrative divisions</value>
+                    <value>Age structure</value>
+                    <value>Agriculture - products</value>
+                    <value>Airports</value>
+                    <value>Airports - with paved runways</value>
+                    <value>Airports - with unpaved runways</value>
+                    <value>Area</value>
+                    <value>Area - comparative</value>
+                    <value>Background</value>
+                    <value>Birth rate</value>
+                    <value>Broadband - fixed line subscriptions</value>
+                    <value>Broadcast media</value>
+                    <value>Budget</value>
+                    <value>Budget surplus (+) or deficit (-)</value>
+                    <value>Capital</value>
+                    <value>Carbon dioxide emissions from consumption of energy</value>
+                    <value>Central bank discount rate</value>
+                    <value>Children under the age of 5 years underweight</value>
+                    <value>Citizenship</value>
+                    <value>Civil aircraft registration country code prefix</value>
+                    <value>Climate</value>
+                    <value>Coastline</value>
+                    <value>Commercial bank prime lending rate</value>
+                    <value>Communications - note</value>
+                    <value>Constitution</value>
+                    <value>Contraceptive prevalence rate</value>
+                    <value>Country name</value>
+                    <value>Crude oil - exports</value>
+                    <value>Crude oil - imports</value>
+                    <value>Crude oil - production</value>
+                    <value>Crude oil - proved reserves</value>
+                    <value>Current account balance</value>
+                    <value>Death rate</value>
+                    <value>Debt - external</value>
+                    <value>Demographic profile</value>
+                    <value>Dependency ratios</value>
+                    <value>Dependency status</value>
+                    <value>Diplomatic representation from the US</value>
+                    <value>Diplomatic representation in the US</value>
+                    <value>Disputes - international</value>
+                    <value>Distribution of family income - Gini index</value>
+                    <value>Drinking water source</value>
+                    <value>Economy - overview</value>
+                    <value>Education expenditures</value>
+                    <value>Electricity access</value>
+                    <value>Electricity - consumption</value>
+                    <value>Electricity - exports</value>
+                    <value>Electricity - from fossil fuels</value>
+                    <value>Electricity - from hydroelectric plants</value>
+                    <value>Electricity - from nuclear fuels</value>
+                    <value>Electricity - from other renewable sources</value>
+                    <value>Electricity - imports</value>
+                    <value>Electricity - installed generating capacity</value>
+                    <value>Electricity - production</value>
+                    <value>Elevation</value>
+                    <value>Environment - current issues</value>
+                    <value>Environment - international agreements</value>
+                    <value>Ethnic groups</value>
+                    <value>Exchange rates</value>
+                    <value>Executive branch</value>
+                    <value>Exports</value>
+                    <value>Exports - commodities</value>
+                    <value>Exports - partners</value>
+                    <value>Fiscal year</value>
+                    <value>Flag description</value>
+                    <value>GDP - composition, by end use</value>
+                    <value>GDP - composition, by sector of origin</value>
+                    <value>GDP (official exchange rate)</value>
+                    <value>GDP - per capita (PPP)</value>
+                    <value>GDP (purchasing power parity)</value>
+                    <value>GDP - real growth rate</value>
+                    <value>Geographic coordinates</value>
+                    <value>Geography - note</value>
+                    <value>Government type</value>
+                    <value>Gross national saving</value>
+                    <value>Health expenditures</value>
+                    <value>Heliports</value>
+                    <value>HIV/AIDS - adult prevalence rate</value>
+                    <value>HIV/AIDS - deaths</value>
+                    <value>HIV/AIDS - people living with HIV/AIDS</value>
+                    <value>Hospital bed density</value>
+                    <value>Household income or consumption by percentage share</value>
+                    <value>Illicit drugs</value>
+                    <value>Imports</value>
+                    <value>Imports - commodities</value>
+                    <value>Imports - partners</value>
+                    <value>Independence</value>
+                    <value>Industrial production growth rate</value>
+                    <value>Industries</value>
+                    <value>Infant mortality rate</value>
+                    <value>Inflation rate (consumer prices)</value>
+                    <value>International law organization participation</value>
+                    <value>International organization participation</value>
+                    <value>Internet country code</value>
+                    <value>Internet users</value>
+                    <value>Irrigated land</value>
+                    <value>Judicial branch</value>
+                    <value>Labor force</value>
+                    <value>Labor force - by occupation</value>
+                    <value>Land boundaries</value>
+                    <value>Land use</value>
+                    <value>Languages</value>
+                    <value>Legal system</value>
+                    <value>Legislative branch</value>
+                    <value>Life expectancy at birth</value>
+                    <value>Literacy</value>
+                    <value>Location</value>
+                    <value>Major infectious diseases</value>
+                    <value>Major urban areas - population</value>
+                    <value>Map references</value>
+                    <value>Maritime claims</value>
+                    <value>Market value of publicly traded shares</value>
+                    <value>Maternal mortality ratio</value>
+                    <value>Median age</value>
+                    <value>Merchant marine</value>
+                    <value>Military branches</value>
+                    <value>Military expenditures</value>
+                    <value>Military - note</value>
+                    <value>Military service age and obligation</value>
+                    <value>Mother's mean age at first birth</value>
+                    <value>National air transport system</value>
+                    <value>National anthem</value>
+                    <value>National holiday</value>
+                    <value>Nationality</value>
+                    <value>National symbol(s)</value>
+                    <value>Natural gas - consumption</value>
+                    <value>Natural gas - exports</value>
+                    <value>Natural gas - imports</value>
+                    <value>Natural gas - production</value>
+                    <value>Natural gas - proved reserves</value>
+                    <value>Natural hazards</value>
+                    <value>Natural resources</value>
+                    <value>Net migration rate</value>
+                    <value>Obesity - adult prevalence rate</value>
+                    <value>People - note</value>
+                    <value>Physicians density</value>
+                    <value>Pipelines</value>
+                    <value>Political parties and leaders</value>
+                    <value>Population</value>
+                    <value>Population below poverty line</value>
+                    <value>Population - distribution</value>
+                    <value>Population distribution</value>
+                    <value>Population growth rate</value>
+                    <value>Ports and terminals</value>
+                    <value>Public debt</value>
+                    <value>Railways</value>
+                    <value>Refined petroleum products - consumption</value>
+                    <value>Refined petroleum products - exports</value>
+                    <value>Refined petroleum products - imports</value>
+                    <value>Refined petroleum products - production</value>
+                    <value>Refugees and internally displaced persons</value>
+                    <value>Religions</value>
+                    <value>Reserves of foreign exchange and gold</value>
+                    <value>Roadways</value>
+                    <value>Sanitation facility access</value>
+                    <value>School life expectancy (primary to tertiary education)</value>
+                    <value>Sex ratio</value>
+                    <value>Stock of broad money</value>
+                    <value>Stock of direct foreign investment - abroad</value>
+                    <value>Stock of direct foreign investment - at home</value>
+                    <value>Stock of domestic credit</value>
+                    <value>Stock of narrow money</value>
+                    <value>Suffrage</value>
+                    <value>Taxes and other revenues</value>
+                    <value>Telephones - fixed lines</value>
+                    <value>Telephones - mobile cellular</value>
+                    <value>Telephone system</value>
+                    <value>Terrain</value>
+                    <value>Terrorist groups - foreign based</value>
+                    <value>Terrorist groups - home based</value>
+                    <value>Total fertility rate</value>
+                    <value>Trafficking in persons</value>
+                    <value>Unemployment rate</value>
+                    <value>Unemployment, youth ages 15-24</value>
+                    <value>Urbanization</value>
+                    <value>Waterways</value>
+		</choice>
             </attribute>
 
             <zeroOrMore>
