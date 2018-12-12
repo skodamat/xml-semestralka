@@ -23,6 +23,11 @@ Validace proběhla v pořádku, pokud vypíše řádku `xml/source.xml validates
 xmllint --noout --relaxng xml/schema.rng xml/source.xml
 ```
 
+Alternativně pomocí JING (úspěšná validace nevypíše nic):
+```
+java -jar jing.jar xml/schema.rng xml/source.xml
+```
+
 ## Transformace do html
 Náhled: https://skodamat.github.io/xml-semestralka/html/
 ```
