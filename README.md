@@ -40,5 +40,5 @@ Náhled: https://skodamat.github.io/xml-semestralka/epub/
 ```
 $ cd epub
 $ java -jar /path/to/saxon9he.jar ../xml/source.xml EpubTransform.xslt
-Dále postupujte dle návodu na: https://github.com/skodamat/xml-semestralka/blob/master/epub/Vytv%C3%A1%C5%99en%C3%ADEpub-N%C3%A1vod.txt
 ```
+Dále postupujte dle návodu na: https://github.com/skodamat/xml-semestralka/blob/master/epub/Vytv%C3%A1%C5%99en%C3%ADEpub-N%C3%A1vod.txt
