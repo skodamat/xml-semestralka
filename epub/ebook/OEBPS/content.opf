@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="bookid"
+         version="2.0">
+   <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Semestrální práce</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Belohoubek</dc:creator>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="bookid">semestralka</dc:identifier>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en-US</dc:language>
+      <meta name="cover" content="cover-image"/>
+   </metadata>
+   <manifest>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="titlePage"
+            href="title.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="Brazil"
+            href="./chapters/Brazil.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="BrazilFlag"
+            href="./imgs/flags/brazil.gif"
+            media-type="image/gif"/>
+      <item id="Chile"
+            href="./chapters/Chile.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="ChileFlag" href="./imgs/flags/chile.gif" media-type="image/gif"/>
+      <item id="Cuba"
+            href="./chapters/Cuba.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="CubaFlag" href="./imgs/flags/cuba.gif" media-type="image/gif"/>
+      <item id="Egypt"
+            href="./chapters/Egypt.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="EgyptFlag" href="./imgs/flags/egypt.gif" media-type="image/gif"/>
+      <item id="Equitorial_Guinea"
+            href="./chapters/Equitorial Guinea.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="Equitorial_GuineaFlag"
+            href="./imgs/flags/equitorial_guinea.gif"
+            media-type="image/gif"/>
+      <item id="Ireland"
+            href="./chapters/Ireland.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="IrelandFlag"
+            href="./imgs/flags/ireland.gif"
+            media-type="image/gif"/>
+      <item id="Israel"
+            href="./chapters/Israel.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="IsraelFlag"
+            href="./imgs/flags/israel.gif"
+            media-type="image/gif"/>
+      <item id="Kyrgyzstan"
+            href="./chapters/Kyrgyzstan.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="KyrgyzstanFlag"
+            href="./imgs/flags/kyrgyzstan.gif"
+            media-type="image/gif"/>
+      <item id="Montserrat"
+            href="./chapters/Montserrat.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="MontserratFlag"
+            href="./imgs/flags/montserrat.gif"
+            media-type="image/gif"/>
+      <item id="Oman"
+            href="./chapters/Oman.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="OmanFlag" href="./imgs/flags/oman.gif" media-type="image/gif"/>
+      <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+      <item id="cover-image" href="./imgs/cover.png" media-type="image/png"/>
+      <item id="css" href="style.css" media-type="text/css"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="cover" linear="no"/>
+      <itemref idref="titlePage"/>
+      <itemref idref="Brazil"/>
+      <itemref idref="Chile"/>
+      <itemref idref="Cuba"/>
+      <itemref idref="Egypt"/>
+      <itemref idref="Equitorial_Guinea"/>
+      <itemref idref="Ireland"/>
+      <itemref idref="Israel"/>
+      <itemref idref="Kyrgyzstan"/>
+      <itemref idref="Montserrat"/>
+      <itemref idref="Oman"/>
+   </spine>
+   <guide>
+      <reference href="cover.xhtml" type="cover" title="Cover"/>
+      <reference href="title.xhtml" type="title-page" title="Title page"/>
+   </guide>
+</package>

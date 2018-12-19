@@ -1,0 +1,92 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.8em;
+}
+
+.contentWrapper {
+    display: grid;
+    grid-template-columns: auto auto; 
+}
+
+b {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.4em;
+    line-height: 2.4em;
+    font-weight: 400;
+    border-bottom: 1px solid;
+}
+h1.titlePage {
+    font-size: 4em;
+    line-height: 4em;
+    font-weight: 400;
+    border-bottom: 1px solid;
+}
+h2 {
+    font-size: 1.6em;
+    line-height: 2.2em;
+    font-weight: 500;
+    padding: 0 15px 0 15px;
+    border: 1px solid grey;
+}
+h2.titlePage {
+    font-size: 2.4em;
+    line-height: 2.4em;
+    font-weight: 500;
+    padding: 0 15px 0 15px;
+    border: 1px solid grey;
+}
+h3 {
+    font-size: 1.2em;
+    font-weight: 400;
+    border-bottom: 1px solid grey;
+    padding: 0 15px 0 15px;
+}
+
+p {
+    padding: 0 15px 0 15px;
+}
+
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.section {
+    margin: auto;
+    padding: 1em 20% 1em 32em;
+}
+
+.section.toc {
+    margin: auto;
+    width: 60%;
+    padding: 1em 4em 1em 4em;
+    padding: none;
+}
+
+.flag {
+    width: 200px;
+}
+
+.toc .flag {
+    max-width: 100px;
+    height: 60px;
+    margin-left: 3em;
+}
+
+.subMenuItem {
+    padding-left: 1em;
+}
+			

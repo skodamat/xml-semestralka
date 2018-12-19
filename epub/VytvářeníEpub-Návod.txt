@@ -1,0 +1,12 @@
+﻿Vytváření epub (vytvořene s pomocí tutorialu na: https://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html)
+
+Transformace předpokládá, že ji voláte ze složky xml-semestralka-master\epub
+ a že se soubor project.xml nachází ve složce xml-semestralka-master.
+
+Po provedení transformace vznikne ve složce epub složka ebook s většinou dat.
+Do této složky na adresu xml-semestralka-master\epub\ebook\OEBPS vložte celou složku imgs.
+
+Nyní je potřeba obsah složky xml-semestralka-master\epub\ebook zazipovat.
+Nejdříve je potřeba zazipovat soubor mimetype bez jakékoliv komprese!!
+Poté je třeba zazipovat do stejného souboru adresáře META-INF a OEBPS (ty už mohou být kompresované).
+Nakonec stačí přejmenovat vzniklý .zip archiv na .epub.
