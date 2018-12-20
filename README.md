@@ -1,5 +1,7 @@
 # xml-semestralka
 Semestrálni práce na BI-XML
+Náhled: https://skodamat.github.io/xml-semestralka/html/
+Prezentace: https://skodamat.github.io/xml-semestralka/prezentace/
 
 <b>Martin Scheubrein</b> - Equitorial Guinea, Kyrgyzstan - DTD + RelaxNG <br/>
 <b>Matouš Škoda</b> - Brazil, Chile - xslt pro html + css pro html<br/>
@@ -29,7 +31,6 @@ java -jar jing.jar xml/schema.rng xml/source.xml
 ```
 
 ## Transformace do html
-Náhled: https://skodamat.github.io/xml-semestralka/html/
 ```
 $ cd html
 $ java -jar /path/to/saxon9he.jar ../xml/source.xml htmlTransform.xslt
