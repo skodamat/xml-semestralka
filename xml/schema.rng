@@ -412,11 +412,11 @@
             <text/>
 
             <!-- Data nemaji vzdycky nazev, nekdy je to obecny obsah podsekce -->
-            <zeroOrMore>
+            <optional>
                 <attribute name="name">
                     <text/>
                 </attribute>
-            </zeroOrMore>
+            </optional>
 
         </element>
     </define>

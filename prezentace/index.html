@@ -24,6 +24,7 @@
     <style>
       .reveal pre code {
         font-size: 0.8em;
+	max-height: 500px;
       }
     </style>
 	</head>
@@ -33,9 +34,153 @@
 				<section>
 
 					<section>
+						<h3>Validace</h3>
+						Martin Scheubrein
+					</section>
+          
+					<section>
+						<ul>
+							<li>Validovaný XML</li>
+							<li>DTD</li>
+							<li>RelaxNG</li>
+						</ul>
+					</section>
+
+					<section>
+						Validovaný XML
+						<pre><code data-trim>
+							&lt;regions&gt;
+							    &lt;region id="brazil" name="Brazil"&gt;
+								&lt;section name="Geography"&gt;
+								    &lt;subsection name="Area"&gt;
+									&lt;data name="total"&gt;8,515,770 sq km&lt;/data&gt;
+									&lt;data name="land"&gt;8,358,140 sq km&lt;/data&gt;
+									&lt;data name="water"&gt;157,630 sq km&lt;/data&gt;
+								    &lt;/subsection&gt;
+								    &lt;subsection name="Climate"&gt;
+									&lt;data&gt;mostly tropical, but temperate in south&lt;/data&gt;
+								    &lt;/subsection&gt;
+								&lt;/section&gt;
+							    &lt;/region&gt;
+							&lt;/regions&gt;
+						</code></pre>
+					</section>
+
+					<section>
+						DTD
+						<pre><code data-trim>
+							&lt;!ELEMENT regions (region+)&gt;
+							
+							&lt;!ELEMENT region (section*)&gt;
+							&lt;!ATTLIST region id ID #REQUIRED name NMTOKENS #REQUIRED&gt;
+							
+							&lt;!ELEMENT section (subsection*)&gt;
+							&lt;!ATTLIST section name CDATA #REQUIRED&gt;
+							
+							&lt;!ELEMENT subsection (data*)&gt;
+							&lt;!ATTLIST subsection name CDATA #REQUIRED&gt;
+							
+							&lt;!ELEMENT data (#PCDATA)&gt;
+							&lt;!ATTLIST data name CDATA #IMPLIED&gt;
+						</code></pre>
+					</section>
+
+					<section>
+						RelaxNG – regulární výraz
+						<pre><code data-trim>
+							&lt;define name="Region"&gt;
+							    &lt;element name="region"&gt;
+								&lt;attribute name="id"&gt;
+								    &lt;data type="token"&gt;
+								        &lt;param name="pattern"&gt;[a-z][a-z_]*&lt;/param&gt;
+								    &lt;/data&gt;
+								&lt;/attribute&gt;
+								&lt;attribute name="name"&gt;
+								    &lt;data type="token"/&gt;
+								&lt;/attribute&gt;
+							
+								&lt;zeroOrMore&gt;
+								    &lt;ref name="Section"/&gt;
+								&lt;/zeroOrMore&gt;
+							
+							    &lt;/element&gt;
+							&lt;/define&gt;
+						</code></pre>
+					</section>
+					<section>
+						RelaxNG – group
+						<pre><code data-trim>
+							&lt;define name="Section"&gt;
+							  &lt;element name="section"&gt;
+							     &lt;choice&gt;
+							        &lt;group&gt;
+							           &lt;attribute name="name"&gt;&lt;value&gt;Communications&lt;/value&gt;&lt;/attribute&gt;
+							           &lt;zeroOrMore&gt;
+							               &lt;ref name="SubsectionCommunications"/&gt;
+							           &lt;/zeroOrMore&gt;
+							  	&lt;/group&gt;
+							        &lt;group&gt;
+							            &lt;attribute name="name"&gt;&lt;value&gt;Economy&lt;/value&gt;&lt;/attribute&gt;
+							            &lt;zeroOrMore&gt;
+							                &lt;ref name="SubsectionEconomy"/&gt;
+							            &lt;/zeroOrMore&gt;
+							  	&lt;/group&gt;
+							    &lt;/choice&gt;
+							  &lt;/element&gt;
+							&lt;/define&gt;
+						</code></pre>
+					</section>
+					<section>
+						RelaxNG – výčet podsekcí
+						<pre><code data-trim>
+							&lt;define name="SubsectionCommunications"&gt;
+							    &lt;element name="subsection"&gt;
+							        &lt;attribute name="name"&gt;
+							            &lt;choice&gt;
+							                &lt;value&gt;Telephones - fixed lines&lt;/value&gt;
+							                &lt;value&gt;Telephones - mobile cellular&lt;/value&gt;
+							                &lt;value&gt;Telephone system&lt;/value&gt;
+							                &lt;value&gt;Broadcast media&lt;/value&gt;
+							                &lt;value&gt;Internet country code&lt;/value&gt;
+							                &lt;value&gt;Internet users&lt;/value&gt;
+							                &lt;value&gt;Broadband - fixed line subscriptions&lt;/value&gt;
+							    	    &lt;/choice&gt;
+							        &lt;/attribute&gt;
+							        &lt;zeroOrMore&gt;
+							            &lt;ref name="DataNode"/&gt;
+							        &lt;/zeroOrMore&gt;
+							    &lt;/element&gt;
+							&lt;/define&gt;
+						</code></pre>
+					</section>
+					<section>
+						RelaxNG – datový uzel
+						<pre><code data-trim>
+							&lt;define name="DataNode"&gt;
+							    &lt;element name="data"&gt;
+							        &lt;text/&gt;
+							
+							        &lt;!-- Data nemaji vzdycky nazev, nekdy je to obecny obsah podsekce --&gt;
+							        &lt;optional&gt;
+							            &lt;attribute name="name"&gt;
+							                &lt;text/&gt;
+							            &lt;/attribute&gt;
+							        &lt;/optional&gt;
+							
+							    &lt;/element&gt;
+							&lt;/define&gt;
+						</code></pre>
+					</section>
+				</section>
+				<!-- Konec sekce o validaci -->
+
+
+				<section>
+
+					<section>
 						<h3>Transformace do HTML</h3>
 						Matouš Škoda
-          </section>
+					</section>
           
 					<section>
 						<ul>
@@ -44,7 +189,7 @@
 							<li>transformace pomocí Saxonu</li>
 							<li>css stylesheet</li>
 						</ul>
-          </section>
+					</section>
           
 					<section>
 						Formát zdroje:
@@ -70,7 +215,7 @@
 								name CDATA #IMPLIED&gt;
 							</code>
 						</pre>
-          </section>
+					</section>
           
 					<section>
 						<h5>Formát výstupu by měl být:</h5>
@@ -78,7 +223,7 @@
 							<li>index</li>
 							<li>html stránka pro každý region</li>
 						</ul>
-          </section>
+					</section>
           
 					<section>
             Index:
