@@ -44,3 +44,10 @@ $ cd epub
 $ java -jar /path/to/saxon9he.jar ../xml/source.xml EpubTransform.xslt
 ```
 Dále postupujte dle návodu na: https://github.com/skodamat/xml-semestralka/blob/master/epub/Vytv%C3%A1%C5%99en%C3%ADEpub-N%C3%A1vod.txt
+
+## Transformace do PDF
+
+Nástroj FOP: https://xmlgraphics.apache.org/fop/download.html
+```
+fop -xml xml/source.xml -xsl pdf/pdfTransform.xsl -pdf pdf/out.pdf
+```
