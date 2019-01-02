@@ -3,6 +3,7 @@ Semestrálni práce na BI-XML <br/>
 
 Náhled: https://skodamat.github.io/xml-semestralka/html/ <br/>
 Prezentace: https://skodamat.github.io/xml-semestralka/prezentace/ <br/>
+PDF: https://skodamat.github.io/xml-semestralka/pdf/out.pdf <br/>
 
 <b>Martin Scheubrein</b> - Equitorial Guinea, Kyrgyzstan - DTD + RelaxNG <br/>
 <b>Matouš Škoda</b> - Brazil, Chile - xslt pro html + css pro html<br/>
