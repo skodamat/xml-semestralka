@@ -37,20 +37,18 @@
 					</section>
 					<section> Původní data <img src="cia-structure.png"> </section>
 					<section> Javascript parser
-						<pre>
-						<code data-trim>
-						    var string = '';
-						    $('[sectiontitle]').each(function () {
-							string += '&lt;section&gt;';
-							$(this).closest('li').next().children().each(function () {
-							    string += '&lt;subsection&gt;';
-							    ...
-							    string += '&lt;/subsection&gt;';
-							});                            
-							string += '&lt;/section&gt;';
-						    });
-						</code>
-					    	</pre> 
+						<pre><code data-trim>
+var string = '';
+$('[sectiontitle]').each(function () {
+    string += '&lt;section&gt;';
+    $(this).closest('li').next().children().each(function () {
+        string += '&lt;subsection&gt;';
+        ...
+        string += '&lt;/subsection&gt;';
+    });
+    string += '&lt;/section&gt;';
+});
+                        </code></pre>
 					</section>
 					<section> Výsledná struktura 
 						<pre>
