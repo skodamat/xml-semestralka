@@ -443,6 +443,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
                         &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&lt;/meta&gt;
                         &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;screen&quot; href=&quot;../style.css&quot;&gt;&lt;/link&gt;
                       &lt;/head&gt;
+                      ...
               </code>
             </pre>
           </section>
@@ -451,6 +452,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
             Pro každý region:
             <pre>
               <code data-trim>
+                ...
                 &lt;body&gt;
                   &lt;div&gt;&lt;a href='#top' class='homeArrow'&gt;&lt;/a&gt;&lt;/div&gt;
                   &lt;div class='contentWrapper'&gt;
@@ -460,6 +462,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
                         &lt;xsl:apply-templates select='section' mode='menu'&gt;&lt;/xsl:apply-templates&gt;
                       &lt;/ul&gt;
                     &lt;/div&gt;
+                    ...
               </code>
             </pre>
           </section>
@@ -489,6 +492,31 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
               </code>
             </pre>
           </section>
+
+          <section>
+              Obsah:
+              <pre>
+                <code data-trim>
+                            ...
+                            &lt;div class='content'&gt;   
+                              &lt;section class='header' id='top'&gt;
+                                &lt;h1&gt;
+                                  &lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;
+                                &lt;/h1&gt;
+                                &lt;img class='flag' src='../../imgs/flags/{@id}.gif'&gt;&lt;/img&gt;
+                              &lt;/section&gt;
+                              &lt;xsl:apply-templates select='section' mode='content'&gt;
+                              &lt;/xsl:apply-templates&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                          &lt;script src='../script.js'&gt;&lt;/script&gt;
+                        &lt;/body&gt;
+                      &lt;/html&gt;
+                    &lt;/xsl:result-document&gt;
+                  &lt;/xsl:template&gt;
+                </code>
+              </pre>
+            </section>
 
           <section>
             Obsah:
