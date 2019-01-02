@@ -69,121 +69,8 @@ $('[sectiontitle]').each(function () {
 					</section>
 				</section>
 				
-			<section>
-			<section>
-    <h3>Transformace do PDF</h3>
-    Tomáš Pospíšil
-</section>
 
-<section>
-    <u1>
-        <li>xml zdroj</li>
-        <li>xsl stylesheet</li>
-        <li>transformace pomocí Apache-FOP</li>
-    </u1>
-</section>
-
-<section>
-    Apache FOP:
-        <u1>
-       	    <li><img src="apachefop.png">
-            <li>dostanupný na https://xmlgraphics.apache.org/fop/download.html </li>
-            <li>fop 2.3</li>
-        </u1>
-</section>
-
-<section>
-    XML zdoj
-    <pre>
-        <code data-trim>
-            &lt;regions&gt;
-                &lt;region id="egypt" name="Egypt"&gt;
-                    &lt;section name="Geography"&gt;
-                        &lt;subsection name="Location"&gt;
-                            &lt;data&gt; Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula&lt;/data&gt;
-                        &lt;/subsection&gt;
-                        &lt;subsection name="Area"&gt;
-                            &lt;data name="total"&gt;1,001,450 sq km&lt;/data&gt;
-                            &lt;data name="land"&gt;995,450 sq km&lt;/data&gt;
-                            &lt;data name="water"&gt;6,000 sq km&lt;/data&gt;
-                            &lt;data name="country comparison to the world"&gt;31&lf;/data&gt;
-                        &lt;/subsection&gt;
-                    &lt;/section&gt;
-                &lt;/region&gt;
-            &lt;/regions&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    XSL stylesheet
-    <pre>
-        <code data-trim>
-            &lt;<xsl:stylesheet version="1.0"
-      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
-        
-&lt;xsl:template match="/"&gt;
-    &lt;fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
-        &lt;fo:layout-master-set&gt;
-            &lt;fo:simple-page-master master-name="my-page"
-                                       page-height="297mm"
-                                       page-width="210mm"
-                                       margin="2cm"&gt;
-                &lt;fo:region-body margin-bottom="10mm"&gt;
-            &lt;/fo:simple-page-master&gt;
-        &lt;/fo:layout-master-set&gt;
-    &lt;fo:page-sequence master-reference="my-page"&gt;
-        &lt;fo:static-content flow-name="xsl-region-after"&gt;            
-            &lt;fo:block text-align="right"&gt;
-                &lt;fo:page-number/&gt;            
-            &lt;/fo:block&gt;
-        &lt;/fo:static-content&gt;
-        &lt;fo:flow flow-name="xsl-region-body"&gt;
-            &lt;xsl:call-template name="main_page"/&gt;
-            &lt;xsl:call-template name="table_of_contents"/&gt;
-            &lt;xsl:apply-templates/&gt;
-        &lt;/fo:flow&gt;
-    &lt;/fo:page-sequence&gt;
-    &lt;/fo:root&gt;
-&lt;/xsl:template&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    XML stylesheet 2
-    <pre>
-        <code data-trim>
-&lt;xsl:template match="region"&gt;
-    &lt;fo:block break-after="page" id="{generate-id(.)}"&gt;
-        &lt;fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#191fd9"&gt;
-            &lt;xsl:value-of select="count(preceding::region) + 1"/&gt;
-            &lt;xsl:text&gt;. &lt;/xsl:text &gt;
-            &lt;xsl:value-of select="@name"/&gt;
-        &lt;/fo:block&gt;
-        &lt;xsl:apply-templates select="section"/&gt;
-    &lt;/fo:block&gt;
-&lt;/xsl:template&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    generování pdf
-     <pre>
-        <code data-trim>
-            fop -xml xml/source.xml -xsl pdf/pdfTransform.xsl -pdf pdf/out.pdf
-        </code>
-    </pre>
-</section>
-
-
-
-	
-			</section>
-				
-				
+				<!-- Začátek sekce o validaci -->
 				<section>
 
 					<section>
@@ -328,6 +215,125 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
 				<!-- Konec sekce o validaci -->
 
 
+
+
+
+
+			<section>
+			<section>
+    <h3>Transformace do PDF</h3>
+    Tomáš Pospíšil
+</section>
+
+<section>
+    <u1>
+        <li>xml zdroj</li>
+        <li>xsl stylesheet</li>
+        <li>transformace pomocí Apache-FOP</li>
+    </u1>
+</section>
+
+<section>
+    Apache FOP:
+        <u1>
+       	    <li><img src="apachefop.png">
+            <li>dostanupný na https://xmlgraphics.apache.org/fop/download.html </li>
+            <li>fop 2.3</li>
+        </u1>
+</section>
+
+<section>
+    XML zdoj
+    <pre>
+        <code data-trim>
+            &lt;regions&gt;
+                &lt;region id="egypt" name="Egypt"&gt;
+                    &lt;section name="Geography"&gt;
+                        &lt;subsection name="Location"&gt;
+                            &lt;data&gt; Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula&lt;/data&gt;
+                        &lt;/subsection&gt;
+                        &lt;subsection name="Area"&gt;
+                            &lt;data name="total"&gt;1,001,450 sq km&lt;/data&gt;
+                            &lt;data name="land"&gt;995,450 sq km&lt;/data&gt;
+                            &lt;data name="water"&gt;6,000 sq km&lt;/data&gt;
+                            &lt;data name="country comparison to the world"&gt;31&lf;/data&gt;
+                        &lt;/subsection&gt;
+                    &lt;/section&gt;
+                &lt;/region&gt;
+            &lt;/regions&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    XSL stylesheet
+    <pre>
+        <code data-trim>
+            &lt;<xsl:stylesheet version="1.0"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
+        
+&lt;xsl:template match="/"&gt;
+    &lt;fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
+        &lt;fo:layout-master-set&gt;
+            &lt;fo:simple-page-master master-name="my-page"
+                                       page-height="297mm"
+                                       page-width="210mm"
+                                       margin="2cm"&gt;
+                &lt;fo:region-body margin-bottom="10mm"&gt;
+            &lt;/fo:simple-page-master&gt;
+        &lt;/fo:layout-master-set&gt;
+    &lt;fo:page-sequence master-reference="my-page"&gt;
+        &lt;fo:static-content flow-name="xsl-region-after"&gt;            
+            &lt;fo:block text-align="right"&gt;
+                &lt;fo:page-number/&gt;            
+            &lt;/fo:block&gt;
+        &lt;/fo:static-content&gt;
+        &lt;fo:flow flow-name="xsl-region-body"&gt;
+            &lt;xsl:call-template name="main_page"/&gt;
+            &lt;xsl:call-template name="table_of_contents"/&gt;
+            &lt;xsl:apply-templates/&gt;
+        &lt;/fo:flow&gt;
+    &lt;/fo:page-sequence&gt;
+    &lt;/fo:root&gt;
+&lt;/xsl:template&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    XML stylesheet 2
+    <pre>
+        <code data-trim>
+&lt;xsl:template match="region"&gt;
+    &lt;fo:block break-after="page" id="{generate-id(.)}"&gt;
+        &lt;fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#191fd9"&gt;
+            &lt;xsl:value-of select="count(preceding::region) + 1"/&gt;
+            &lt;xsl:text&gt;. &lt;/xsl:text &gt;
+            &lt;xsl:value-of select="@name"/&gt;
+        &lt;/fo:block&gt;
+        &lt;xsl:apply-templates select="section"/&gt;
+    &lt;/fo:block&gt;
+&lt;/xsl:template&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    generování pdf
+     <pre>
+        <code data-trim>
+            fop -xml xml/source.xml -xsl pdf/pdfTransform.xsl -pdf pdf/out.pdf
+        </code>
+    </pre>
+</section>
+
+
+
+	
+			</section>
+				
+				
 				<section>
 
 					<section>
