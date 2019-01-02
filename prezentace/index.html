@@ -30,7 +30,47 @@
 	</head>
 	<body>
 		<div class="reveal">
-			<div class="slides">
+			<div class="slides">				
+				<section>
+					<section>
+					    <h3>Parser</h3> Matyáš Procházka
+					</section>
+					<section> Původní data <img src="cia-structure.png"> </section>
+					<section> Javascript parser
+						<pre>
+						<code data-trim>
+						    var string = '';
+						    $('[sectiontitle]').each(function () {
+							string += '&lt;section&gt;';
+							$(this).closest('li').next().children().each(function () {
+							    string += '&lt;subsection&gt;';
+							    ...
+							    string += '&lt;/subsection&gt;';
+							});                            
+							string += '&lt;/section&gt;';
+						    });
+						</code>
+					    	</pre> 
+					</section>
+					<section> Výsledná struktura 
+						<pre>
+					    	<code data-trim>
+							&lt;region name='Region name'&gt;
+							    &lt;section name='Section name'&gt;
+								&lt;subsection name='Subsection name'&gt;
+								    &lt;data&gt;Blah blah blah&lt;/data&gt;
+								    &lt;data name='Data name'&gt;Blah...&lt;/data&gt;
+								    ...
+								&lt;/subsection&gt;
+								...
+							    &lt;/section&gt;
+							    ...
+							&lt;/region&gt;
+					    	</code>
+					    	</pre>
+					</section>
+				</section>
+				
 				<section>
 
 					<section>
