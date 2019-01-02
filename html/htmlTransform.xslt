@@ -117,6 +117,5 @@
                 <p><xsl:value-of select='.'></xsl:value-of></p>
             </xsl:otherwise>
         </xsl:choose>
-        
     </xsl:template>
 </xsl:stylesheet>

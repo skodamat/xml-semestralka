@@ -392,10 +392,10 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
                       &lt;/head&gt;
                       &lt;body&gt;
                         &lt;section class='index'&gt;
-                        &lt;h1&gt;Region wiki index&lt;/h1&gt;
-                        &lt;ul&gt;
-                          &lt;xsl:apply-templates select='regions/region' mode='index'/&gt;
-                        &lt;/ul&gt;
+                          &lt;h1&gt;Region wiki index&lt;/h1&gt;
+                          &lt;ul&gt;
+                            &lt;xsl:apply-templates select='regions/region' mode='index'/&gt;
+                          &lt;/ul&gt;
                         &lt;/section&gt;
                       &lt;/body&gt;
                     &lt;/html&gt;
@@ -427,16 +427,16 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
               <code data-trim>
                 &lt;xsl:template match='region' mode='file'&gt;
                   &lt;xsl:result-document href='sites/{@name}.html'&gt;
-                  &lt;html&gt;
-                    &lt;head&gt;
-                      &lt;meta charset=&quot;utf-8&quot;&gt;&lt;/meta&gt;
-                      &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;/meta&gt;
-                      &lt;title&gt;
-                        &lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;
-                      &lt;/title&gt;
-                      &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&lt;/meta&gt;
-                      &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;screen&quot; href=&quot;../style.css&quot;&gt;&lt;/link&gt;
-                    &lt;/head&gt;
+                    &lt;html&gt;
+                      &lt;head&gt;
+                        &lt;meta charset=&quot;utf-8&quot;&gt;&lt;/meta&gt;
+                        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&lt;/meta&gt;
+                        &lt;title&gt;
+                          &lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;
+                        &lt;/title&gt;
+                        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&lt;/meta&gt;
+                        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;screen&quot; href=&quot;../style.css&quot;&gt;&lt;/link&gt;
+                      &lt;/head&gt;
               </code>
             </pre>
           </section>
@@ -485,9 +485,55 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
           </section>
 
           <section>
+            Obsah:
             <pre>
               <code data-trim>
+                &lt;xsl:template match='section' mode='content'&gt;
+                  &lt;section id='{@name}'&gt;
+                    &lt;h2&gt;
+                      &lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;
+                    &lt;/h2&gt;
+                    &lt;xsl:apply-templates select='subsection' mode='content'&gt;&lt;/xsl:apply-templates&gt;
+                  &lt;/section&gt;
+                &lt;/xsl:template&gt;
+              </code>
+            </pre>
+          </section>
 
+          <section>
+            Obsah:
+            <pre>
+              <code data-trim>
+                &lt;xsl:template match='subsection' mode='content'&gt;
+                  &lt;div id='{@name}'&gt;
+                    &lt;h3&gt;
+                      &lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;
+                    &lt;/h3&gt;
+                    &lt;xsl:apply-templates select='data' mode='content'&gt;&lt;/xsl:apply-templates&gt;
+                  &lt;/div&gt;
+                &lt;/xsl:template&gt;
+              </code>
+            </pre>
+          </section>
+
+          <section>
+            Obsah:
+            <pre>
+              <code data-trim>
+                &lt;xsl:template match='data' mode='content'&gt;
+                  &lt;xsl:choose&gt;
+                    &lt;xsl:when test=&quot;@name&quot;&gt;
+                      &lt;p&gt;
+                        &lt;b&gt;&lt;xsl:value-of select='@name'&gt;&lt;/xsl:value-of&gt;&lt;/b&gt;
+                        &lt;xsl:text&gt;: &lt;/xsl:text&gt;
+                        &lt;xsl:value-of select='.'&gt;&lt;/xsl:value-of&gt;
+                      &lt;/p&gt;
+                    &lt;/xsl:when&gt;
+                    &lt;xsl:otherwise&gt;
+                      &lt;p&gt;&lt;xsl:value-of select='.'&gt;&lt;/xsl:value-of&gt;&lt;/p&gt;
+                    &lt;/xsl:otherwise&gt;
+                  &lt;/xsl:choose&gt;
+              &lt;/xsl:template&gt;
               </code>
             </pre>
           </section>
