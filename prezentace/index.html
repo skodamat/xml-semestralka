@@ -69,121 +69,8 @@ $('[sectiontitle]').each(function () {
 					</section>
 				</section>
 				
-			<section>
-			<section>
-    <h3>Transformace do PDF</h3>
-    Tomáš Pospíšil
-</section>
 
-<section>
-    <u1>
-        <li>xml zdroj</li>
-        <li>xsl stylesheet</li>
-        <li>transformace pomocí Apache-FOP</li>
-    </u1>
-</section>
-
-<section>
-    Apache FOP:
-        <img src="apachefop.png">
-        <u1>
-            <li>dostanupný na https://xmlgraphics.apache.org/fop/download.html </li>
-            <li>fop 2.3</li>
-        </u1>
-</section>
-
-<section>
-    XML zdoj
-    <pre>
-        <code data-trim>
-            &lt;regions&gt;
-                &lt;region id="egypt" name="Egypt"&gt;
-                    &lt;section name="Geography"&gt;
-                        &lt;subsection name="Location"&gt;
-                            &lt;data&gt; Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula&lt;/data&gt;
-                        &lt;/subsection&gt;
-                        &lt;subsection name="Area"&gt;
-                            &lt;data name="total"&gt;1,001,450 sq km&lt;/data&gt;
-                            &lt;data name="land"&gt;995,450 sq km&lt;/data&gt;
-                            &lt;data name="water"&gt;6,000 sq km&lt;/data&gt;
-                            &lt;data name="country comparison to the world"&gt;31&lf;/data&gt;
-                        &lt;/subsection&gt;
-                    &lt;/section&gt;
-                &lt;/region&gt;
-            &lt;/regions&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    XSL stylesheet
-    <pre>
-        <code data-trim>
-            &lt;<xsl:stylesheet version="1.0"
-      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
-        
-&lt;xsl:template match="/"&gt;
-    &lt;fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
-        &lt;fo:layout-master-set&gt;
-            &lt;fo:simple-page-master master-name="my-page"
-                                       page-height="297mm"
-                                       page-width="210mm"
-                                       margin="2cm"&gt;
-                &lt;fo:region-body margin-bottom="10mm"&gt;
-            &lt;/fo:simple-page-master&gt;
-        &lt;/fo:layout-master-set&gt;
-    &lt;fo:page-sequence master-reference="my-page"&gt;
-        &lt;fo:static-content flow-name="xsl-region-after"&gt;            
-            &lt;fo:block text-align="right"&gt;
-                &lt;fo:page-number/&gt;            
-            &lt;/fo:block&gt;
-        &lt;/fo:static-content&gt;
-        &lt;fo:flow flow-name="xsl-region-body"&gt;
-            &lt;xsl:call-template name="main_page"/&gt;
-            &lt;xsl:call-template name="table_of_contents"/&gt;
-            &lt;xsl:apply-templates/&gt;
-        &lt;/fo:flow&gt;
-    &lt;/fo:page-sequence&gt;
-    &lt;/fo:root&gt;
-&lt;/xsl:template&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    XML stylesheet 2
-    <pre>
-        <code data-trim>
-&lt;xsl:template match="region"&gt;
-    &lt;fo:block break-after="page" id="{generate-id(.)}"&gt;
-        &lt;fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#191fd9"&gt;
-            &lt;xsl:value-of select="count(preceding::region) + 1" /&gt;
-            &lt;<xsl:text>. </xsl:text>&gt;
-            &lt;<xsl:value-of select="@name" />&gt;
-        &lt;</fo:block>&gt;
-        &lt;<xsl:apply-templates select="section"/>&gt;
-    &lt;</fo:block>&gt;
-&lt;</xsl:template>&gt;
-        </code>
-    </pre>
-</section>
-
-<section>
-    generování pdf
-     <pre>
-        <code data-trim>
-            fop -xml xml/source.xml -xsl pdf/pdfTransform.xsl -pdf pdf/out.pdf
-        </code>
-    </pre>
-</section>
-
-
-
-	
-			</section>
-				
-				
+				<!-- Začátek sekce o validaci -->
 				<section>
 
 					<section>
@@ -328,6 +215,125 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
 				<!-- Konec sekce o validaci -->
 
 
+
+
+
+
+			<section>
+			<section>
+    <h3>Transformace do PDF</h3>
+    Tomáš Pospíšil
+</section>
+
+<section>
+    <u1>
+        <li>xml zdroj</li>
+        <li>xsl stylesheet</li>
+        <li>transformace pomocí Apache-FOP</li>
+    </u1>
+</section>
+
+<section>
+    Apache FOP:
+        <u1>
+       	    <li><img src="apachefop.png">
+            <li>dostanupný na https://xmlgraphics.apache.org/fop/download.html </li>
+            <li>fop 2.3</li>
+        </u1>
+</section>
+
+<section>
+    XML zdoj
+    <pre>
+        <code data-trim>
+            &lt;regions&gt;
+                &lt;region id="egypt" name="Egypt"&gt;
+                    &lt;section name="Geography"&gt;
+                        &lt;subsection name="Location"&gt;
+                            &lt;data&gt; Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula&lt;/data&gt;
+                        &lt;/subsection&gt;
+                        &lt;subsection name="Area"&gt;
+                            &lt;data name="total"&gt;1,001,450 sq km&lt;/data&gt;
+                            &lt;data name="land"&gt;995,450 sq km&lt;/data&gt;
+                            &lt;data name="water"&gt;6,000 sq km&lt;/data&gt;
+                            &lt;data name="country comparison to the world"&gt;31&lf;/data&gt;
+                        &lt;/subsection&gt;
+                    &lt;/section&gt;
+                &lt;/region&gt;
+            &lt;/regions&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    XSL stylesheet
+    <pre>
+        <code data-trim>
+            &lt;<xsl:stylesheet version="1.0"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
+        
+&lt;xsl:template match="/"&gt;
+    &lt;fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
+        &lt;fo:layout-master-set&gt;
+            &lt;fo:simple-page-master master-name="my-page"
+                                       page-height="297mm"
+                                       page-width="210mm"
+                                       margin="2cm"&gt;
+                &lt;fo:region-body margin-bottom="10mm"&gt;
+            &lt;/fo:simple-page-master&gt;
+        &lt;/fo:layout-master-set&gt;
+    &lt;fo:page-sequence master-reference="my-page"&gt;
+        &lt;fo:static-content flow-name="xsl-region-after"&gt;            
+            &lt;fo:block text-align="right"&gt;
+                &lt;fo:page-number/&gt;            
+            &lt;/fo:block&gt;
+        &lt;/fo:static-content&gt;
+        &lt;fo:flow flow-name="xsl-region-body"&gt;
+            &lt;xsl:call-template name="main_page"/&gt;
+            &lt;xsl:call-template name="table_of_contents"/&gt;
+            &lt;xsl:apply-templates/&gt;
+        &lt;/fo:flow&gt;
+    &lt;/fo:page-sequence&gt;
+    &lt;/fo:root&gt;
+&lt;/xsl:template&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    XML stylesheet 2
+    <pre>
+        <code data-trim>
+&lt;xsl:template match="region"&gt;
+    &lt;fo:block break-after="page" id="{generate-id(.)}"&gt;
+        &lt;fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#191fd9"&gt;
+            &lt;xsl:value-of select="count(preceding::region) + 1"/&gt;
+            &lt;xsl:text&gt;. &lt;/xsl:text &gt;
+            &lt;xsl:value-of select="@name"/&gt;
+        &lt;/fo:block&gt;
+        &lt;xsl:apply-templates select="section"/&gt;
+    &lt;/fo:block&gt;
+&lt;/xsl:template&gt;
+        </code>
+    </pre>
+</section>
+
+<section>
+    generování pdf
+     <pre>
+        <code data-trim>
+            fop -xml xml/source.xml -xsl pdf/pdfTransform.xsl -pdf pdf/out.pdf
+        </code>
+    </pre>
+</section>
+
+
+
+	
+			</section>
+				
+				
 				<section>
 
 					<section>
@@ -540,10 +546,203 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
 
         </section>
         
+		<!--EPUB - Marek Bělohoubek-->
 				<section>
-          <section>
-            další prezentace
-          </section>
+					<section>
+						<h3>EPUB</h3>
+						Marek Bělohoubek
+					</section>
+					<section>
+						<h4>EPUB</h4>
+						<ul>
+							<li>.zip</li>
+							<li>XHTML v1.0</li>
+							<li>CSS v2</li>
+						</ul>
+					</section>
+					<section>
+						<h4>Transformace</h4>
+						<ul>
+							<li>7 různých módů</li>
+							<li>kompletní souborová stuktura</li>
+							<li>2 vstupní dokumenty</li>
+						</ul>
+					</section>
+					<section>
+						<h4>Struktura</h4>
+						<ul>
+							<li>mimetype</li>
+							<li>container.xml</li>
+							<li>content.opf</li>
+							<li>toc.ncx</li>
+							<li>css</li>
+							<li>obálka</li>
+							<li>titulní strana</li>
+							<li>kapitoly (regiony)</li>
+						</ul>
+					</section>
+					<section>
+						<h4>Mimetype</h4>
+						<ul>
+							<li>jedinný řádek</li>
+							<li>určuje typ dokumentu</li>
+						</ul>
+					</section>
+					<section>
+						Mimetype:
+						<pre>
+							<code data-trim>
+								&lt;xsl:template match='/' mode="mimetype"&gt;	
+									&lt;xsl:result-document href='ebook/mimetype' method="text"&gt;
+										application/epub+zip
+									&lt;/xsl:result-document&gt;
+								&lt;/xsl:template&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						<h4>Container</h4>
+						<ul>
+							<li>META-INF</li>
+							<li>relativní cesta k content.opf</li>
+						</ul>
+					</section>
+					<section>
+						Container:
+						<pre>
+							<code data-trim>
+								&lt;container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"&gt;
+									&lt;rootfiles&gt;
+										&lt;rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml" /&gt;
+									&lt;/rootfiles&gt;
+								&lt;/container&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						<h4>Content.opf</h4>
+						<ul>
+							<li>metadata</li>
+							<li>manifest</li>
+							<li>spine</li>
+							<li>guide</li>
+						</ul>
+					</section>
+					<section>
+						Content.opf (Metadata):
+						<pre>
+							<code data-trim>								
+								&lt;metadata&gt;
+									&lt;dc:title&gt;Semestrální práce&lt;/dc:title&gt;
+									&lt;dc:creator&gt;Belohoubek&lt;/dc:creator&gt;
+									&lt;dc:identifier id="bookid"&gt;semestralka&lt;/dc:identifier&gt;
+									&lt;dc:language&gt;en-US&lt;/dc:language&gt;
+									&lt;meta name="cover" content="cover-image" /&gt;
+								&lt;/metadata&gt;										
+							</code>
+						</pre>
+					</section>
+					<section>
+						Content.opf (Manifest):
+						<pre>
+							<code data-trim>
+								&lt;manifest&gt;
+									&lt;item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/&gt;
+									&lt;item id="titlePage" href="title.xhtml" media-type="application/xhtml+xml"/&gt;
+									&lt;xsl:apply-templates select='regions/region' mode='manifest'/&gt;
+									&lt;item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/&gt;
+									&lt;item id="cover-image" href="./imgs/cover.png" media-type="image/png"/&gt;
+									&lt;item id="css" href="style.css" media-type="text/css"/&gt;
+								&lt;/manifest&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						Content.opf (Spine):
+						<pre>
+							<code data-trim>								
+								&lt;spine toc="ncx"&gt;
+									&lt;itemref idref="cover" linear="no"/&gt;
+									&lt;itemref idref="titlePage" /&gt;
+									&lt;xsl:apply-templates select='regions/region' mode='spine'/&gt;	
+								&lt;/spine&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						Content.opf (Guide):
+						<pre>
+							<code data-trim>
+								&lt;guide&gt;			
+									&lt;reference href="cover.xhtml" type="cover" title="Cover"/&gt;
+									&lt;reference href="title.xhtml" type="title-page" title="Title page"/&gt;
+								&lt;/guide&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						<h4>Table of contents (toc.ncx)</h4>
+						<ul>
+							<li>navMap</li>
+							<li>navPoint</li>
+							<li>playOrder</li>
+						</ul>
+					</section>
+					<section>
+						Table of contents (toc.ncx):
+						<pre>
+							<code data-trim>								
+								&lt;navMap&gt;
+									&lt;navPoint id="navpoint-1" playOrder="1"&gt;
+										&lt;navLabel&gt;
+											&lt;text&gt;Book cover&lt;/text&gt;
+										&lt;/navLabel&gt;
+										&lt;content src="cover.xhtml"/&gt;
+									&lt;/navPoint&gt;
+									&lt;navPoint id="navpoint-2" playOrder="2"&gt;
+										&lt;navLabel&gt;
+											&lt;text&gt;Title page&lt;/text&gt;
+										&lt;/navLabel&gt;
+										&lt;content src="title.xhtml"/&gt;
+									&lt;/navPoint&gt;
+									&lt;xsl:apply-templates select='regions/region' mode='toc'/&gt;
+								&lt;/navMap&gt;
+							</code>
+						</pre>
+					</section>
+					<section>
+						<h4>Sestavení EPUB</h4>
+						<ul>
+							<li>Transformace</li>
+							<li>Obrázky</li>
+							<li>Zazipování</li>
+							<li>Přejmenování</li>
+						</ul>
+					</section>					
+					<section>
+						Titulní strana:
+						<pre>
+							<code data-trim>
+								&lt;!--Načtení druhého vstupního souboru a uložení do globální proměnné--&gt;
+								&lt;xsl:variable name="project" select="document('../project.xml')/semestralka:project"/&gt;
+							</code>
+							
+							<code data-trim>
+								&lt;!--Načtení jmen jednotlivých členů z globální proměnné--&gt;
+								&lt;div&gt;
+									&lt;h1 class="titlePage"&gt;BI-XML&lt;/h1&gt;
+									&lt;h2 class="titlePage"&gt;Semestrální práce&lt;/h2&gt;
+									&lt;p&gt;&lt;b&gt;Jméno týmu: &lt;/b&gt;&lt;xsl:value-of select="$project/team/name"/&gt;&lt;/p&gt;
+									&lt;p&gt;&lt;b&gt;Členové týmu:&lt;/b&gt;&lt;/p&gt;
+									&lt;ul&gt;
+										&lt;xsl:apply-templates select="$project/team/contacts/*"/&gt;
+									&lt;/ul&gt;
+									&lt;p&gt;&lt;b&gt;Github: &lt;/b&gt;&lt;xsl:value-of select="$project/github"/&gt;&lt;/p&gt;
+								&lt;/div&gt;
+							</code>
+						</pre>
+					</section>
+				</section>
         </section>
         
 			</div>
