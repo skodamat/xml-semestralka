@@ -348,24 +348,20 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
 						Formát zdroje:
 						<pre>
 							<code data-trim>
-								&lt;!ELEMENT regions (region+)&gt;
-								
-								&lt;!ELEMENT region (section*)&gt;
-								&lt;!ATTLIST region
-								id ID #REQUIRED
-								name NMTOKENS #REQUIRED&gt;
-								
-								&lt;!ELEMENT section (subsection*)&gt;
-								&lt;!ATTLIST section
-								name CDATA #REQUIRED&gt;
-								
-								&lt;!ELEMENT subsection (data*)&gt;
-								&lt;!ATTLIST subsection
-								name CDATA #REQUIRED&gt;
-								
-								&lt;!ELEMENT data (#PCDATA)&gt;
-								&lt;!ATTLIST data
-								name CDATA #IMPLIED&gt;
+								&lt;regions&gt;
+									&lt;region id="brazil" name="Brazil"&gt;
+									&lt;section name="Geography"&gt;
+										&lt;subsection name="Area"&gt;
+										&lt;data name="total"&gt;8,515,770 sq km&lt;/data&gt;
+										&lt;data name="land"&gt;8,358,140 sq km&lt;/data&gt;
+										&lt;data name="water"&gt;157,630 sq km&lt;/data&gt;
+										&lt;/subsection&gt;
+										&lt;subsection name="Climate"&gt;
+										&lt;data&gt;mostly tropical, but temperate in south&lt;/data&gt;
+										&lt;/subsection&gt;
+									&lt;/section&gt;
+									&lt;/region&gt;
+								&lt;/regions&gt;
 							</code>
 						</pre>
 					</section>
