@@ -159,7 +159,7 @@ xmlns:fo="http://www.w3.org/1999/XSL/Format">&gt;
     &lt;fo:block break-after="page" id="{generate-id(.)}"&gt;
         &lt;fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#191fd9"&gt;
             &lt;xsl:value-of select="count(preceding::region) + 1"/&gt;
-            &lt;xsl:text>. </xsl:text&gt;
+            &lt;xsl:text&gt;. &lt;/xsl:text &gt;
             &lt;xsl:value-of select="@name"/&gt;
         &lt;/fo:block&gt;
         &lt;xsl:apply-templates select="section"/&gt;
