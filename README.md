@@ -39,7 +39,7 @@ $ java -jar /path/to/saxon9he.jar ../xml/source.xml htmlTransform.xslt
 ```
 
 ## Vytváření epub
-Náhled: https://skodamat.github.io/xml-semestralka/epub/
+Náhled: https://github.com/skodamat/xml-semestralka/tree/master/epub
 ```
 $ cd epub
 $ java -jar /path/to/saxon9he.jar ../xml/source.xml EpubTransform.xslt
